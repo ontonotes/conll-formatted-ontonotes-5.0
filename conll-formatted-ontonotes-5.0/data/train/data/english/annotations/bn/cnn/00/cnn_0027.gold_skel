@@ -1,0 +1,71 @@
+#begin document (bn/cnn/00/cnn_0027); part 000
+bn/cnn/00/cnn_0027   0    0    [WORD]   NNS   (TOP(S(NP(NP(NP(NP*          analyst   -   1   -        *      *      (ARG0*               *       -
+bn/cnn/00/cnn_0027   0    1    [WORD]   POS                     *))             -    -   -   -        *      *           *               *       -
+bn/cnn/00/cnn_0027   0    2    [WORD]   NNS                     *)              -    -   -   -        *      *           *               *       -
+bn/cnn/00/cnn_0027   0    3    [WORD]    IN                  (PP*               -    -   -   -        *      *           *               *       -
+bn/cnn/00/cnn_0027   0    4    [WORD]    DT                  (NP*               -    -   -   -        *      *           *               *       -
+bn/cnn/00/cnn_0027   0    5    [WORD]    NN                     *               -    -   -   -        *      *           *               *       -
+bn/cnn/00/cnn_0027   0    6    [WORD]    NN                     *)))        sector   -   2   -        *      *           *)              *       -
+bn/cnn/00/cnn_0027   0    7    [WORD]   VBP                  (VP*             have  01   -   -        *    (V*)          *               *       -
+bn/cnn/00/cnn_0027   0    8    [WORD]   VBN                  (VP*             send  02   3   -        *      *         (V*)              *      (1)
+bn/cnn/00/cnn_0027   0    9    [WORD]    NN                  (NP*               -    -   -   -        *      *      (ARG1*          (ARG1*       -
+bn/cnn/00/cnn_0027   0   10    [WORD]   NNS                     *)           stock   -   1   -        *      *           *)              *)      -
+bn/cnn/00/cnn_0027   0   11    [WORD]   VBG                (S(VP*           plunge  01   2   -        *      *      (ARG2*             (V*)      -
+bn/cnn/00/cnn_0027   0   12    [WORD]    NN                  (NP*)))))       today   -   2   -    (DATE)     *           *)     (ARGM-TMP*)      -
+bn/cnn/00/cnn_0027   0   13    [WORD]     .                     *))             -    -   -   -        *      *           *               *       -
+
+bn/cnn/00/cnn_0027   0    0    [WORD]     DT   (TOP(S(NP*)                 -    -   -   -       *      *          (ARG0*)          *      (1)
+bn/cnn/00/cnn_0027   0    1    [WORD]    VBZ         (VP*                  be  03   -   -       *    (V*)              *           *       -
+bn/cnn/00/cnn_0027   0    2    [WORD]     RB            *                  -    -   -   -       *      *      (ARGM-NEG*)          *       -
+bn/cnn/00/cnn_0027   0    3    [WORD]    VBG         (VP*                keep  04   4   -       *      *             (V*)          *       -
+bn/cnn/00/cnn_0027   0    4    [WORD]    NNP         (NP*)                 -    -   -   -    (ORG)     *          (ARG1*)     (ARG0*)     (0)
+bn/cnn/00/cnn_0027   0    5    [WORD]     IN         (PP*                  -    -   -   -       *      *          (ARG2*           *       -
+bn/cnn/00/cnn_0027   0    6    [WORD]    VBG       (S(VP*              expand  01   1   -       *      *               *         (V*)      -
+bn/cnn/00/cnn_0027   0    7    [WORD]   PRP$         (NP*                  -    -   -   -       *      *               *      (ARG1*      (0)
+bn/cnn/00/cnn_0027   0    8    [WORD]     NN            *                chip   -   2   -       *      *               *           *       -
+bn/cnn/00/cnn_0027   0    9    [WORD]    NNS            *))))))     operation   -   4   -       *      *               *)          *)      -
+bn/cnn/00/cnn_0027   0   10    [WORD]      .            *))                -    -   -   -       *      *               *           *       -
+
+bn/cnn/00/cnn_0027   0    0    [WORD]   PRP     (TOP(S(NP*)                -    -   -   -            *        (ARG0*)         (ARG0*)     (0)
+bn/cnn/00/cnn_0027   0    1    [WORD]   VBZ           (VP*                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0    2    [WORD]   VBG           (VP*             invest  01   1   -            *           (V*)              *       -
+bn/cnn/00/cnn_0027   0    3    [WORD]     $        (NP(QP*                 -    -   -   -      (MONEY*        (ARG1*               *       -
+bn/cnn/00/cnn_0027   0    4    [WORD]    CD              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0    5    [WORD]    CD              *))               -    -   -   -            *)            *)              *       -
+bn/cnn/00/cnn_0027   0    6    [WORD]    TO         (S(VP*                 -    -   -   -            *    (ARGM-PRP*               *       -
+bn/cnn/00/cnn_0027   0    7    [WORD]    VB           (VP*              build  01   1   -            *             *             (V*)      -
+bn/cnn/00/cnn_0027   0    8    [WORD]    DT           (NP*                 -    -   -   -            *             *          (ARG1*       -
+bn/cnn/00/cnn_0027   0    9    [WORD]    JJ              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   10    [WORD]    NN              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   11    [WORD]    NN              *)              plan   -   5   -            *             *               *)      -
+bn/cnn/00/cnn_0027   0   12    [WORD]     ,              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   13    [WORD]    RB   (ADVP(NP(QP*                 -    -   -   -   (QUANTITY*             *      (ARGM-LOC*       -
+bn/cnn/00/cnn_0027   0   14    [WORD]    CD              *)                -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   15    [WORD]   NNS              *)                -    -   -   -            *)            *               *       -
+bn/cnn/00/cnn_0027   0   16    [WORD]    RB              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   17    [WORD]    IN           (PP*                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   18    [WORD]   NNP           (NP*                 -    -   -   -        (GPE*             *               *       -
+bn/cnn/00/cnn_0027   0   19    [WORD]   NNP              *                 -    -   -   -            *             *               *       -
+bn/cnn/00/cnn_0027   0   20    [WORD]   NNP              *))))))))         -    -   -   -            *)            *)              *)      -
+bn/cnn/00/cnn_0027   0   21    [WORD]     .              *))               -    -   -   -            *             *               *       -
+
+bn/cnn/00/cnn_0027   0    0    [WORD]    DT   (TOP(S(NP*                      -    -    -   -         *        (ARG1*               *       -
+bn/cnn/00/cnn_0027   0    1    [WORD]    JJ            *                      -    -    -   -         *             *               *       -
+bn/cnn/00/cnn_0027   0    2    [WORD]     $         (QP*                      -    -    -   -   (MONEY*             *               *       -
+bn/cnn/00/cnn_0027   0    3    [WORD]    CD            *                      -    -    -   -         *             *               *       -
+bn/cnn/00/cnn_0027   0    4    [WORD]    CD            *))                    -    -    -   -         *)            *)              *       -
+bn/cnn/00/cnn_0027   0    5    [WORD]    MD         (VP*                      -    -    -   -         *    (ARGM-MOD*)              *       -
+bn/cnn/00/cnn_0027   0    6    [WORD]    VB         (VP*                      go  10   13   -         *           (V*)              *       -
+bn/cnn/00/cnn_0027   0    7    [WORD]    IN         (PP*                      -    -    -   -         *        (ARG2*               *       -
+bn/cnn/00/cnn_0027   0    8    [WORD]   NNS      (NP(NP*)            improvement  01    1   -         *             *             (V*)      -
+bn/cnn/00/cnn_0027   0    9    [WORD]    IN         (PP*                      -    -    -   -         *             *      (ARGM-LOC*       -
+bn/cnn/00/cnn_0027   0   10    [WORD]   NNP      (NP(NP*                      -    -    -   -      (ORG)            *               *      (0)
+bn/cnn/00/cnn_0027   0   11    [WORD]    NN            *                    chip   -    2   -         *             *               *       -
+bn/cnn/00/cnn_0027   0   12    [WORD]   NNS            *)                  plant   -    1   -         *             *               *       -
+bn/cnn/00/cnn_0027   0   13    [WORD]    IN         (PP*                      -    -    -   -         *             *               *       -
+bn/cnn/00/cnn_0027   0   14    [WORD]   NNP         (NP*                      -    -    -   -      (GPE)            *               *       -
+bn/cnn/00/cnn_0027   0   15    [WORD]    CC            *                      -    -    -   -         *             *               *       -
+bn/cnn/00/cnn_0027   0   16    [WORD]   NNP            *))))))))              -    -    -   -      (GPE)            *)              *)      -
+bn/cnn/00/cnn_0027   0   17    [WORD]     .            *))                    -    -    -   -         *             *               *       -
+
+#end document

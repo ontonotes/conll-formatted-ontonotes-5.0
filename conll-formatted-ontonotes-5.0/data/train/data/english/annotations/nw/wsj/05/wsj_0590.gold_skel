@@ -1,0 +1,883 @@
+#begin document (nw/wsj/05/wsj_0590); part 000
+nw/wsj/05/wsj_0590   0    0    [WORD]    EX      (TOP(S(NP*)                    -    -   -   -       *             *               *               *       -
+nw/wsj/05/wsj_0590   0    1    [WORD]    MD            (VP*                     -    -   -   -       *    (ARGM-MOD*)              *               *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]    VB            (VP*                     be  02   5   -       *           (V*)              *               *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]    DT            (NP*                     -    -   -   -       *        (ARG1*               *               *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]    NN               *)                    -    -   -   -       *             *)              *               *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]    IN            (PP*                     -    -   -   -       *    (ARGM-LOC*               *               *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]    DT         (NP(NP*                     -    -   -   -       *             *               *               *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]    JJ               *                     -    -   -   -       *             *      (ARGM-TMP*)              *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN               *)                   war  01   1   -       *             *             (V*)              *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    IN            (PP*                     -    -   -   -       *             *      (ARGM-ADJ*               *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   NNS            (NP*))                   -    -   -   -       *             *               *)              *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    IN            (PP*                     -    -   -   -       *             *          (ARG0*               *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]    DT         (NP(NP*                     -    -   -   -   (ORG*             *               *               *     (18
+nw/wsj/05/wsj_0590   0   13    [WORD]   NNP               *                     -    -   -   -       *             *               *               *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]   NNP               *)                    -    -   -   -       *)            *               *               *      18)
+nw/wsj/05/wsj_0590   0   15    [WORD]    CC               *                     -    -   -   -       *             *               *               *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]   NNP            (NP*)))                  -    -   -   -    (ORG)            *               *)              *      (6)
+nw/wsj/05/wsj_0590   0   17    [WORD]    IN            (PP*                     -    -   -   -       *             *          (ARG1*               *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]   WRB   (SBAR(WHADVP*)                    -    -   -   -       *             *               *      (ARGM-MNR*)      -
+nw/wsj/05/wsj_0590   0   19    [WORD]    DT          (S(NP*                     -    -   -   -       *             *               *          (ARG0*     (15
+nw/wsj/05/wsj_0590   0   20    [WORD]    NN               *)               country   -   3   -       *             *               *               *)     15)
+nw/wsj/05/wsj_0590   0   21    [WORD]   VBZ            (VP*                conduct  01   2   -       *             *               *             (V*)      -
+nw/wsj/05/wsj_0590   0   22    [WORD]    JJ            (NP*                     -    -   -   -       *             *               *          (ARG1*       -
+nw/wsj/05/wsj_0590   0   23    [WORD]    NN               *                     -    -   -   -       *             *               *               *       -
+nw/wsj/05/wsj_0590   0   24    [WORD]   NNS               *)             operation   -   1   -       *             *               *               *)      -
+nw/wsj/05/wsj_0590   0   25    [WORD]    RB          (ADVP*)))))))))            -    -   -   -       *             *)              *)     (ARGM-LOC*)      -
+nw/wsj/05/wsj_0590   0   26    [WORD]     .               *))                   -    -   -   -       *             *               *               *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]     IN      (TOP(S(PP*                        -    -    -   -          *         *      (ARGM-TMP*               *               *           *          -
+nw/wsj/05/wsj_0590   0    1    [WORD]    NNS      (NP(NP(NP*)                       -    -    -   -      (DATE)   (ARG1*               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    2    [WORD]     IN            (PP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    3    [WORD]     NN            (NP*)))                     -    -    -   -          *         *)              *               *               *           *          -
+nw/wsj/05/wsj_0590   0    4    [WORD]    VBN            (VP*                      bear  02    -   -          *       (V*)              *               *               *           *          -
+nw/wsj/05/wsj_0590   0    5    [WORD]     IN            (PP*                        -    -    -   -          *    (ARG0*               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    6    [WORD]    NNP         (NP(NP*)                       -    -    -   -     (EVENT)        *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    7    [WORD]      ,               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    8    [WORD]     JJ         (NP(NP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0    9    [WORD]    NNS               *)                       -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   10    [WORD]     IN            (PP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   11    [WORD]     DT            (NP*                        -    -    -   -      (ORG*         *               *               *               *           *         (7
+nw/wsj/05/wsj_0590   0   12    [WORD]    NNP               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   13    [WORD]    NNP               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   14    [WORD]    NNP               *)))                     -    -    -   -          *)        *               *               *               *           *          7)
+nw/wsj/05/wsj_0590   0   15    [WORD]      ,               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   16    [WORD]     CC               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   17    [WORD]     DT            (NP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   18    [WORD]    NNP           (NML*                        -    -    -   -    (EVENT*         *               *               *               *           *        (11
+nw/wsj/05/wsj_0590   0   19    [WORD]   HYPH               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   20    [WORD]    NNP               *)                       -    -    -   -          *)        *               *               *               *           *         11)
+nw/wsj/05/wsj_0590   0   21    [WORD]     NN               *))))))                  -    -    -   -          *         *)              *)              *               *           *          -
+nw/wsj/05/wsj_0590   0   22    [WORD]      ,               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   23    [WORD]    NNP         (NP(NP*                        -    -    -   -          *         *               *          (ARG0*               *           *     (0|(20
+nw/wsj/05/wsj_0590   0   24    [WORD]    NNP               *)                       -    -    -   -    (PERSON)        *               *               *               *           *         20)
+nw/wsj/05/wsj_0590   0   25    [WORD]     CC               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   26    [WORD]     DT            (NP*                        -    -    -   -      (ORG*         *               *               *               *           *        (23
+nw/wsj/05/wsj_0590   0   27    [WORD]    NNP               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   28    [WORD]    NNP               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   29    [WORD]    NNP               *))                      -    -    -   -          *)        *               *               *)              *           *      23)|0)
+nw/wsj/05/wsj_0590   0   30    [WORD]    VBP            (VP*                    appear  02    1   -          *         *             (V*)              *               *           *          -
+nw/wsj/05/wsj_0590   0   31    [WORD]     JJ        (S(ADJP*))                      -    -    -   -          *         *          (ARG1*)              *               *           *          -
+nw/wsj/05/wsj_0590   0   32    [WORD]      :               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   33    [WORD]     IN            (PP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   34    [WORD]     RB          (ADVP*)                       -    -    -   -          *         *      (ARGM-TMP*)              *               *           *          -
+nw/wsj/05/wsj_0590   0   35    [WORD]      ,               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   36    [WORD]     IN          (ADVP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   37    [WORD]    JJS               *))                      -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   38    [WORD]      :               *                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   39    [WORD]     TO          (S(VP*                        -    -    -   -          *         *        (C-ARG1*               *               *           *          -
+nw/wsj/05/wsj_0590   0   40    [WORD]     VB            (VP*                     trust  02    1   -          *         *               *             (V*)              *           *         (2)
+nw/wsj/05/wsj_0590   0   41    [WORD]     DT            (NP*                        -    -    -   -          *         *               *          (ARG1*               *           *         (0
+nw/wsj/05/wsj_0590   0   42    [WORD]     JJ               *)                       -    -    -   -          *         *               *               *)              *           *          0)
+nw/wsj/05/wsj_0590   0   43    [WORD]    WRB   (SBAR(WHADVP*)                       -    -    -   -          *         *               *      (ARGM-TMP*      (ARGM-TMP*)          *          -
+nw/wsj/05/wsj_0590   0   44    [WORD]    PRP          (S(NP*)                       -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   45    [WORD]    VBZ            (VP*                      come  12   11   -          *         *               *               *             (V*)          *          -
+nw/wsj/05/wsj_0590   0   46    [WORD]     IN            (PP*                        -    -    -   -          *         *               *               *          (ARG1*           *          -
+nw/wsj/05/wsj_0590   0   47    [WORD]    VBG          (S(VP*                       set  02    3   -          *         *               *               *               *         (V*)         -
+nw/wsj/05/wsj_0590   0   48    [WORD]     NN         (NP(NP*)                   policy   -    1   -          *         *               *               *               *      (ARG1*          -
+nw/wsj/05/wsj_0590   0   49    [WORD]     IN            (PP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   50    [WORD]     JJ            (NP*                        -    -    -   -          *         *               *               *               *           *          -
+nw/wsj/05/wsj_0590   0   51    [WORD]    NNS               *)))))))))))))     activity   -    1   -          *         *               *)              *)              *)          *)         -
+nw/wsj/05/wsj_0590   0   52    [WORD]      .               *))                      -    -    -   -          *         *               *               *               *           *          -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    IN   (TOP(S(SBAR*                      -    -   -   -        *         *      (ARGM-ADV*           *               *       -
+nw/wsj/05/wsj_0590   0    1    [WORD]    DT         (S(NP*                      -    -   -   -        *    (ARG1*               *           *               *      (2
+nw/wsj/05/wsj_0590   0    2    [WORD]    NN              *)               attitude   -   1   -        *         *)              *           *               *       2)
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBZ           (VP*)))                 last  01   2   -        *       (V*)              *)          *               *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]     ,              *                      -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]   PRP           (NP*)                     -    -   -   -        *         *          (ARG0*)          *               *      (2)
+nw/wsj/05/wsj_0590   0    6    [WORD]    MD           (VP*                      -    -   -   -        *         *      (ARGM-MOD*)          *               *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]    VB           (VP*                  infuse  01   1   -        *         *             (V*)          *               *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]    JJ           (NP*                      -    -   -   -        *         *          (ARG1*      (ARG1*               *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    NN              *                  action   -   1   -        *         *               *           *)              *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   VBG              *)                   plan  01   2   -        *         *               *)        (V*)              *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    IN           (PP*                      -    -   -   -        *         *          (ARG2*           *               *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]    DT     (NP(NP(NP*                      -    -   -   -        *         *               *           *          (ARG1*       -
+nw/wsj/05/wsj_0590   0   13    [WORD]    NN              *)                  level   -   2   -        *         *               *           *               *)      -
+nw/wsj/05/wsj_0590   0   14    [WORD]    IN           (PP*                      -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]    NN           (NP*                    care   -   2   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    CC              *                      -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]    NN              *)))                   -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]   WDT    (SBAR(WHNP*)                     -    -   -   -        *         *               *           *        (R-ARG1*)      -
+nw/wsj/05/wsj_0590   0   19    [WORD]   VBZ         (S(VP*                      -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   20    [WORD]    RB              *                      -    -   -   -        *         *               *           *      (ARGM-NEG*)      -
+nw/wsj/05/wsj_0590   0   21    [WORD]   VBN           (VP*                      -    -   -   -        *         *               *           *               *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]   VBN           (VP*                     see  01   3   -        *         *               *           *             (V*)      -
+nw/wsj/05/wsj_0590   0   23    [WORD]    IN           (PP*                      -    -   -   -        *         *               *           *      (ARGM-TMP*       -
+nw/wsj/05/wsj_0590   0   24    [WORD]   NNS           (NP*)))))))))))           -    -   -   -    (DATE)        *               *)          *               *)      -
+nw/wsj/05/wsj_0590   0   25    [WORD]     .              *))                    -    -   -   -        *         *               *           *               *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    IN   (TOP(S(PP*                    -    -   -   -        *    (ARGM-TMP*           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    1    [WORD]    DT         (NP*                    -    -   -   -   (DATE*             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]    JJ            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]    NN            *))                  -    -   -   -        *)            *)          *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]     ,            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]    DT         (NP*                    -    -   -   -        *        (ARG0*      (ARG0*           *               *      (ARG0*               *        *     (20
+nw/wsj/05/wsj_0590   0    6    [WORD]    NN            *)            president   -   3   -        *             *)          *)          *               *           *)              *        *      20)
+nw/wsj/05/wsj_0590   0    7    [WORD]   VBZ         (VP*                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]   VBN         (VP*                 agree  01   3   -        *           (V*)          *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    TO    (S(VP(VP*                    -    -   -   -        *        (ARG1*           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]    VB         (VP*                  keep  02   1   -        *             *         (V*)          *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    DT       (S(NP*                    -    -   -   -        *             *      (ARG1*      (ARG1*               *           *               *        *     (23
+nw/wsj/05/wsj_0590   0   12    [WORD]    NN            *)                   -    -   -   -        *             *           *           *)              *           *               *        *      23)
+nw/wsj/05/wsj_0590   0   13    [WORD]   VBN         (VP*                inform  01   1   -        *             *           *         (V*)              *           *               *        *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]     ,            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]    RB    (PP(ADVP*)                   -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    IN            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]    NN         (NP*))             advance   -   6   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]     ,            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   19    [WORD]    IN         (PP*                    -    -   -   -        *             *           *      (ARG2*               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   20    [WORD]    JJ         (NP*                    -    -   -   -        *             *           *           *      (ARGM-MNR*)          *               *        *       -
+nw/wsj/05/wsj_0590   0   21    [WORD]   NNS            *))))))          action  01   1   -        *             *           *)          *)            (V*)          *               *        *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]    CC            *                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   23    [WORD]    TO         (VP*                    -    -   -   -        *             *           *           *               *           *               *        *       -
+nw/wsj/05/wsj_0590   0   24    [WORD]    VB         (VP*                   put  01   1   -        *             *           *           *               *         (V*)              *        *       -
+nw/wsj/05/wsj_0590   0   25    [WORD]    JJ         (NP*                    -    -   -   -        *             *           *           *               *      (ARG1*      (ARGM-ADJ*)       *       -
+nw/wsj/05/wsj_0590   0   26    [WORD]    NN            *                    -    -   -   -        *             *           *           *               *           *          (ARG3*)       *       -
+nw/wsj/05/wsj_0590   0   27    [WORD]   NNS            *)             decision  01   1   -        *             *           *           *               *           *)            (V*)       *       -
+nw/wsj/05/wsj_0590   0   28    [WORD]    IN         (PP*                    -    -   -   -        *             *           *           *               *      (ARG2*               *        *       -
+nw/wsj/05/wsj_0590   0   29    [WORD]    NN         (NP*))))))))       writing  01   1   -        *             *)          *           *               *           *)              *      (V*)      -
+nw/wsj/05/wsj_0590   0   30    [WORD]     .            *))                  -    -   -   -        *             *           *           *               *           *               *        *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    DT    (TOP(S(NP*)                      -    -   -   -          *        (ARG1*)          *        -
+nw/wsj/05/wsj_0590   0    1    [WORD]   VBD          (VP*                       be  01   2   -          *           (V*)          *        -
+nw/wsj/05/wsj_0590   0    2    [WORD]    RB             *                       -    -   -   -          *    (ARGM-NEG*)          *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]    RB        (ADVP*)                      -    -   -   -          *    (ARGM-TMP*)          *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]    DT       (NP(NP*                       -    -   -   -          *        (ARG2*           *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN             *)                     way   -   1   -          *             *           *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]    DT   (SBAR(S(NP*                       -    -   -   -          *             *      (ARG0*        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNP             *                       -    -   -   -    (PERSON)            *           *      (22)
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN             *)          administration   -   1   -          *             *           *)       -
+nw/wsj/05/wsj_0590   0    9    [WORD]   VBD          (VP*                   handle  01   2   -          *             *         (V*)       -
+nw/wsj/05/wsj_0590   0   10    [WORD]    JJ          (NP*                       -    -   -   -          *             *      (ARG1*        -
+nw/wsj/05/wsj_0590   0   11    [WORD]   NNS             *))))))             matter   -   3   -          *             *)          *)       -
+nw/wsj/05/wsj_0590   0   12    [WORD]     .             *))                     -    -   -   -          *             *           *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    NNP   (TOP(S(NP*                             -    -   -   -          *        (ARG0*      (ARG0*               *           *           *           *           *     (20
+nw/wsj/05/wsj_0590   0    1    [WORD]    NNP            *)                            -    -   -   -    (PERSON)            *)          *)              *           *           *           *           *      20)
+nw/wsj/05/wsj_0590   0    2    [WORD]    VBZ         (VP*                             -    -   -   -          *             *           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]    VBN         (VP*                         pledge  01   1   -          *           (V*)          *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]     RB       (ADVP*                             -    -   -   -          *    (ARGM-ADV*           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]     RB            *)                            -    -   -   -          *             *)          *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]     TO       (S(VP*                             -    -   -   -          *        (ARG2*           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]     VB         (VP*                        respect  01   1   -          *             *         (V*)              *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]     DT      (NP(NP*                             -    -   -   -          *             *      (ARG1*               *      (ARG0*           *           *           *      (3
+nw/wsj/05/wsj_0590   0    9    [WORD]     CD   (ADJP(NML*                             -    -   -   -     (DATE*             *           *      (ARGM-TMP*           *           *           *           *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   HYPH            *                             -    -   -   -          *             *           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]     NN            *)                            -    -   -   -          *             *           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]   HYPH            *                             -    -   -   -          *             *           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]     JJ            *)                            -    -   -   -          *)            *           *               *)          *           *           *           *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]     JJ            *                             -    -   -   -          *             *           *          (ARG0*)          *           *           *           *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]     NN            *)                         order  01   1   -          *             *           *             (V*)          *)          *           *           *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    VBG         (VP*                            bar  01   1   -          *             *           *               *         (V*)          *           *           *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]    NNP         (NP*                             -    -   -   -       (GPE)            *           *               *      (ARG1*      (ARG0*      (ARG0*           *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]    NNS            *)                         agent   -   2   -          *             *           *               *           *)          *)          *)          *       -
+nw/wsj/05/wsj_0590   0   19    [WORD]     IN         (PP*                             -    -   -   -          *             *           *               *      (ARG2*           *           *           *       -
+nw/wsj/05/wsj_0590   0   20    [WORD]    VBG    (S(VP(VP*                    assassinate  01   1   -          *             *           *               *           *         (V*)          *           *       -
+nw/wsj/05/wsj_0590   0   21    [WORD]     JJ         (NP*                             -    -   -   -          *             *           *               *           *      (ARG1*           *           *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]    NNS            *))                       leader   -   1   -          *             *           *               *           *           *)          *           *       -
+nw/wsj/05/wsj_0590   0   23    [WORD]     CC            *                             -    -   -   -          *             *           *               *           *           *           *           *       -
+nw/wsj/05/wsj_0590   0   24    [WORD]    VBG         (VP*                           help  01   1   -          *             *           *               *           *           *         (V*)          *       -
+nw/wsj/05/wsj_0590   0   25    [WORD]    NNS         (NP*)                            -    -   -   -          *             *           *               *           *           *      (ARG2*)     (ARG0*)      -
+nw/wsj/05/wsj_0590   0   26    [WORD]     TO       (S(VP*                             -    -   -   -          *             *           *               *           *           *      (ARG1*           *       -
+nw/wsj/05/wsj_0590   0   27    [WORD]     VB         (VP*                             do  02   1   -          *             *           *               *           *           *           *         (V*)      -
+nw/wsj/05/wsj_0590   0   28    [WORD]     RB       (ADVP*)))))))))))))))              -    -   -   -          *             *)          *)              *           *)          *           *)     (ARG1*)      3)
+nw/wsj/05/wsj_0590   0   29    [WORD]      .            *))                           -    -   -   -          *             *           *               *           *           *           *           *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]   NNP    (TOP(S(NP*)            -    -   -   -       (ORG)       (ARG0*)          *      (6)
+nw/wsj/05/wsj_0590   0    1    [WORD]    RB        (ADVP*)            -    -   -   -          *    (ARGM-TMP*)          *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]    RB        (ADVP*)            -    -   -   -          *    (ARGM-MNR*)          *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBD          (VP*          trust  01   1   -          *           (V*)          *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]    JJ   (NP(NP(NML*             -    -   -   -          *        (ARG2*      (ARG0*      (9
+nw/wsj/05/wsj_0590   0    5    [WORD]   NNP             *             -    -   -   -       (ORG)            *           *      (7)
+nw/wsj/05/wsj_0590   0    6    [WORD]    NN             *)            -    -   -   -          *             *           *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNP             *             -    -   -   -   (PERSON*             *           *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]   NNP             *)            -    -   -   -          *)            *           *       9)
+nw/wsj/05/wsj_0590   0    9    [WORD]    CC             *             -    -   -   -          *             *           *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   NNP      (NP(NML*             -    -   -   -          *             *           *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]   NNP             *             -    -   -   -          *             *           *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]   NNP             *)            -    -   -   -          *             *           *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]   NNP             *             -    -   -   -   (PERSON*             *           *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]   NNP             *))           -    -   -   -          *)            *)          *)      -
+nw/wsj/05/wsj_0590   0   15    [WORD]    TO        (S(VP*             -    -   -   -          *        (ARG1*           *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    VB          (VP*          honor  01   3   -          *             *         (V*)      -
+nw/wsj/05/wsj_0590   0   17    [WORD]    DT          (NP*             -    -   -   -          *             *      (ARG1*      (3
+nw/wsj/05/wsj_0590   0   18    [WORD]    NN             *)))))       ban   -   1   -          *             *)          *)      3)
+nw/wsj/05/wsj_0590   0   19    [WORD]     .             *))           -    -   -   -          *             *           *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    IN    (TOP(S(PP*                             -    -   -   -          *    (ARGM-ADV*           *               *       -
+nw/wsj/05/wsj_0590   0    1    [WORD]   NNS       (NP(NP*)                     objection   -   1   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]    IN          (PP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]    DT          (NP*                             -    -   -   -          *             *           *               *      (7
+nw/wsj/05/wsj_0590   0    4    [WORD]   NNP             *))))                         -    -   -   -       (ORG)            *)          *               *       7)
+nw/wsj/05/wsj_0590   0    5    [WORD]     ,             *                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]   NNP          (NP*                             -    -   -   -          *        (ARG0*           *               *     (20
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNP             *)                            -    -   -   -    (PERSON)            *)          *               *      20)
+nw/wsj/05/wsj_0590   0    8    [WORD]    RB        (ADVP*)                            -    -   -   -          *    (ARGM-DIS*)          *               *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]   VBZ          (VP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   VBN          (VP*                          agree  01   3   -          *           (V*)          *               *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    IN          (PP*                             -    -   -   -          *        (ARG1*           *               *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]    DT       (NP(NP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]    NN             *)                 establishment  01   1   -          *             *         (V*)              *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]    IN          (PP*                             -    -   -   -          *             *      (ARG1*               *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]    DT    (NP(NP(NP*                             -    -   -   -          *             *           *          (ARG1*       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    NN             *                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]    NN             *)                            -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]    IN          (PP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   19    [WORD]    DT          (NP*                             -    -   -   -          *             *           *               *      (7
+nw/wsj/05/wsj_0590   0   20    [WORD]   NNP             *)))                          -    -   -   -       (ORG)            *           *               *)      7)
+nw/wsj/05/wsj_0590   0   21    [WORD]    WP   (SBAR(WHNP*)                            -    -   -   -          *             *           *        (R-ARG1*)      -
+nw/wsj/05/wsj_0590   0   22    [WORD]    MD        (S(VP*                             -    -   -   -          *             *           *      (ARGM-MOD*)      -
+nw/wsj/05/wsj_0590   0   23    [WORD]    VB          (VP*                             be  01   1   -          *             *           *             (V*)      -
+nw/wsj/05/wsj_0590   0   24    [WORD]    JJ        (ADJP*                             -    -   -   -          *             *           *          (ARG2*       -
+nw/wsj/05/wsj_0590   0   25    [WORD]    IN          (PP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   26    [WORD]    DT          (NP*                             -    -   -   -          *             *           *               *       -
+nw/wsj/05/wsj_0590   0   27    [WORD]   NNP             *                             -    -   -   -       (ORG)            *           *               *      (7)
+nw/wsj/05/wsj_0590   0   28    [WORD]    NN             *)))))))))))))                -    -   -   -          *             *)          *)              *)      -
+nw/wsj/05/wsj_0590   0   29    [WORD]     .             *))                           -    -   -   -          *             *           *               *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    IN   (TOP(S(PP*                                -    -   -   -        *    (ARGM-ADV*           *           *               *        -
+nw/wsj/05/wsj_0590   0    1    [WORD]    NN         (NP*))                          return   -   9   -        *             *)          *           *               *        -
+nw/wsj/05/wsj_0590   0    2    [WORD]     ,            *                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]    DT         (NP*                                -    -   -   -        *        (ARG0*      (ARG0*           *               *      (23
+nw/wsj/05/wsj_0590   0    4    [WORD]   NNP            *                                -    -   -   -     (ORG)            *           *           *               *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN            *)                               -    -   -   -        *             *)          *)          *               *       23)
+nw/wsj/05/wsj_0590   0    6    [WORD]   VBZ         (VP*                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   VBN         (VP*                              drop  05   2   -        *           (V*)          *           *               *        -
+nw/wsj/05/wsj_0590   0    8    [WORD]   NNS         (NP*                            effort   -   1   -        *        (ARG1*           *           *               *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]    TO       (S(VP*                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]    VB         (VP*                             enact  01   1   -        *             *         (V*)          *               *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]    NN      (NP(NP*)                      legislation   -   1   -        *             *      (ARG1*      (ARG0*)              *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]   VBG         (VP*                           require  01   2   -        *             *           *         (V*)              *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]    DT         (NP*                                -    -   -   -        *             *           *      (ARG2*          (ARG0*       (4
+nw/wsj/05/wsj_0590   0   14    [WORD]    NN            *)                   administration   -   1   -        *             *           *           *)              *)       4)
+nw/wsj/05/wsj_0590   0   15    [WORD]    TO       (S(VP*                                -    -   -   -        *             *           *      (ARG1*               *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]    VB         (VP*                            inform  01   1   -        *             *           *           *             (V*)       -
+nw/wsj/05/wsj_0590   0   17    [WORD]   PRP         (NP*)                               -    -   -   -        *             *           *           *          (ARG1*)     (23)
+nw/wsj/05/wsj_0590   0   18    [WORD]    IN         (PP*                                -    -   -   -        *             *           *           *      (ARGM-TMP*        -
+nw/wsj/05/wsj_0590   0   19    [WORD]    CD         (NP*                                -    -   -   -   (TIME*             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   20    [WORD]   NNS            *))                            hour   -   1   -        *)            *           *           *               *)       -
+nw/wsj/05/wsj_0590   0   21    [WORD]    IN         (PP*                                -    -   -   -        *             *           *           *          (ARG2*        -
+nw/wsj/05/wsj_0590   0   22    [WORD]    DT      (NP(NP*                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    NN            *)                               -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   24    [WORD]    IN         (PP*                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   25    [WORD]    DT         (NP*                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]    JJ            *                                -    -   -   -        *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   27    [WORD]    NN            *)))))))))))))))           activity   -   1   -        *             *)          *)          *)              *)       -
+nw/wsj/05/wsj_0590   0   28    [WORD]     .            *))                              -    -   -   -        *             *           *           *               *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]   PRP   (TOP(S(NP*)                              -    -      -   -       *        (ARG0*)          *          (ARG0*)         (ARG0*)              *           *               *      (23)
+nw/wsj/05/wsj_0590   0    1    [WORD]    RB       (ADVP*)                              -    -      -   -       *    (ARGM-DIS*)          *      (ARGM-DIS*)              *               *           *               *        -
+nw/wsj/05/wsj_0590   0    2    [WORD]   VBZ      (VP(VP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBN         (VP*                           remove  01      1   -       *           (V*)          *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]    DT      (NP(NP*                               -    -      -   -       *        (ARG1*           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN            *)                             ban   -      1   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]    IN         (PP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNP      (NP(NP*                               -    -      -   -    (ORG)            *      (ARG0*)              *               *               *           *               *       (7)
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN            *)                             use  01      2   -       *             *         (V*)              *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]    IN         (PP*                               -    -      -   -       *             *      (ARG1*               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]    DT         (NP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]    NN            *                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]    NN            *))                             -    -      -   -       *             *           *)              *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]    IN         (PP*                               -    -      -   -       *             *      (ARG2*               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]    JJ         (NP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   15    [WORD]   NNS            *)))))))                       act   -      2   -       *             *)          *)              *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]    CC            *                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]   VBZ         (VP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   18    [WORD]   VBN         (VP*                            agree  01      3   -       *             *           *             (V*)              *               *           *               *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]    TO       (S(VP*                               -    -      -   -       *             *           *          (ARG1*               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   20    [WORD]    VB         (VP*                             wipe  01      1   -       *             *           *               *             (V*)              *           *               *        -
+nw/wsj/05/wsj_0590   0   21    [WORD]    RB       (ADVP*)                              -    -      -   -       *             *           *               *      (ARGM-PRD*)              *           *               *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]    DT   (NP(NP(NP*                               -    -      -   -       *             *           *               *          (ARG1*          (ARG1*           *               *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    JJ       (ADJP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   24    [WORD]    CC            *                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   25    [WORD]    JJ            *)                              -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]   NNS            *)                     restriction   -      2   -       *             *           *               *               *               *)          *               *        -
+nw/wsj/05/wsj_0590   0   27    [WORD]    IN         (PP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   28    [WORD]    NN         (NP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   29    [WORD]    NN            *)))                            -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   30    [WORD]   VBN         (VP*                              put  01      1   -       *             *           *               *               *             (V*)          *               *        -
+nw/wsj/05/wsj_0590   0   31    [WORD]    IN         (PP*                               -    -      -   -       *             *           *               *               *          (ARG2*           *               *        -
+nw/wsj/05/wsj_0590   0   32    [WORD]    NN         (NP*))                          place   -      9   -       *             *           *               *               *               *)          *               *        -
+nw/wsj/05/wsj_0590   0   33    [WORD]    TO       (S(VP*                               -    -      -   -       *             *           *               *               *      (ARGM-PNC*           *               *        -
+nw/wsj/05/wsj_0590   0   34    [WORD]    VB         (VP*                           ensure  01      1   -       *             *           *               *               *               *         (V*)              *        -
+nw/wsj/05/wsj_0590   0   35    [WORD]    IN       (SBAR*                               -    -      -   -       *             *           *               *               *               *      (ARG1*               *        -
+nw/wsj/05/wsj_0590   0   36    [WORD]    DT       (S(NP*                               -    -      -   -       *             *           *               *               *               *           *          (ARG1*       (7
+nw/wsj/05/wsj_0590   0   37    [WORD]   NNP            *)                              -    -      -   -    (ORG)            *           *               *               *               *           *               *)       7)
+nw/wsj/05/wsj_0590   0   38    [WORD]   VBD         (VP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   39    [WORD]    RB            *                               -    -      -   -       *             *           *               *               *               *           *      (ARGM-NEG*)       -
+nw/wsj/05/wsj_0590   0   40    [WORD]    VB         (VP*                              get  10   11.2   -       *             *           *               *               *               *           *             (V*)       -
+nw/wsj/05/wsj_0590   0   41    [WORD]    RB       (ADVP*)                              -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   42    [WORD]    IN         (PP*                               -    -      -   -       *             *           *               *               *               *           *          (ARG2*        -
+nw/wsj/05/wsj_0590   0   43    [WORD]    DT         (NP*                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   44    [WORD]    NN            *                               -    -      -   -       *             *           *               *               *               *           *               *        -
+nw/wsj/05/wsj_0590   0   45    [WORD]    NN            *)))))))))))))))))            game   -      6   -       *             *           *               *)              *)              *)          *)              *)       -
+nw/wsj/05/wsj_0590   0   46    [WORD]     .            *))                             -    -      -   -       *             *           *               *               *               *           *               *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]      ``   (TOP(SINV*                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0    1    [WORD]     PRP       (S(NP*)                      -    -    -   -            *        (ARG1*)     (ARG0*)              *      (ARG1*       (4)
+nw/wsj/05/wsj_0590   0    2    [WORD]     VBP         (VP*                     have   -   12   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]      RB       (ADVP*)                      -    -    -   -            *    (ARGM-TMP*)          *               *           *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]     VBN         (VP*                       be  01    1   -            *           (V*)          *               *           *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]      JJ       (ADJP*                       -    -    -   -            *        (ARG2*           *               *           *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]      TO       (S(VP*                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]      VB         (VP*                 convince  01    1   -            *             *         (V*)              *           *        -
+nw/wsj/05/wsj_0590   0    8    [WORD]     PRP         (NP*)                      -    -    -   -            *             *      (ARG1*)              *           *      (23)
+nw/wsj/05/wsj_0590   0    9    [WORD]      IN       (SBAR*                       -    -    -   -            *             *      (ARG2*               *           *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]     NNP    (S(NP(NP*)                      -    -    -   -      (PERSON)            *           *          (ARG0*           *       (9)
+nw/wsj/05/wsj_0590   0   11    [WORD]      CC            *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]  -LRB-          (NP*                       -    -    -   -     (PERSON*             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]     NNP            *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]  -RRB-             *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   15    [WORD]     NNP            *))                     -    -    -   -            *)            *           *               *)          *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]     VBP         (VP*                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]      RB            *                       -    -    -   -            *             *           *      (ARGM-NEG*)          *        -
+nw/wsj/05/wsj_0590   0   18    [WORD]      VB         (VP*                     work  01    1   -            *             *           *             (V*)          *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]      RB       (ADVP*)                      -    -    -   -            *             *           *      (ARGM-LOC*)          *        -
+nw/wsj/05/wsj_0590   0   20    [WORD]      RB       (ADVP*))))))))))))           -    -    -   -            *             *)          *)     (ARGM-TMP*)          *)       -
+nw/wsj/05/wsj_0590   0   21    [WORD]       ,            *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]      ''            *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]     VBZ         (VP*)                     say  01    1   -            *             *           *               *         (V*)       -
+nw/wsj/05/wsj_0590   0   24    [WORD]      CD         (NP*                       -    -    -   -    (CARDINAL)            *           *               *      (ARG0*        -
+nw/wsj/05/wsj_0590   0   25    [WORD]      NN            *                       -    -    -   -            *             *           *               *           *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]      NN            *)                      -    -    -   -            *             *           *               *           *)       -
+nw/wsj/05/wsj_0590   0   27    [WORD]       .            *))                     -    -    -   -            *             *           *               *           *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    DT   (TOP(S(NP*                      -    -    -   -   *        (ARG1*     (8
+nw/wsj/05/wsj_0590   0    1    [WORD]    JJ            *                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0    2    [WORD]    NN            *)          understanding   -    3   -   *             *)     8)
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBD         (VP*                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0    4    [WORD]    RB            *                      -    -    -   -   *    (ARGM-NEG*)     -
+nw/wsj/05/wsj_0590   0    5    [WORD]    RB       (ADVP*)                     -    -    -   -   *    (ARGM-DIS*)     -
+nw/wsj/05/wsj_0590   0    6    [WORD]    VB         (VP*                  spring  01    1   -   *           (V*)     -
+nw/wsj/05/wsj_0590   0    7    [WORD]    IN         (PP*                      -    -    -   -   *        (ARG2*      -
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN         (NP*))                  life   -   13   -   *             *)     -
+nw/wsj/05/wsj_0590   0    9    [WORD]    IN         (PP*                      -    -    -   -   *    (ARGM-MNR*      -
+nw/wsj/05/wsj_0590   0   10    [WORD]    DT      (NP(NP*                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   11    [WORD]    JJ            *                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   12    [WORD]    NN            *)                     -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   13    [WORD]    IN         (PP*                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   14    [WORD]    NN         (NP*                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   15    [WORD]    CC            *                      -    -    -   -   *             *      -
+nw/wsj/05/wsj_0590   0   16    [WORD]    NN            *))))))             light   -    4   -   *             *)     -
+nw/wsj/05/wsj_0590   0   17    [WORD]     .            *))                    -    -    -   -   *             *      -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    PRP    (TOP(S(NP*)                  -    -   -   -        *        (ARG0*)              *             *               *      (8)
+nw/wsj/05/wsj_0590   0    1    [WORD]    VBD          (VP*               emerge  01   2   -        *           (V*)              *             *               *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]     IN          (PP*                   -    -   -   -        *    (ARGM-TMP*               *             *               *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]     DT    (NP(NP(NP*                   -    -   -   -        *             *               *        (ARG1*               *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]     JJ             *                   -    -   -   -        *             *      (ARGM-MNR*)            *               *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]     NN             *)             display  01   2   -        *             *             (V*)            *               *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]     IN          (PP*                   -    -   -   -        *             *          (ARG1*             *               *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]     JJ      (NP(NML*                   -    -   -   -        *             *               *             *               *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]   HYPH             *                   -    -   -   -        *             *               *             *               *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]     NN             *)                  -    -   -   -        *             *               *             *               *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]     NN             *                   -    -   -   -        *             *               *             *               *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    NNS             *)))                -    -   -   -        *             *               *)            *)              *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]    WDT   (SBAR(WHNP*)                  -    -   -   -        *             *      (ARGM-ADJ*      (R-ARG1*)              *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]    VBD        (S(VP*               follow  01   2   -        *             *               *           (V*)              *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]     DT    (NP(NP(NP*                   -    -   -   -        *             *               *        (ARG2*      (ARGM-TMP*       -
+nw/wsj/05/wsj_0590   0   15    [WORD]     NN             *                month   -   2   -    (DATE)            *               *             *               *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    POS             *)                  -    -   -   -        *             *               *             *               *)      -
+nw/wsj/05/wsj_0590   0   17    [WORD]    VBN             *                 fail  01   1   -        *             *               *             *             (V*)      -
+nw/wsj/05/wsj_0590   0   18    [WORD]     NN             *                   -    -   -   -        *             *               *             *          (ARG1*       -
+nw/wsj/05/wsj_0590   0   19    [WORD]     NN             *)             attempt   -   1   -        *             *               *             *               *)      -
+nw/wsj/05/wsj_0590   0   20    [WORD]     IN          (PP*                   -    -   -   -        *             *               *             *               *       -
+nw/wsj/05/wsj_0590   0   21    [WORD]    NNP          (NP*)))))))))          -    -   -   -     (GPE)            *)              *)            *)              *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]      .             *))                 -    -   -   -        *             *               *             *               *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    DT       (TOP(S(NP*                       -    -   -   -   (ORG*    (ARG0*        *      (ARG0*           *               *           *           *     (18
+nw/wsj/05/wsj_0590   0    1    [WORD]   NNP                *                       -    -   -   -       *         *        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]   NNP                *)                      -    -   -   -       *)        *)       *           *)          *               *           *           *      18)
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBD             (VP*                      use  01   1   -       *       (V*)       *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]    NN          (NP(NP*               television   -   1   -       *    (ARG1*        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]   NNS                *)                      -    -   -   -       *         *        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]    CC                *                       -    -   -   -       *         *        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNS             (NP*))                   leak  01   3   -       *         *)     (V*)          *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]    TO           (S(VP*                       -    -   -   -       *    (ARG2*        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    VB             (VP*                    argue  01   2   -       *         *        *         (V*)          *               *           *           *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]    IN           (SBAR*                       -    -   -   -       *         *        *      (ARG1*           *               *           *           *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    RB   (S(NP(NP(ADJP*                       -    -   -   -       *         *        *           *      (ARG0*)              *      (ARG0*           *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]   VBN                *)                  impose  01   -   -       *         *        *           *         (V*)              *           *           *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]   NNS                *)             restriction   -   2   -       *         *        *           *      (ARG1*)              *           *           *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]    IN             (PP*                       -    -   -   -       *         *        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]    JJ             (NP*                       -    -   -   -       *         *        *           *           *      (ARGM-MNR*)          *           *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]   NNS                *)))                action  01   1   -       *         *        *           *           *             (V*)          *)          *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]   VBD             (VP*                     make  02   3   -       *         *        *           *           *               *         (V*)          *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]   NNP        (S(NP(NP*                       -    -   -   -    (GPE)        *        *           *           *               *      (ARG1*      (ARG0*)      -
+nw/wsj/05/wsj_0590   0   19    [WORD]    NN                *)                 support  01   3   -       *         *        *           *           *               *           *         (V*)      -
+nw/wsj/05/wsj_0590   0   20    [WORD]    IN             (PP*                       -    -   -   -       *         *        *           *           *               *           *      (ARG1*       -
+nw/wsj/05/wsj_0590   0   21    [WORD]    JJ             (NP*                       -    -   -   -       *         *        *           *           *               *           *           *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]   NNS                *)))                    -    -   -   -       *         *        *           *           *               *           *           *)      -
+nw/wsj/05/wsj_0590   0   23    [WORD]    JJ           (ADJP*)))))))))              -    -   -   -       *         *)       *           *)          *               *           *)          *       -
+nw/wsj/05/wsj_0590   0   24    [WORD]     .                *))                     -    -   -   -       *         *        *           *           *               *           *           *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    NNP    (TOP(S(NP*                            -    -   -   -            *        (ARG0*               *           *           *           *               *               *      (20
+nw/wsj/05/wsj_0590   0    1    [WORD]    NNP             *)                           -    -   -   -      (PERSON)            *)              *           *           *           *               *               *       20)
+nw/wsj/05/wsj_0590   0    2    [WORD]     RB        (ADVP*)                           -    -   -   -            *    (ARGM-ADV*)              *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]    VBD          (VP*                      disclose  01   1   -            *           (V*)              *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]     RB        (ADVP*)                           -    -   -   -            *    (ARGM-MNR*)              *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]     IN        (SBAR*                            -    -   -   -            *        (ARG1*               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]     CD     (S(NP(NP*                            -    -   -   -    (CARDINAL)            *               *      (ARG0*           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]    NNP         (NML*                            -    -   -   -      (PERSON)            *      (ARGM-TMP*           *           *           *               *               *      (22
+nw/wsj/05/wsj_0590   0    8    [WORD]   HYPH             *                            -    -   -   -            *             *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]     NN             *)                           -    -   -   -            *             *               *)          *           *           *               *               *       22)
+nw/wsj/05/wsj_0590   0   10    [WORD]     NN             *)                         deal  01   1   -            *             *             (V*)          *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]     IN          (PP*                            -    -   -   -            *             *          (ARG1*           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]    NNP          (NP*)))                         -    -   -   -         (ORG)            *               *)          *)          *           *               *               *       (6)
+nw/wsj/05/wsj_0590   0   13    [WORD]    VBD          (VP*                       require  01   2   -            *             *               *         (V*)          *           *               *               *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]    PRP          (NP*)                           -    -   -   -            *             *               *      (ARG2*)     (ARG0*)          *               *               *      (20)
+nw/wsj/05/wsj_0590   0   15    [WORD]     TO        (S(VP*                            -    -   -   -            *             *               *      (ARG1*           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]     VB          (VP*                        notify  01   1   -            *             *               *           *         (V*)          *               *               *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]     DT       (NP(NP*                            -    -   -   -            *             *               *           *      (ARG1*           *               *               *      (12
+nw/wsj/05/wsj_0590   0   18    [WORD]     JJ             *                            -    -   -   -            *             *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]     JJ             *                            -    -   -   -        (NORP)            *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   20    [WORD]     NN             *)                           -    -   -   -            *             *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   21    [WORD]      ,             *                            -    -   -   -            *             *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]    NNP          (NP*                            -    -   -   -     (PERSON*             *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    NNP             *)                           -    -   -   -            *)            *               *           *           *           *               *               *        -
+nw/wsj/05/wsj_0590   0   24    [WORD]      ,             *)                           -    -   -   -            *             *               *           *           *)          *               *               *       12)
+nw/wsj/05/wsj_0590   0   25    [WORD]     IN        (SBAR*                            -    -   -   -            *             *               *           *      (ARG2*           *               *               *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]     DT        (S(NP*                            -    -   -   -            *             *               *           *           *      (ARG0*               *               *      (15
+nw/wsj/05/wsj_0590   0   27    [WORD]    NNP             *)                           -    -   -   -         (GPE)            *               *           *           *           *)              *               *       15)
+nw/wsj/05/wsj_0590   0   28    [WORD]    VBD          (VP*                         learn  01   2   -            *             *               *           *           *         (V*)              *               *        -
+nw/wsj/05/wsj_0590   0   29    [WORD]     IN          (PP*                            -    -   -   -            *             *               *           *           *      (ARG1*               *               *        -
+nw/wsj/05/wsj_0590   0   30    [WORD]     DT       (NP(NP*                            -    -   -   -            *             *               *           *           *           *               *          (ARG0*        -
+nw/wsj/05/wsj_0590   0   31    [WORD]     NN             *                            -    -   -   -            *             *               *           *           *           *          (ARG1*)              *        -
+nw/wsj/05/wsj_0590   0   32    [WORD]     NN             *)                         plot  01   1   -            *             *               *           *           *           *             (V*)              *)       -
+nw/wsj/05/wsj_0590   0   33    [WORD]    WDT   (SBAR(WHNP*)                           -    -   -   -            *             *               *           *           *           *      (ARGM-ADJ*        (R-ARG0*)       -
+nw/wsj/05/wsj_0590   0   34    [WORD]     MD        (S(VP*                            -    -   -   -            *             *               *           *           *           *               *      (ARGM-MOD*)       -
+nw/wsj/05/wsj_0590   0   35    [WORD]     VB          (VP*                      endanger  01   1   -            *             *               *           *           *           *               *             (V*)       -
+nw/wsj/05/wsj_0590   0   36    [WORD]   PRP$          (NP*                            -    -   -   -            *             *               *           *           *           *               *          (ARG1*      (12)
+nw/wsj/05/wsj_0590   0   37    [WORD]     NN             *)))))))))))))))))         life   -   3   -            *             *)              *           *)          *)          *)              *)              *)       -
+nw/wsj/05/wsj_0590   0   38    [WORD]      .             *))                          -    -   -   -            *             *               *           *           *           *               *               *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    DT    (TOP(S(NP*                     -    -   -   -        *        (ARG0*               *           *      (20
+nw/wsj/05/wsj_0590   0    1    [WORD]    NN             *)             president   -   3   -        *             *)              *           *       20)
+nw/wsj/05/wsj_0590   0    2    [WORD]    RB        (ADVP*)                    -    -   -   -        *    (ARGM-DIS*)              *           *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBD          (VP*                   hint  01   1   -        *           (V*)              *           *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]   PRP   (SBAR(S(NP*)                    -    -   -   -        *        (ARG1*          (ARG0*)          *      (20)
+nw/wsj/05/wsj_0590   0    5    [WORD]    MD          (VP*                     -    -   -   -        *             *      (ARGM-MOD*)          *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]    VB          (VP*                   veto  01   1   -        *             *             (V*)          *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]    DT       (NP(NP*                     -    -   -   -        *             *          (ARG1*           *      (21
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN             *                     -    -   -   -    (DATE)            *               *           *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]   POS             *)                    -    -   -   -        *             *               *           *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]    NN             *                     -    -   -   -        *             *               *           *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]    NN             *                     -    -   -   -        *             *               *           *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]    NN             *)                    -    -   -   -        *             *               *)          *       21)
+nw/wsj/05/wsj_0590   0   13    [WORD]    IN        (SBAR*                     -    -   -   -        *             *      (ARGM-ADV*           *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]   PRP        (S(NP*)                    -    -   -   -        *             *               *      (ARG1*)     (21)
+nw/wsj/05/wsj_0590   0   15    [WORD]   VBZ          (VP*                     be  01   1   -        *             *               *         (V*)       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    RB        (ADJP*                     -    -   -   -        *             *               *      (ARG2*        -
+nw/wsj/05/wsj_0590   0   17    [WORD]    JJ             *)))))))))            -    -   -   -        *             *)              *)          *)       -
+nw/wsj/05/wsj_0590   0   18    [WORD]     .             *))                   -    -   -   -        *             *               *           *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]     NNP   (TOP(S(NP(NP(NP(NML(NML*                         -    -   -   -      (ORG*        (ARG0*               *           *             *           *           *           *     (10|(13|(23
+nw/wsj/05/wsj_0590   0    1    [WORD]     NNP                          *)                        -    -   -   -          *)            *               *           *             *           *           *           *              23)
+nw/wsj/05/wsj_0590   0    2    [WORD]     NNP                          *)                        -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    3    [WORD]     NNP                          *                         -    -   -   -   (PERSON*             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    4    [WORD]     NNP                          *)                        -    -   -   -          *)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    5    [WORD]  -LRB-                        (NP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    6    [WORD]     NNP                       (NP*)                        -    -   -   -      (NORP)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    7    [WORD]       ,                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    8    [WORD]     NNP                       (NP*                         -    -   -   -      (GPE*             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0    9    [WORD]       .                          *)                        -    -   -   -          *)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   10    [WORD]  -RRB-                           *))                       -    -   -   -          *             *               *           *             *           *           *           *              13)
+nw/wsj/05/wsj_0590   0   11    [WORD]      CC                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   12    [WORD]     NNP                (NP(NP(NML*                         -    -   -   -          *             *               *           *             *           *           *           *             (16
+nw/wsj/05/wsj_0590   0   13    [WORD]     NNP                          *)                        -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   14    [WORD]     NNP                          *                         -    -   -   -   (PERSON*             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   15    [WORD]     NNP                          *)                        -    -   -   -          *)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   16    [WORD]  -LRB-                        (NP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   17    [WORD]     NNP                       (NP*)                        -    -   -   -      (NORP)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   18    [WORD]       ,                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   19    [WORD]     NNP                       (NP*)                        -    -   -   -       (GPE)            *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   20    [WORD]  -RRB-                           *)))                      -    -   -   -          *             *)              *           *             *           *           *           *          16)|10)
+nw/wsj/05/wsj_0590   0   21    [WORD]       ,                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   22    [WORD]      IN                       (PP*                         -    -   -   -          *    (ARGM-DIS*               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   23    [WORD]    PRP$                       (NP*                         -    -   -   -          *             *               *           *             *           *           *           *             (10)
+nw/wsj/05/wsj_0590   0   24    [WORD]      NN                          *))                     part   -   2   -          *             *)              *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   25    [WORD]       ,                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   26    [WORD]      RB                     (ADVP*)                        -    -   -   -          *    (ARGM-MNR*)              *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   27    [WORD]     VBD                       (VP*                     accuse  01   1   -          *           (V*)              *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   28    [WORD]      DT                       (NP*                         -    -   -   -      (ORG*        (ARG1*          (ARG0*           *        (ARG0*           *           *           *             (18
+nw/wsj/05/wsj_0590   0   29    [WORD]     NNP                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   30    [WORD]     NNP                          *)                        -    -   -   -          *)            *)              *)          *             *)          *           *           *              18)
+nw/wsj/05/wsj_0590   0   31    [WORD]      IN                       (PP*                         -    -   -   -          *        (ARG2*               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   32    [WORD]      RB                   (S(ADVP*)                        -    -   -   -          *             *      (ARGM-MNR*)          *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   33    [WORD]     VBG                    (VP(VP*                       leak  01   1   -          *             *             (V*)          *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   34    [WORD]     VBN                       (NP*                   classify  02   -   -          *             *          (ARG1*         (V*)            *           *           *           *               -
+nw/wsj/05/wsj_0590   0   35    [WORD]     NNS                          *))                 document   -   1   -          *             *               *)     (ARG1*)            *           *           *           *               -
+nw/wsj/05/wsj_0590   0   36    [WORD]      CC                          *                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   37    [WORD]     VBG                       (VP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   38    [WORD]      RB                     (ADVP*)                        -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   39    [WORD]      TO                     (S(VP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   40    [WORD]      VB                       (VP*                      shift  01   1   -          *             *               *           *           (V*)          *           *           *               -
+nw/wsj/05/wsj_0590   0   41    [WORD]      DT                    (NP(NP*                         -    -   -   -          *             *               *           *        (ARG1*           *           *           *               -
+nw/wsj/05/wsj_0590   0   42    [WORD]      NN                          *))                    blame  01   2   -          *             *               *           *             *)        (V*)          *           *               -
+nw/wsj/05/wsj_0590   0   43    [WORD]      IN                       (PP*                         -    -   -   -          *             *               *           *        (ARG2*           *           *           *               -
+nw/wsj/05/wsj_0590   0   44    [WORD]     NNP                       (NP*))                       -    -   -   -       (ORG)            *               *           *             *)          *           *           *              (6)
+nw/wsj/05/wsj_0590   0   45    [WORD]      IN                       (PP*                         -    -   -   -          *             *               *           *      (C-ARG1*      (ARG2*           *           *               -
+nw/wsj/05/wsj_0590   0   46    [WORD]      DT                       (NP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   47    [WORD]     VBN                          *                     bungle  01   -   -          *             *               *           *             *           *         (V*)          *               -
+nw/wsj/05/wsj_0590   0   48    [WORD]      NN                          *                    attempt   -   1   -          *             *               *           *             *           *      (ARG1*)          *               -
+nw/wsj/05/wsj_0590   0   49    [WORD]      TO                     (S(VP*                         -    -   -   -          *             *               *           *             *           *           *           *               -
+nw/wsj/05/wsj_0590   0   50    [WORD]      VB                       (VP*                     topple  01   2   -          *             *               *           *             *           *           *         (V*)              -
+nw/wsj/05/wsj_0590   0   51    [WORD]     NNP                       (NP*                         -    -   -   -          *             *               *           *             *           *           *      (ARG1*             (12
+nw/wsj/05/wsj_0590   0   52    [WORD]     NNP                          *))))))))))))))           -    -   -   -    (PERSON)            *)              *           *             *)          *)          *           *)             12)
+nw/wsj/05/wsj_0590   0   53    [WORD]       .                          *))                       -    -   -   -          *             *               *           *             *           *           *           *               -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]     DT    (TOP(S(NP*                             -    -       -   -    (ORG*    (ARG0*        *      (ARG0*          (ARG0*           *               *           *      (18
+nw/wsj/05/wsj_0590   0    1    [WORD]    NNP             *                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    2    [WORD]    NNP             *)                            -    -       -   -        *)        *)       *           *)              *)          *               *           *       18)
+nw/wsj/05/wsj_0590   0    3    [WORD]    VBD       (VP(VP*                            get  01   11.37   -        *       (V*)       *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]     DT       (NP(NP*                             -    -       -   -        *    (ARG1*        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    JJR             *)                            -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]     IN          (PP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]     DT          (NP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    8    [WORD]     NN             *))))                   exchange  01       1   -        *         *)     (V*)          *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]     CC             *                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]    VBD          (VP*                           take  01    14.1   -        *         *        *         (V*)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]     NN          (NP*)                          care   -       2   -        *         *        *      (ARG1*)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]     RB           (S*                             -    -       -   -        *         *        *      (ARG2*      (ARGM-NEG*)          *               *           *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]     TO          (VP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]     VB          (VP*                          press  01       2   -        *         *        *           *             (V*)          *               *           *        -
+nw/wsj/05/wsj_0590   0   15    [WORD]   PRP$          (NP*                             -    -       -   -        *         *        *           *          (ARG1*           *               *           *      (18)
+nw/wsj/05/wsj_0590   0   16    [WORD]     NN             *)                     advantage   -       1   -        *         *        *           *               *)          *               *           *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]     IN          (PP*                             -    -       -   -        *         *        *           *      (ARGM-DIR*           *               *           *        -
+nw/wsj/05/wsj_0590   0   18    [WORD]     DT    (NP(NP(NP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]     NN             *)                            -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   20    [WORD]     IN          (PP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   21    [WORD]     JJ          (NP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]     NN             *)))                          -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    VBN          (VP*                           seek  01       1   -        *         *        *           *               *         (V*)              *           *        -
+nw/wsj/05/wsj_0590   0   24    [WORD]     IN          (PP*                             -    -       -   -        *         *        *           *               *      (ARG0*               *           *        -
+nw/wsj/05/wsj_0590   0   25    [WORD]     JJ       (NP(NP*                             -    -       -   -        *         *        *           *               *           *          (ARG0*           *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]   NNPS             *)                            -    -       -   -    (NORP)        *        *           *               *           *               *)          *        -
+nw/wsj/05/wsj_0590   0   27    [WORD]     WP   (SBAR(WHNP*)                            -    -       -   -        *         *        *           *               *           *        (R-ARG0*)          *        -
+nw/wsj/05/wsj_0590   0   28    [WORD]    VBP        (S(VP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   29    [WORD]     RB             *                             -    -       -   -        *         *        *           *               *           *      (ARGM-NEG*)          *        -
+nw/wsj/05/wsj_0590   0   30    [WORD]     VB          (VP*                           want  01       1   -        *         *        *           *               *           *             (V*)          *        -
+nw/wsj/05/wsj_0590   0   31    [WORD]     DT       (NP(NP*                             -    -       -   -        *         *        *           *               *           *          (ARG1*           *        -
+nw/wsj/05/wsj_0590   0   32    [WORD]     JJ             *                             -    -       -   -        *         *        *           *               *           *               *      (ARG0*)       -
+nw/wsj/05/wsj_0590   0   33    [WORD]     NN             *)                     oversight  01       2   -        *         *        *           *               *           *               *         (V*)       -
+nw/wsj/05/wsj_0590   0   34    [WORD]     IN          (PP*                             -    -       -   -        *         *        *           *               *           *               *      (ARG1*        -
+nw/wsj/05/wsj_0590   0   35    [WORD]     NN          (NP*                             -    -       -   -        *         *        *           *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   36    [WORD]    NNS             *)))))))))))))))))      activity   -       1   -        *         *        *           *)              *)          *)              *)          *)       -
+nw/wsj/05/wsj_0590   0   37    [WORD]      .             *))                           -    -       -   -        *         *        *           *               *           *               *           *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]     RB   (TOP(S(ADVP*)                           -    -   -   -          *    (ARGM-DIS*)          *           *               *           *           -
+nw/wsj/05/wsj_0590   0    1    [WORD]      ,              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0    2    [WORD]    NNP        (NP(NP*                            -    -   -   -          *        (ARG0*           *           *               *           *     (17|(20
+nw/wsj/05/wsj_0590   0    3    [WORD]    NNP              *)                           -    -   -   -    (PERSON)            *           *           *               *           *          20)
+nw/wsj/05/wsj_0590   0    4    [WORD]     CC              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0    5    [WORD]   PRP$           (NP*                            -    -   -   -          *             *           *           *               *           *         (20)
+nw/wsj/05/wsj_0590   0    6    [WORD]    NNS              *))                          -    -   -   -          *             *)          *           *               *           *          17)
+nw/wsj/05/wsj_0590   0    7    [WORD]    VBD           (VP*                          make  02   3   -          *           (V*)          *           *               *           *           -
+nw/wsj/05/wsj_0590   0    8    [WORD]    PRP         (S(NP*)                           -    -   -   -          *        (ARG1*           *           *               *           *           -
+nw/wsj/05/wsj_0590   0    9    [WORD]     JJ         (ADJP*                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   10    [WORD]    PRP    (SBAR(S(NP*)                           -    -   -   -          *             *      (ARG0*)     (ARG0*)              *           *         (17)
+nw/wsj/05/wsj_0590   0   11    [WORD]    VBD        (VP(VP*                       respect  01   1   -          *             *         (V*)          *               *           *           -
+nw/wsj/05/wsj_0590   0   12    [WORD]    NNP        (NP(NP*                            -    -   -   -       (ORG)            *      (ARG1*           *               *           *          (6
+nw/wsj/05/wsj_0590   0   13    [WORD]    POS              *)                           -    -   -   -          *             *           *           *               *           *           6)
+nw/wsj/05/wsj_0590   0   14    [WORD]     NN              *))                        role   -   1   -          *             *           *)          *               *           *           -
+nw/wsj/05/wsj_0590   0   15    [WORD]     CC              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   16    [WORD]    VBD           (VP*                          feel  02   3   -          *             *           *         (V*)              *           *           -
+nw/wsj/05/wsj_0590   0   17    [WORD]    PRP    (SBAR(S(NP*)                           -    -   -   -          *             *           *      (ARG1*          (ARG0*)     (ARG0*)        (17)
+nw/wsj/05/wsj_0590   0   18    [WORD]     MD           (VP*                            -    -   -   -          *             *           *           *      (ARGM-MOD*)          *           -
+nw/wsj/05/wsj_0590   0   19    [WORD]     VB           (VP*                          work  01   1   -          *             *           *           *             (V*)          *           -
+nw/wsj/05/wsj_0590   0   20    [WORD]     IN           (PP*                            -    -   -   -          *             *           *           *          (ARG3*           *           -
+nw/wsj/05/wsj_0590   0   21    [WORD]     DT        (NP(NP*                            -    -   -   -          *             *           *           *               *           *     (10|(13
+nw/wsj/05/wsj_0590   0   22    [WORD]     JJ              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   23    [WORD]    NNP              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   24    [WORD]    NNP              *)                           -    -   -   -    (PERSON)            *           *           *               *           *          13)
+nw/wsj/05/wsj_0590   0   25    [WORD]     CC              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   26    [WORD]     DT           (NP*                            -    -   -   -          *             *           *           *               *           *         (16
+nw/wsj/05/wsj_0590   0   27    [WORD]     JJ              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   28    [WORD]    NNP              *                            -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   29    [WORD]    NNP              *)))                         -    -   -   -    (PERSON)            *           *           *               *)          *      16)|10)
+nw/wsj/05/wsj_0590   0   30    [WORD]     TO         (S(VP*                            -    -   -   -          *             *           *           *          (ARG1*           *           -
+nw/wsj/05/wsj_0590   0   31    [WORD]     VB           (VP*                          iron  01   -   -          *             *           *           *               *         (V*)          -
+nw/wsj/05/wsj_0590   0   32    [WORD]     RP          (PRT*)                           -    -   -   -          *             *           *           *               *           *           -
+nw/wsj/05/wsj_0590   0   33    [WORD]   PRP$           (NP*                            -    -   -   -          *             *           *           *               *      (ARG1*           -
+nw/wsj/05/wsj_0590   0   34    [WORD]    NNS              *)))))))))))))))     difference   -   3   -          *             *)          *           *)              *)          *)          -
+nw/wsj/05/wsj_0590   0   35    [WORD]      .              *))                          -    -   -   -          *             *           *           *               *           *           -
+
+nw/wsj/05/wsj_0590   0   0    [WORD]    DT   (TOP(S(NP*             -    -   -   -   *        (ARG0*     (10
+nw/wsj/05/wsj_0590   0   1    [WORD]   NNS            *)            -    -   -   -   *             *)     10)
+nw/wsj/05/wsj_0590   0   2    [WORD]   VBD         (VP*        respond  01   2   -   *           (V*)      -
+nw/wsj/05/wsj_0590   0   3    [WORD]    IN         (PP*             -    -   -   -   *    (ARGM-MNR*       -
+nw/wsj/05/wsj_0590   0   4    [WORD]    NN         (NP*)))          -    -   -   -   *             *)      -
+nw/wsj/05/wsj_0590   0   5    [WORD]     .            *))           -    -   -   -   *             *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]   NNP    (TOP(S(NP*                          -    -   -   -          *        (ARG0*           *           *               *      (13
+nw/wsj/05/wsj_0590   0    1    [WORD]   NNP             *)                         -    -   -   -    (PERSON)            *)          *           *               *       13)
+nw/wsj/05/wsj_0590   0    2    [WORD]    RB        (ADVP*)                         -    -   -   -          *    (ARGM-MNR*)          *           *               *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBD          (VP*                        tell  01   1   -          *           (V*)          *           *               *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]   NNS          (NP*)                         -    -   -   -          *        (ARG2*)          *           *               *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    IN   (SBAR(SBAR*                          -    -   -   -          *        (ARG1*           *           *               *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]    EX        (S(NP*)                         -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   VBD          (VP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0    8    [WORD]   VBN          (VP*                          be  02   5   -          *             *         (V*)          *               *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]    ``          (NP*                          -    -   -   -          *             *      (ARG1*           *               *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]    DT          (NP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]    NN             *)                    meeting   -   1   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]    IN          (PP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]    DT          (NP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   14    [WORD]   NNS             *))                      mind   -   3   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   15    [WORD]    ''             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]    IN          (PP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]    DT          (NP*                          -    -   -   -      (ORG*             *           *           *               *      (18
+nw/wsj/05/wsj_0590   0   18    [WORD]   NNP             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]   NNP             *)))))))                   -    -   -   -          *)            *           *)          *               *       18)
+nw/wsj/05/wsj_0590   0   20    [WORD]     ,             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   21    [WORD]    CC             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]    IN        (SBAR*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    DT        (S(NP*                          -    -   -   -          *             *           *      (ARG0*               *      (23
+nw/wsj/05/wsj_0590   0   24    [WORD]    NN             *)                         -    -   -   -          *             *           *           *)              *       23)
+nw/wsj/05/wsj_0590   0   25    [WORD]   VBD          (VP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   26    [WORD]   VBN          (VP*                        give  01   3   -          *             *           *         (V*)              *        -
+nw/wsj/05/wsj_0590   0   27    [WORD]   NNP          (NP*                          -    -   -   -          *             *           *      (ARG2*               *      (20
+nw/wsj/05/wsj_0590   0   28    [WORD]   NNP             *)                         -    -   -   -    (PERSON)            *           *           *)              *       20)
+nw/wsj/05/wsj_0590   0   29    [WORD]    ``          (NP*                          -    -   -   -          *             *           *      (ARG1*               *        -
+nw/wsj/05/wsj_0590   0   30    [WORD]    DT          (NP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   31    [WORD]    JJ             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   32    [WORD]    NN             *)                         -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   33    [WORD]     ,             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   34    [WORD]    ''             *                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   35    [WORD]    JJ        (ADJP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   36    [WORD]    IN          (PP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   37    [WORD]    DT       (NP(NP*                          -    -   -   -          *             *           *           *          (ARG1*        -
+nw/wsj/05/wsj_0590   0   38    [WORD]   NNS             *)                 impediment   -   1   -          *             *           *           *               *)       -
+nw/wsj/05/wsj_0590   0   39    [WORD]   VBN          (VP*                      impose  01   1   -          *             *           *           *             (V*)       -
+nw/wsj/05/wsj_0590   0   40    [WORD]    IN          (PP*                          -    -   -   -          *             *           *           *      (ARGM-TMP*        -
+nw/wsj/05/wsj_0590   0   41    [WORD]    DT          (NP*                          -    -   -   -          *             *           *           *               *        -
+nw/wsj/05/wsj_0590   0   42    [WORD]   NNP             *                          -    -   -   -    (PERSON)            *           *           *               *      (22)
+nw/wsj/05/wsj_0590   0   43    [WORD]   NNS             *)))))))))))))             -    -   -   -      (DATE)            *)          *           *)              *)       -
+nw/wsj/05/wsj_0590   0   44    [WORD]     .             *))                        -    -   -   -          *             *           *           *               *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    NNP    (TOP(S(NP*                      -    -   -   -          *    (ARG0*        *           *      (16
+nw/wsj/05/wsj_0590   0    1    [WORD]    NNP             *)                     -    -   -   -    (PERSON)        *)       *           *       16)
+nw/wsj/05/wsj_0590   0    2    [WORD]    VBD          (VP*                     say  01   1   -          *       (V*)       *           *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]     DT   (SBAR(S(NP*                      -    -   -   -          *    (ARG1*        *      (ARG1*      (19
+nw/wsj/05/wsj_0590   0    4    [WORD]     NN             *)           relationship  01   3   -          *         *      (V*)          *)      19)
+nw/wsj/05/wsj_0590   0    5    [WORD]    VBZ          (VP*                      -    -   -   -          *         *        *           *        -
+nw/wsj/05/wsj_0590   0    6    [WORD]    VBN          (VP*                  revert  01   1   -          *         *        *         (V*)       -
+nw/wsj/05/wsj_0590   0    7    [WORD]     IN          (PP*                      -    -   -   -          *         *        *      (ARG2*        -
+nw/wsj/05/wsj_0590   0    8    [WORD]   PRP$          (NP*                      -    -   -   -          *         *        *           *      (19)
+nw/wsj/05/wsj_0590   0    9    [WORD]     JJ             *                      -    -   -   -    (PERSON)        *        *           *      (22)
+nw/wsj/05/wsj_0590   0   10    [WORD]     NN             *)))))))               -    -   -   -          *         *)       *           *)       -
+nw/wsj/05/wsj_0590   0   11    [WORD]      .             *))                    -    -   -   -          *         *        *           *        -
+
+nw/wsj/05/wsj_0590   0   0    [WORD]    EX    (TOP(S(NP*)                -    -   -   -   *             *           *     -
+nw/wsj/05/wsj_0590   0   1    [WORD]    RB        (ADVP*)                -    -   -   -   *    (ARGM-TMP*)          *     -
+nw/wsj/05/wsj_0590   0   2    [WORD]   VBP          (VP*                 be  02   3   -   *           (V*)          *     -
+nw/wsj/05/wsj_0590   0   3    [WORD]    DT       (NP(NP*                 -    -   -   -   *        (ARG1*      (ARG1*     -
+nw/wsj/05/wsj_0590   0   4    [WORD]   NNS             *)            detail   -   1   -   *             *           *)    -
+nw/wsj/05/wsj_0590   0   5    [WORD]    TO   (SBAR(S(VP*                 -    -   -   -   *             *           *     -
+nw/wsj/05/wsj_0590   0   6    [WORD]    VB          (VP*                 -    -   -   -   *             *           *     -
+nw/wsj/05/wsj_0590   0   7    [WORD]   VBN          (VP*               nail  02   4   -   *             *         (V*)    -
+nw/wsj/05/wsj_0590   0   8    [WORD]    IN         (PRT*))))))))         -    -   -   -   *             *)          *     -
+nw/wsj/05/wsj_0590   0   9    [WORD]     .             *))               -    -   -   -   *             *           *     -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]   NNP    (TOP(S(NP*                     -    -   -   -          *    (ARG0*      (ARG0*               *     (20
+nw/wsj/05/wsj_0590   0    1    [WORD]   NNP             *)                    -    -   -   -    (PERSON)        *)          *)              *      20)
+nw/wsj/05/wsj_0590   0    2    [WORD]   VBZ          (VP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]   VBG          (VP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]    DT       (NP(NP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN             *)                 right   -   1   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]    IN          (PP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]    ``          (NP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]    JJ             *                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    ''             *                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]   NNS             *))                   -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]    TO        (S(VP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]    VB          (VP*                   keep  04   1   -          *       (V*)          *               *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]   NNP          (NP*)                    -    -   -   -       (ORG)        *           *               *      (6)
+nw/wsj/05/wsj_0590   0   14    [WORD]    IN          (PP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]    DT          (NP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   16    [WORD]    NN             *))))))               -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   17    [WORD]     ,             *                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]   VBG        (S(VP*                 assert  03   2   -          *         *         (V*)              *       -
+nw/wsj/05/wsj_0590   0   19    [WORD]    DT       (NP(NP*                     -    -   -   -          *         *      (ARG1*          (ARG1*       -
+nw/wsj/05/wsj_0590   0   20    [WORD]    JJ             *                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   21    [WORD]    NN             *)                    -    -   -   -          *         *           *               *)      -
+nw/wsj/05/wsj_0590   0   22    [WORD]    DT   (SBAR(S(NP*                     -    -   -   -          *         *           *          (ARG0*     (23
+nw/wsj/05/wsj_0590   0   23    [WORD]    NN             *)                    -    -   -   -          *         *           *               *)     23)
+nw/wsj/05/wsj_0590   0   24    [WORD]   VBZ          (VP*                     -    -   -   -          *         *           *               *       -
+nw/wsj/05/wsj_0590   0   25    [WORD]    RB             *                     -    -   -   -          *         *           *      (ARGM-NEG*)      -
+nw/wsj/05/wsj_0590   0   26    [WORD]    VB          (VP*)))))))))     recognize  02   3   -          *         *           *)            (V*)      -
+nw/wsj/05/wsj_0590   0   27    [WORD]     .             *))                   -    -   -   -          *         *           *               *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    CC       (TOP(S*                            -    -    -   -       *             *      (ARGM-DIS*)              *               *               *      -
+nw/wsj/05/wsj_0590   0    1    [WORD]    DT       (NP(NP*                            -    -    -   -       *             *          (ARG0*               *               *               *      -
+nw/wsj/05/wsj_0590   0    2    [WORD]    JJ             *                            -    -    -   -       *    (ARGM-ADJ*)              *               *               *               *      -
+nw/wsj/05/wsj_0590   0    3    [WORD]   NNP         (NML*                            -    -    -   -   (ORG*        (ARG0*               *               *               *               *      -
+nw/wsj/05/wsj_0590   0    4    [WORD]   NNP             *)                           -    -    -   -       *)            *)              *               *               *               *      -
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN             *)               interpretation  01    3   -       *           (V*)              *               *               *               *      -
+nw/wsj/05/wsj_0590   0    6    [WORD]    IN          (PP*                            -    -    -   -       *        (ARG1*               *               *               *               *      -
+nw/wsj/05/wsj_0590   0    7    [WORD]    DT          (NP*                            -    -    -   -       *             *               *               *               *               *     (3
+nw/wsj/05/wsj_0590   0    8    [WORD]    NN             *                            -    -    -   -       *             *               *               *               *               *      -
+nw/wsj/05/wsj_0590   0    9    [WORD]    NN             *)))                        ban   -    1   -       *             *)              *)              *               *               *      3)
+nw/wsj/05/wsj_0590   0   10    [WORD]    MD          (VP*                            -    -    -   -       *             *      (ARGM-MOD*)              *               *               *      -
+nw/wsj/05/wsj_0590   0   11    [WORD]    VB          (VP*                         raise  01    6   -       *             *             (V*)              *               *               *      -
+nw/wsj/05/wsj_0590   0   12    [WORD]   NNS       (NP(NP*)                     question  01    1   -       *             *          (ARG1*             (V*)              *          (ARG1*)     -
+nw/wsj/05/wsj_0590   0   13    [WORD]   WDT   (SBAR(WHNP*)                           -    -    -   -       *             *               *      (ARGM-ADJ*               *        (R-ARG1*)     -
+nw/wsj/05/wsj_0590   0   14    [WORD]    MD        (S(VP*                            -    -    -   -       *             *               *               *      (ARGM-MOD*)              *      -
+nw/wsj/05/wsj_0590   0   15    [WORD]    VB          (VP*                          have  02   12   -       *             *               *               *             (V*)     (ARGM-MOD*)     -
+nw/wsj/05/wsj_0590   0   16    [WORD]    TO        (S(VP*                            -    -    -   -       *             *               *               *               *               *      -
+nw/wsj/05/wsj_0590   0   17    [WORD]    VB          (VP*                            -    -    -   -       *             *               *               *               *               *      -
+nw/wsj/05/wsj_0590   0   18    [WORD]   VBN          (VP*)))))))))))             settle  02    2   -       *             *               *)              *)              *             (V*)     -
+nw/wsj/05/wsj_0590   0   19    [WORD]     .             *))                          -    -    -   -       *             *               *               *               *               *      -
+
+nw/wsj/05/wsj_0590   0   0    [WORD]    RB   (TOP(S(ADVP*)         -    -   -   -   *    (ARGM-DIS*)     -
+nw/wsj/05/wsj_0590   0   1    [WORD]     ,              *          -    -   -   -   *             *      -
+nw/wsj/05/wsj_0590   0   2    [WORD]    DT           (NP*          -    -   -   -   *        (ARG0*     (0
+nw/wsj/05/wsj_0590   0   3    [WORD]   NNS              *)       side   -   3   -   *             *)     0)
+nw/wsj/05/wsj_0590   0   4    [WORD]    MD           (VP*          -    -   -   -   *    (ARGM-MOD*)     -
+nw/wsj/05/wsj_0590   0   5    [WORD]    VB           (VP*        face  01   1   -   *           (V*)     -
+nw/wsj/05/wsj_0590   0   6    [WORD]    JJ           (NP*          -    -   -   -   *        (ARG1*      -
+nw/wsj/05/wsj_0590   0   7    [WORD]   NNS              *)))       -    -   -   -   *             *)     -
+nw/wsj/05/wsj_0590   0   8    [WORD]     .              *))        -    -   -   -   *             *      -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    DT   (TOP(S(NP*                   -    -   -   -        *        (ARG0*     (14
+nw/wsj/05/wsj_0590   0    1    [WORD]   NNS            *)                  -    -   -   -    (NORP)            *)     14)
+nw/wsj/05/wsj_0590   0    2    [WORD]    MD         (VP*                   -    -   -   -        *    (ARGM-MOD*)      -
+nw/wsj/05/wsj_0590   0    3    [WORD]    VB         (VP*               accuse  01   1   -        *           (V*)      -
+nw/wsj/05/wsj_0590   0    4    [WORD]    DT         (NP*                   -    -   -   -        *        (ARG1*     (20
+nw/wsj/05/wsj_0590   0    5    [WORD]    NN            *)           president   -   3   -        *             *)     20)
+nw/wsj/05/wsj_0590   0    6    [WORD]    IN         (PP*                   -    -   -   -        *        (ARG2*       -
+nw/wsj/05/wsj_0590   0    7    [WORD]    JJ       (S(VP*                   -    -   -   -        *             *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]   NNP         (NP*)                  -    -   -   -     (ORG)            *      (6)
+nw/wsj/05/wsj_0590   0    9    [WORD]    RB    (NP(ADJP*                   -    -   -   -        *             *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]    JJ            *)))))))            -    -   -   -        *             *)      -
+nw/wsj/05/wsj_0590   0   11    [WORD]     .            *))                 -    -   -   -        *             *       -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    CC    (TOP(S*                       -    -   -   -          *    (ARGM-DIS*)              *           *               *        -
+nw/wsj/05/wsj_0590   0    1    [WORD]   PRP       (NP*)                      -    -   -   -          *        (ARG0*)         (ARG0*)          *               *      (14)
+nw/wsj/05/wsj_0590   0    2    [WORD]   VBP       (VP*                 continue  01   1   -          *           (V*)              *           *               *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]    RB   (S(ADVP*)                      -    -   -   -          *        (ARG1*      (ARGM-MNR*)          *               *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]   VBG       (VP*                   attack  01   2   -          *             *             (V*)          *               *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]   NNP   (NP(NML*                       -    -   -   -       (ORG)            *          (ARG1*      (ARG1*          (ARG0*       (7)
+nw/wsj/05/wsj_0590   0    6    [WORD]   NNP          *)                      -    -   -   -          *             *               *           *               *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNP          *                       -    -   -   -   (PERSON*             *               *           *               *        -
+nw/wsj/05/wsj_0590   0    8    [WORD]   NNP          *)                      -    -   -   -          *)            *               *)          *)              *)       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    IN       (PP*                       -    -   -   -          *             *      (ARGM-CAU*           *               *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]   VBG     (S(VP*                       be  01   1   -          *             *               *         (V*)              *        -
+nw/wsj/05/wsj_0590   0   11    [WORD]    RB     (ADJP*                       -    -   -   -          *             *               *      (ARG2*      (ARGM-MNR*)       -
+nw/wsj/05/wsj_0590   0   12    [WORD]   VBG          *              accommodate  01   -   -          *             *               *           *             (V*)       -
+nw/wsj/05/wsj_0590   0   13    [WORD]    IN       (PP*                       -    -   -   -          *             *               *           *          (ARG1*        -
+nw/wsj/05/wsj_0590   0   14    [WORD]    DT       (NP*                       -    -   -   -          *             *               *           *               *      (23
+nw/wsj/05/wsj_0590   0   15    [WORD]    NN          *)))))))))              -    -   -   -          *             *)              *)          *)              *)      23)
+nw/wsj/05/wsj_0590   0   16    [WORD]     .          *))                     -    -   -   -          *             *               *           *               *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]    IN   (TOP(S(PP*                        -    -    -   -          *    (ARGM-TMP*               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    1    [WORD]    DT         (NP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    2    [WORD]    JJ            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    3    [WORD]    NN            *))                    time   -   12   -          *             *)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0    4    [WORD]     ,            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    5    [WORD]    DT       (S(NP*                        -    -    -   -          *        (ARG0*               *           *               *           *       (5
+nw/wsj/05/wsj_0590   0    6    [WORD]    JJ            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0    7    [WORD]   NNS            *)                       -    -    -   -          *             *)              *           *               *           *        5)
+nw/wsj/05/wsj_0590   0    8    [WORD]    MD         (VP*                        -    -    -   -          *    (ARGM-MOD*)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0    9    [WORD]    VB         (VP*                    accuse  01    1   -          *           (V*)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0   10    [WORD]   NNP         (NP*                        -    -    -   -          *        (ARG1*               *           *               *           *      (10
+nw/wsj/05/wsj_0590   0   11    [WORD]   NNP            *                        -    -    -   -    (PERSON)            *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   12    [WORD]    CC            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   13    [WORD]   NNP            *)                       -    -    -   -    (PERSON)            *)              *           *               *           *       10)
+nw/wsj/05/wsj_0590   0   14    [WORD]    IN         (PP*                        -    -    -   -          *        (ARG2*               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   15    [WORD]   VBG       (S(VP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   16    [WORD]    IN        (PRT*)))))))                 -    -    -   -          *             *)              *           *               *           *        -
+nw/wsj/05/wsj_0590   0   17    [WORD]     ,            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   18    [WORD]    CC            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   19    [WORD]   PRP       (S(NP*)                       -    -    -   -          *             *          (ARG0*)          *               *           *       (5)
+nw/wsj/05/wsj_0590   0   20    [WORD]    MD         (VP*                        -    -    -   -          *             *      (ARGM-MOD*)          *               *           *        -
+nw/wsj/05/wsj_0590   0   21    [WORD]    VB         (VP*                      warn  01    1   -          *             *             (V*)          *               *           *        -
+nw/wsj/05/wsj_0590   0   22    [WORD]    IN       (SBAR*                        -    -    -   -          *             *          (ARG1*           *               *           *        -
+nw/wsj/05/wsj_0590   0   23    [WORD]    DT    (S(NP(NP*                        -    -    -   -          *             *               *      (ARG0*               *           *      (10
+nw/wsj/05/wsj_0590   0   24    [WORD]   NNS            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   25    [WORD]   POS            *)                       -    -    -   -          *             *               *           *               *           *       10)
+nw/wsj/05/wsj_0590   0   26    [WORD]   NNS            *)                       -    -    -   -          *             *               *           *)              *           *        -
+nw/wsj/05/wsj_0590   0   27    [WORD]   VBP         (VP*                     raise  01    6   -          *             *               *         (V*)              *           *        -
+nw/wsj/05/wsj_0590   0   28    [WORD]    DT      (NP(NP*                        -    -    -   -          *             *               *      (ARG1*               *           *        -
+nw/wsj/05/wsj_0590   0   29    [WORD]    NN            *)                       -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   30    [WORD]    IN         (PP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   31    [WORD]   JJR      (NP(NP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   32    [WORD]    RB       (ADJP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   33    [WORD]    JJ            *)                       -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   34    [WORD]    JJ            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   35    [WORD]   NNS            *)                operation   -    1   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   36    [WORD]    IN         (PP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   37    [WORD]    DT   (NP(NP(NP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   38    [WORD]    NN            *)                   mining  01    2   -          *             *               *           *             (V*)          *        -
+nw/wsj/05/wsj_0590   0   39    [WORD]    IN         (PP*                        -    -    -   -          *             *               *           *      (ARGM-LOC*           *        -
+nw/wsj/05/wsj_0590   0   40    [WORD]    JJ         (NP*                        -    -    -   -      (NORP)            *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   41    [WORD]   NNS            *)))                     -    -    -   -          *             *               *           *               *)          *        -
+nw/wsj/05/wsj_0590   0   42    [WORD]    CC            *                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   43    [WORD]    DT         (NP*                        -    -    -   -          *             *               *           *               *           *        -
+nw/wsj/05/wsj_0590   0   44    [WORD]   NNP            *                        -    -    -   -       (GPE)            *               *           *               *      (ARG2*)     (11)
+nw/wsj/05/wsj_0590   0   45    [WORD]   NNS            *                       arm   -    2   -          *             *               *           *               *      (ARG1*)       -
+nw/wsj/05/wsj_0590   0   46    [WORD]   NNS            *))))))))))))          sale  01    1   -          *             *               *)          *)              *         (V*)       -
+nw/wsj/05/wsj_0590   0   47    [WORD]     .            *))                      -    -    -   -          *             *               *           *               *           *        -
+
+nw/wsj/05/wsj_0590   0    0    [WORD]     CC            (TOP(S*                                  -    -      -   -        *         *           *               *      (ARGM-DIS*)                *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    1    [WORD]     IN             (SBAR*                                  -    -      -   -        *         *           *               *      (ARGM-ADV*                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    2    [WORD]     DT           (S(S(NP*                                  -    -      -   -        *    (ARG1*           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    3    [WORD]     JJ                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    4    [WORD]     NN                  *)                           attitude   -      1   -        *         *)          *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    5    [WORD]    VBZ               (VP*))                              hold  03      4   -        *       (V*)          *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    6    [WORD]     CC                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    7    [WORD]     EX             (S(NP*)                                 -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    8    [WORD]    VBZ               (VP*                                  be  02      5   -        *         *         (V*)              *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0    9    [WORD]    JJR            (NP(NP*                                  -    -      -   -        *         *      (ARG1*      (ARGM-EXT*)              *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   10    [WORD]     NN                  *)                       consultation  01      2   -        *         *           *             (V*)              *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   11    [WORD]     IN               (PP*                                  -    -      -   -        *         *           *          (ARG2*               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   12    [WORD]     JJ               (NP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   13    [WORD]    NNS                  *)))))))                     activity   -      1   -        *         *           *)              *)              *)                *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   14    [WORD]      ,                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   15    [WORD]     DT               (NP*                                  -    -      -   -        *         *           *               *          (ARG0*                 *           *               *           *               *     (15
+nw/wsj/05/wsj_0590   0   16    [WORD]     NN                  *)                            country   -      3   -        *         *           *               *               *)                *           *               *           *               *      15)
+nw/wsj/05/wsj_0590   0   17    [WORD]     MD               (VP*                                  -    -      -   -        *         *           *               *      (ARGM-MOD*)                *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   18    [WORD]     VB               (VP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   19    [WORD]    VBG               (VP*                               enter  01      1   -        *         *           *               *             (V*)                *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   20    [WORD]     DT            (NP(NP*                                  -    -      -   -   (DATE*         *           *               *          (ARG1*        (ARGM-TMP*           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   21    [WORD]     NN                  *)                                 -    -      -   -        *)        *           *               *               *                 *)          *               *           *               *       -
+nw/wsj/05/wsj_0590   0   22    [WORD]    WRB      (SBAR(WHADVP*)                                 -    -      -   -        *         *           *               *               *      (R-ARGM-TMP*)          *               *           *               *       -
+nw/wsj/05/wsj_0590   0   23    [WORD]     JJ             (S(NP*                                  -    -      -   -        *         *           *               *               *            (ARG1*           *               *           *               *      (1
+nw/wsj/05/wsj_0590   0   24    [WORD]     NN             (ADJP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   25    [WORD]   HYPH                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   26    [WORD]     JJ                  *)                                 -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   27    [WORD]    NNS                  *)                             scheme   -      1   -        *         *           *               *               *                 *)          *               *           *               *       1)
+nw/wsj/05/wsj_0590   0   28    [WORD]    VBP               (VP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   29    [WORD]    VBN               (VP*                               scrap  01      1   -        *         *           *               *               *               (V*)          *               *           *               *       -
+nw/wsj/05/wsj_0590   0   30    [WORD]     IN             (SBAR*                                  -    -      -   -        *         *           *               *               *        (ARGM-TMP*           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   31    [WORD]    PRP             (S(NP*)                                 -    -      -   -        *         *           *               *               *                 *      (ARG1*)              *           *               *      (1)
+nw/wsj/05/wsj_0590   0   32    [WORD]    VBP               (VP*                                 get  05   11.2   -        *         *           *               *               *                 *         (V*)              *           *               *       -
+nw/wsj/05/wsj_0590   0   33    [WORD]     IN               (PP*                                  -    -      -   -        *         *           *               *               *                 *      (ARG2*               *           *               *       -
+nw/wsj/05/wsj_0590   0   34    [WORD]     DT               (NP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   35    [WORD]     NN                  *                             drawing   -      2   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   36    [WORD]    NNS                  *)))))                          board   -      5   -        *         *           *               *               *                 *)          *)              *           *               *       -
+nw/wsj/05/wsj_0590   0   37    [WORD]      ,                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   38    [WORD]     IN             (SBAR*                                  -    -      -   -        *         *           *               *               *        (ARGM-ADV*           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   39    [WORD]     JJ   (S(NP(ADJP(ADJP*)                                 -    -      -   -        *         *           *               *               *                 *           *          (ARG1*           *               *       -
+nw/wsj/05/wsj_0590   0   40    [WORD]     CC                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   41    [WORD]     RB             (ADJP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   42    [WORD]   HYPH                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   43    [WORD]    VBN                  *))                                -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   44    [WORD]     JJ                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   45    [WORD]    NNS                  *)                          operation   -      1   -        *         *           *               *               *                 *           *               *)          *               *       -
+nw/wsj/05/wsj_0590   0   46    [WORD]     MD               (VP*                                  -    -      -   -        *         *           *               *               *                 *           *      (ARGM-MOD*)          *               *       -
+nw/wsj/05/wsj_0590   0   47    [WORD]     VB               (VP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   48    [WORD]    VBN               (VP*                           undertake  01      1   -        *         *           *               *               *                 *           *             (V*)          *               *       -
+nw/wsj/05/wsj_0590   0   49    [WORD]     IN               (PP*                                  -    -      -   -        *         *           *               *               *                 *           *      (ARGM-MNR*           *               *       -
+nw/wsj/05/wsj_0590   0   50    [WORD]     NN               (NP*                                fear  01      1   -        *         *           *               *               *                 *           *               *         (V*)              *       -
+nw/wsj/05/wsj_0590   0   51    [WORD]     IN             (SBAR*                                  -    -      -   -        *         *           *               *               *                 *           *               *      (ARG1*               *       -
+nw/wsj/05/wsj_0590   0   52    [WORD]     DT             (S(NP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *          (ARG0*      (6
+nw/wsj/05/wsj_0590   0   53    [WORD]     JJ                  *                                  -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+nw/wsj/05/wsj_0590   0   54    [WORD]    NNP                  *)                                 -    -      -   -     (ORG)        *           *               *               *                 *           *               *           *               *)      6)
+nw/wsj/05/wsj_0590   0   55    [WORD]     MD               (VP*                                  -    -      -   -        *         *           *               *               *                 *           *               *           *      (ARGM-MOD*)      -
+nw/wsj/05/wsj_0590   0   56    [WORD]     VB               (VP*)))))))))))))))))))             balk  01      1   -        *         *           *               *               *)                *)          *               *)          *)            (V*)      -
+nw/wsj/05/wsj_0590   0   57    [WORD]      .                  *))                                -    -      -   -        *         *           *               *               *                 *           *               *           *               *       -
+
+#end document

@@ -1,0 +1,48 @@
+#begin document (nw/wsj/07/wsj_0703); part 000
+nw/wsj/07/wsj_0703   0    0    [WORD]    NNP   (TOP(S(S(NP(NP*             -    -   -   -        (GPE)       (ARG1*               *      (ARG1*     -
+nw/wsj/07/wsj_0703   0    1    [WORD]    POS                 *)            -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0    2    [WORD]     NN                 *             -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0    3    [WORD]     NN                 *)            -    -   -   -           *             *)              *           *     -
+nw/wsj/07/wsj_0703   0    4    [WORD]    VBD              (VP*             be  01   -   -           *           (V*)              *           *     -
+nw/wsj/07/wsj_0703   0    5    [WORD]     JJ            (ADJP*)            -    -   -   -           *        (ARG2*)              *           *     -
+nw/wsj/07/wsj_0703   0    6    [WORD]     IN              (PP*             -    -   -   -           *    (ARGM-LOC*               *           *     -
+nw/wsj/07/wsj_0703   0    7    [WORD]     DT              (NP*             -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0    8    [WORD]     RB       (ADJP(ADVP*)            -    -   -   -       (DATE)            *      (ARGM-MNR*)          *     -
+nw/wsj/07/wsj_0703   0    9    [WORD]    VBN                 *)        adjust  01   -   -           *             *             (V*)          *     -
+nw/wsj/07/wsj_0703   0   10    [WORD]     CD                 *             -    -   -   -   (PERCENT*             *          (ARG1*           *     -
+nw/wsj/07/wsj_0703   0   11    [WORD]     NN                 *))           -    -   -   -           *)            *)              *)          *     -
+nw/wsj/07/wsj_0703   0   12    [WORD]     IN              (PP*             -    -   -   -           *    (ARGM-TMP*               *           *     -
+nw/wsj/07/wsj_0703   0   13    [WORD]    NNP              (NP*))))         -    -   -   -       (DATE)            *)              *           *)    -
+nw/wsj/07/wsj_0703   0   14    [WORD]      ,                 *             -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0   15    [WORD]     DT              (NP*             -    -   -   -       (ORG*             *               *      (ARG0*     -
+nw/wsj/07/wsj_0703   0   16    [WORD]    NNP             (NML*             -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0   17    [WORD]   NNPS                 *)            -    -   -   -           *             *               *           *     -
+nw/wsj/07/wsj_0703   0   18    [WORD]    NNP                 *)            -    -   -   -           *)            *               *           *)    -
+nw/wsj/07/wsj_0703   0   19    [WORD]    VBD              (VP*)           say  01   -   -           *             *               *         (V*)    -
+nw/wsj/07/wsj_0703   0   20    [WORD]      .                 *))           -    -   -   -           *             *               *           *     -
+
+nw/wsj/07/wsj_0703   0    0    [WORD]    IN    (TOP(S(PP*            -    -   -   -            *    (ARGM-TMP*               *     -
+nw/wsj/07/wsj_0703   0    1    [WORD]   NNP          (NP*))          -    -   -   -        (DATE)            *)              *     -
+nw/wsj/07/wsj_0703   0    2    [WORD]     ,             *            -    -   -   -            *             *               *     -
+nw/wsj/07/wsj_0703   0    3    [WORD]    DT       (NP(NP*            -    -   -   -            *        (ARG1*               *     -
+nw/wsj/07/wsj_0703   0    4    [WORD]    NN             *)           -    -   -   -            *             *               *     -
+nw/wsj/07/wsj_0703   0    5    [WORD]    IN          (PP*            -    -   -   -            *             *               *     -
+nw/wsj/07/wsj_0703   0    6    [WORD]    JJ          (NP*)))         -    -   -   -            *             *)              *     -
+nw/wsj/07/wsj_0703   0    7    [WORD]   VBD          (VP*          rise  01   -   -            *           (V*)              *     -
+nw/wsj/07/wsj_0703   0    8    [WORD]    CD          (NP*            -    -   -   -    (PERCENT*        (ARG2*               *     -
+nw/wsj/07/wsj_0703   0    9    [WORD]    NN             *)           -    -   -   -            *)            *)              *     -
+nw/wsj/07/wsj_0703   0   10    [WORD]    IN          (PP*            -    -   -   -            *        (ARG3*               *     -
+nw/wsj/07/wsj_0703   0   11    [WORD]    DT          (NP*            -    -   -   -       (DATE*             *               *     -
+nw/wsj/07/wsj_0703   0   12    [WORD]    JJ             *            -    -   -   -            *             *               *     -
+nw/wsj/07/wsj_0703   0   13    [WORD]    NN             *))          -    -   -   -            *)            *)              *     -
+nw/wsj/07/wsj_0703   0   14    [WORD]    IN          (PP*            -    -   -   -            *        (ARG4*               *     -
+nw/wsj/07/wsj_0703   0   15    [WORD]    CD       (NP(QP*            -    -   -   -   (CARDINAL*             *               *     -
+nw/wsj/07/wsj_0703   0   16    [WORD]    CD             *)))         -    -   -   -            *)            *)              *     -
+nw/wsj/07/wsj_0703   0   17    [WORD]    IN          (PP*            -    -   -   -            *    (ARGM-MNR*               *     -
+nw/wsj/07/wsj_0703   0   18    [WORD]    DT          (NP*            -    -   -   -            *             *               *     -
+nw/wsj/07/wsj_0703   0   19    [WORD]    RB   (ADJP(ADVP*)           -    -   -   -        (DATE)            *      (ARGM-TMP*)    -
+nw/wsj/07/wsj_0703   0   20    [WORD]   VBN             *)       adjust  01   -   -            *             *             (V*)    -
+nw/wsj/07/wsj_0703   0   21    [WORD]    NN             *)))         -    -   -   -            *             *)         (ARG1*)    -
+nw/wsj/07/wsj_0703   0   22    [WORD]     .             *))          -    -   -   -            *             *               *     -
+
+#end document

@@ -1,0 +1,64 @@
+#begin document (bn/cnn/02/cnn_0200); part 000
+bn/cnn/02/cnn_0200   0    0    [WORD]    IN      (TOP(S(PP*                    -    -   -   -        *    (ARGM-LOC*           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0    1    [WORD]    JJ            (NP*                    -    -   -   -        *             *           *        *        *                 *      (1
+bn/cnn/02/cnn_0200   0    2    [WORD]   NNP               *))                  -    -   -   -     (GPE)            *)          *        *        *                 *       1)
+bn/cnn/02/cnn_0200   0    3    [WORD]     ,               *                    -    -   -   -        *             *           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0    4    [WORD]   NNP            (NP*                    -    -   -   -     (GPE)       (ARG2*           *        *        *                 *      (0
+bn/cnn/02/cnn_0200   0    5    [WORD]   NNS               *)                   -    -   -   -        *             *)          *        *        *                 *       0)
+bn/cnn/02/cnn_0200   0    6    [WORD]   VBD            (VP*                   hit  01   1   -        *           (V*)          *        *        *                 *      (2)
+bn/cnn/02/cnn_0200   0    7    [WORD]   NNS         (NP(NP*)               target   -   2   -        *        (ARG1*      (ARG2*)       *        *                 *      (3
+bn/cnn/02/cnn_0200   0    8    [WORD]   VBG            (VP*               include  01   1   -        *             *         (V*)       *        *                 *       -
+bn/cnn/02/cnn_0200   0    9    [WORD]    DT      (NP(NP(NP*                    -    -   -   -        *             *      (ARG1*        *        *        (ARGM-LOC*       -
+bn/cnn/02/cnn_0200   0   10    [WORD]    NN               *)                ridge   -   1   -        *             *           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0   11    [WORD]    RB          (ADVP*                    -    -   -   -        *             *           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0   12    [WORD]    IN            (PP*                    -    -   -   -        *             *           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0   13    [WORD]   NNP            (NP*))))                -    -   -   -     (GPE)            *           *        *        *                 *)      -
+bn/cnn/02/cnn_0200   0   14    [WORD]     ,               *                    -    -   -   -        *             *           *        *        *                 *       -
+bn/cnn/02/cnn_0200   0   15    [WORD]   WRB   (SBAR(WHADVP*)                   -    -   -   -        *             *           *        *        *      (R-ARGM-LOC*)      -
+bn/cnn/02/cnn_0200   0   16    [WORD]    JJ          (S(NP*                    -    -   -   -    (NORP)            *           *        *        *            (ARG1*       -
+bn/cnn/02/cnn_0200   0   17    [WORD]   NNS               *)                   -    -   -   -        *             *           *        *        *                 *)      -
+bn/cnn/02/cnn_0200   0   18    [WORD]   VBP            (VP*                  have  01   -   -        *             *           *      (V*)       *                 *       -
+bn/cnn/02/cnn_0200   0   19    [WORD]   VBN            (VP*                    be  03   -   -        *             *           *        *      (V*)                *       -
+bn/cnn/02/cnn_0200   0   20    [WORD]   VBN            (VP*)))))))))     entrench  01   -   -        *             *)          *)       *        *               (V*)      3)
+bn/cnn/02/cnn_0200   0   21    [WORD]     .               *))                  -    -   -   -        *             *           *        *        *                 *       -
+
+bn/cnn/02/cnn_0200   0   0    [WORD]     CD   (TOP(S(NP*           -    -   -   -    (CARDINAL)   (ARG2*      (0
+bn/cnn/02/cnn_0200   0   1    [WORD]    NNP            *           -    -   -   -    (PRODUCT*         *       -
+bn/cnn/02/cnn_0200   0   2    [WORD]   NNPS            *)          -    -   -   -            *)        *)      0)
+bn/cnn/02/cnn_0200   0   3    [WORD]    VBD         (VP*       strike  01   1   -            *       (V*)     (2)
+bn/cnn/02/cnn_0200   0   4    [WORD]     DT         (NP*           -    -   -   -            *    (ARG1*      (3
+bn/cnn/02/cnn_0200   0   5    [WORD]    NNS            *))     target   -   2   -            *         *)      3)
+bn/cnn/02/cnn_0200   0   6    [WORD]      .            *))         -    -   -   -            *         *       -
+
+bn/cnn/02/cnn_0200   0    0    [WORD]    DT   (TOP(S(NP*               -    -   -   -        *    (ARG1*     (1
+bn/cnn/02/cnn_0200   0    1    [WORD]    JJ            *               -    -   -   -        *         *      -
+bn/cnn/02/cnn_0200   0    2    [WORD]    NN            *)            area   -   1   -        *         *)     1)
+bn/cnn/02/cnn_0200   0    3    [WORD]   VBD         (VP*               be  01   1   -        *       (V*)     -
+bn/cnn/02/cnn_0200   0    4    [WORD]    DT      (NP(NP*               -    -   -   -        *    (ARG2*      -
+bn/cnn/02/cnn_0200   0    5    [WORD]    NN            *)            site   -   1   -        *         *      -
+bn/cnn/02/cnn_0200   0    6    [WORD]    IN         (PP*               -    -   -   -        *         *      -
+bn/cnn/02/cnn_0200   0    7    [WORD]    JJ         (NP*               -    -   -   -        *         *      -
+bn/cnn/02/cnn_0200   0    8    [WORD]    NN            *))           bomb   -   1   -        *         *      -
+bn/cnn/02/cnn_0200   0    9    [WORD]    NN         (NP*)))     yesterday   -   1   -    (DATE)        *)     -
+bn/cnn/02/cnn_0200   0   10    [WORD]     .            *))             -    -   -   -        *         *      -
+
+bn/cnn/02/cnn_0200   0    0    [WORD]     IN   (TOP(S(PP*                -    -   -   -            *    (ARGM-TMP*      (ARGM-TMP*       -
+bn/cnn/02/cnn_0200   0    1    [WORD]     NN      (NP(NP*             today   -   2   -        (DATE)            *               *      (2
+bn/cnn/02/cnn_0200   0    2    [WORD]    POS            *)               -    -   -   -            *             *               *       -
+bn/cnn/02/cnn_0200   0    3    [WORD]     NN            *               air   -   4   -            *             *               *       -
+bn/cnn/02/cnn_0200   0    4    [WORD]    NNS            *))          strike   -   2   -            *             *)              *)      2)
+bn/cnn/02/cnn_0200   0    5    [WORD]      ,            *                -    -   -   -            *             *               *       -
+bn/cnn/02/cnn_0200   0    6    [WORD]     CD         (NP*                -    -   -   -    (CARDINAL)       (ARG0*          (ARG0*      (4
+bn/cnn/02/cnn_0200   0    7    [WORD]     JJ            *                -    -   -   -        (NORP)            *               *       -
+bn/cnn/02/cnn_0200   0    8    [WORD]    NNS            *)               -    -   -   -            *             *)              *)      4)
+bn/cnn/02/cnn_0200   0    9    [WORD]    VBD      (VP(VP*           abandon  01   1   -            *           (V*)              *       -
+bn/cnn/02/cnn_0200   0   10    [WORD]   PRP$         (NP*                -    -   -   -            *        (ARG1*               *      (4)
+bn/cnn/02/cnn_0200   0   11    [WORD]    NNS            *))            post   -   7   -            *             *)              *       -
+bn/cnn/02/cnn_0200   0   12    [WORD]     CC            *                -    -   -   -            *             *               *       -
+bn/cnn/02/cnn_0200   0   13    [WORD]    VBD         (VP*         surrender  01   1   -            *             *             (V*)      -
+bn/cnn/02/cnn_0200   0   14    [WORD]     IN         (PP*                -    -   -   -            *             *          (ARG2*       -
+bn/cnn/02/cnn_0200   0   15    [WORD]     JJ         (NP*                -    -   -   -        (NORP)            *               *       -
+bn/cnn/02/cnn_0200   0   16    [WORD]    NNS            *))))       fighter   -   1   -            *             *               *)      -
+bn/cnn/02/cnn_0200   0   17    [WORD]      .            *))              -    -   -   -            *             *               *       -
+
+#end document

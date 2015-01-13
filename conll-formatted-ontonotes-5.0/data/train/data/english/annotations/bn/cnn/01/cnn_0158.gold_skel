@@ -1,0 +1,435 @@
+#begin document (bn/cnn/01/cnn_0158); part 000
+bn/cnn/01/cnn_0158   0    0    [WORD]    DT    (TOP(S(NP*                  -    -   -   -   *         *          (ARG1*        *           *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]    NN             *              travel   -   2   -   *    (ARG2*)              *        *           *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]    NN             *)               rush  01   1   -   *       (V*)              *)       *           *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]   VBZ          (VP*                  be  01   1   -   *         *             (V*)       *           *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]    RB             *                  -    -   -   -   *         *      (ARGM-NEG*)       *           *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]    DT       (NP(NP*                  -    -   -   -   *         *          (ARG2*        *           *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]    JJ             *                  -    -   -   -   *         *               *        *           *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]    NN             *)              thing   -   1   -   *         *               *        *           *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]    DT   (SBAR(S(NP*                  -    -   -   -   *         *               *        *      (ARG0*     -
+bn/cnn/01/cnn_0158   0    9    [WORD]    NN             *             airline   -   1   -   *         *               *        *           *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]   NNS             *)                 -    -   -   -   *         *               *        *           *)    -
+bn/cnn/01/cnn_0158   0   11    [WORD]   VBP          (VP*                  be  03   -   -   *         *               *      (V*)          *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]   VBG          (VP*            complain  01   1   -   *         *               *        *         (V*)    -
+bn/cnn/01/cnn_0158   0   13    [WORD]    IN          (PP*)))))))           -    -   -   -   *         *               *)       *      (ARG1*)    -
+bn/cnn/01/cnn_0158   0   14    [WORD]     .             *))                -    -   -   -   *         *               *        *           *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    DT   (TOP(S(S(NP*)                -    -   -   -   *         *        *           *      (5)
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBP           (VP*                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]   PRP    (SBAR(S(NP*)                -    -   -   -   *    (ARG1*)       *           *      (5)
+bn/cnn/01/cnn_0158   0    3    [WORD]   VBP           (VP*                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]   JJR    (ADJP(ADJP*))               -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]    IN           (PP*                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]   VBG         (S(VP*)))             fly  01   1   -   *       (V*)       *           *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]    IN         (SBAR*                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]   PRP         (S(NP*)                -    -   -   -   *         *        *           *      (5)
+bn/cnn/01/cnn_0158   0    9    [WORD]   VBD           (VP*                 do  01   7   -   *         *      (V*)          *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]    RB         (ADVP*)))))))))        -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]     ,              *                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]    CC              *                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]   VBZ           (SQ*                 be  01   1   -   *         *        *         (V*)      -
+bn/cnn/01/cnn_0158   0   14    [WORD]    ``           (NP*                 -    -   -   -   *         *        *      (ARG1*       -
+bn/cnn/01/cnn_0158   0   15    [WORD]    JJ              *                 -    -   -   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0   16    [WORD]    NN              *                air   -   1   -   *         *        *           *       -
+bn/cnn/01/cnn_0158   0   17    [WORD]    ''              *)                -    -   -   -   *         *        *           *)      -
+bn/cnn/01/cnn_0158   0   18    [WORD]    TO         (S(VP*                 -    -   -   -   *         *        *      (ARG2*       -
+bn/cnn/01/cnn_0158   0   19    [WORD]    VB           (VP*))))          blame   -   1   -   *         *        *           *)      -
+bn/cnn/01/cnn_0158   0   20    [WORD]     .              *))               -    -   -   -   *         *        *           *       -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   NNP   (TOP(S(NP*         -    -   -   -   (PERSON*        (ARG0*     (8
+bn/cnn/01/cnn_0158   0   1    [WORD]   NNP            *)        -    -   -   -          *)            *)     8)
+bn/cnn/01/cnn_0158   0   2    [WORD]   VBZ         (VP*       take   -   2   -          *    (ARGM-LVB*)     -
+bn/cnn/01/cnn_0158   0   3    [WORD]    DT         (NP*         -    -   -   -          *             *      -
+bn/cnn/01/cnn_0158   0   4    [WORD]    NN            *))     look  01   2   -          *           (V*)     -
+bn/cnn/01/cnn_0158   0   5    [WORD]     .            *))       -    -   -   -          *             *      -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    VB   (TOP(S(S(VP*                      ask  01   1   -   *       (V*)          *               *               *               *       -
+bn/cnn/01/cnn_0158   0    1    [WORD]   NNS           (NP*)                      -    -   -   -   *    (ARG2*)          *               *               *               *      (9)
+bn/cnn/01/cnn_0158   0    2    [WORD]    WP    (SBAR(WHNP*)                      -    -   -   -   *    (ARG1*      (ARG1*)              *               *               *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]   PRP         (S(NP*)                      -    -   -   -   *         *      (ARG0*)              *               *               *      (9)
+bn/cnn/01/cnn_0158   0    4    [WORD]   VBP           (VP*                    think  01   -   -   *         *         (V*)              *               *               *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]    IN           (PP*                       -    -   -   -   *         *      (ARG2*               *               *               *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]    DT        (NP(NP*                       -    -   -   -   *         *           *          (ARG1*               *               *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]    NN              *)                     air   -   1   -   *         *           *               *)              *               *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]   PRP    (SBAR(S(NP*)                      -    -   -   -   *         *           *          (ARG0*)              *               *      (9)
+bn/cnn/01/cnn_0158   0    9    [WORD]   VBP           (VP*                       -    -   -   -   *         *           *               *               *               *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]   VBG           (VP*                  breathe  01   1   -   *         *           *             (V*)              *               *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]    IN           (PP*                       -    -   -   -   *         *           *      (ARGM-LOC*               *               *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]    DT           (NP*                       -    -   -   -   *         *           *               *               *               *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]    NN              *)))))))))))))          -    -   -   -   *         *)          *)              *)              *               *       -
+bn/cnn/01/cnn_0158   0   14    [WORD]     ,              *                       -    -   -   -   *         *           *               *               *               *       -
+bn/cnn/01/cnn_0158   0   15    [WORD]    CC              *                       -    -   -   -   *         *           *               *               *               *       -
+bn/cnn/01/cnn_0158   0   16    [WORD]   PRP         (S(NP*)                      -    -   -   -   *         *           *               *          (ARG0*)              *       -
+bn/cnn/01/cnn_0158   0   17    [WORD]    MD           (VP*                       -    -   -   -   *         *           *               *      (ARGM-MOD*)              *       -
+bn/cnn/01/cnn_0158   0   18    [WORD]    VB           (VP*                      get  01   1   -   *         *           *               *             (V*)              *       -
+bn/cnn/01/cnn_0158   0   19    [WORD]   NNS        (NP(NP*)                  answer  01   1   -   *         *           *               *          (ARG1*             (V*)      -
+bn/cnn/01/cnn_0158   0   20    [WORD]    JJ         (ADJP*                       -    -   -   -   *         *           *               *               *      (ARGM-ADJ*       -
+bn/cnn/01/cnn_0158   0   21    [WORD]    IN           (PP*                       -    -   -   -   *         *           *               *               *               *       -
+bn/cnn/01/cnn_0158   0   22    [WORD]    DT           (NP*)))))))                -    -   -   -   *         *           *               *               *)              *)      -
+bn/cnn/01/cnn_0158   0   23    [WORD]     .              *))                     -    -   -   -   *         *           *               *               *               *       -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]   PRP    (TOP(S(NP*)                 -    -   -   -   *      *          (ARG0*)    -
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBP          (VP*                  do  01   -   -   *    (V*)              *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]    RB             *                  -    -   -   -   *      *      (ARGM-NEG*)    -
+bn/cnn/01/cnn_0158   0    3    [WORD]    VB          (VP*               think  01   1   -   *      *             (V*)    -
+bn/cnn/01/cnn_0158   0    4    [WORD]   PRP   (SBAR(S(NP*)                 -    -   -   -   *      *          (ARG1*     -
+bn/cnn/01/cnn_0158   0    5    [WORD]   VBZ          (VP*                  be   -   1   -   *      *               *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]    DT       (NP(NP*                  -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]    JJ        (ADJP*                  -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]    CC             *                  -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]    JJ             *)                 -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]    NN             *)            quality   -   1   -   *      *               *     -
+bn/cnn/01/cnn_0158   0   11    [WORD]    IN          (PP*                  -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]    NN          (NP*))))))))         air   -   1   -   *      *               *)    -
+bn/cnn/01/cnn_0158   0   13    [WORD]     .             *))                -    -   -   -   *      *               *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]   PRP   (TOP(S(NP*)                   -    -   -   -   *      *           *           *      (2)
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBZ         (VP*                    be   -   1   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]    IN         (PP*                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]    JJ         (NP*                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]    NN            *))             quality   -   1   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]     ,            *                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]    IN       (SBAR*                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]   PRP       (S(NP*)                   -    -   -   -   *      *      (ARG1*)     (ARG1*)     (2)
+bn/cnn/01/cnn_0158   0    8    [WORD]   VBZ         (VP*                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0    9    [WORD]   VBN         (VP*                    be  03   -   -   *    (V*)          *           *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]   VBN         (VP*           recirculate  01   -   -   *      *         (V*)          *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]    CC            *                    -    -   -   -   *      *           *           *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]   VBN            *))))))     recirculate  01   -   -   *      *           *         (V*)      -
+bn/cnn/01/cnn_0158   0   13    [WORD]     .            *))                  -    -   -   -   *      *           *           *       -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   RB   (TOP(NP(ADJP*              -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   1    [WORD]   JJ               *)             -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   2    [WORD]   NN               *       complaint  -   2   -   *   -
+bn/cnn/01/cnn_0158   0   3    [WORD]    .               *))            -   -   -   -   *   -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]   PRP   (TOP(S(S(NP*)          -    -   -   -   *    (ARG0*)          *      (3)
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBP           (VP*         call  02   4   -   *       (V*)          *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]   PRP           (NP*)))        -    -   -   -   *    (ARG1*)          *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]     ,              *           -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]   PRP         (S(NP*)          -    -   -   -   *         *      (ARG0*)     (3)
+bn/cnn/01/cnn_0158   0    5    [WORD]   VBP           (VP*         have  03   4   -   *         *         (V*)      -
+bn/cnn/01/cnn_0158   0    6    [WORD]    DT        (NP(NP*           -    -   -   -   *         *      (ARG1*       -
+bn/cnn/01/cnn_0158   0    7    [WORD]    JJ              *           -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]    NN              *)          -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0    9    [WORD]     ,              *           -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]    RB         (ADVP*)          -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]     ,              *           -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]    NN           (NP*           -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]    NN              *)          -    -   -   -   *         *           *       -
+bn/cnn/01/cnn_0158   0   14    [WORD]    NN           (NP*))))       -    -   -   -   *         *           *)      -
+bn/cnn/01/cnn_0158   0   15    [WORD]     .              *))         -    -   -   -   *         *           *       -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    EX   (TOP(S(S(NP*)                -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBZ           (VP*                 be  02   3   -   *       (V*)       *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]    DT           (NP*                 -    -   -   -   *    (ARG1*        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]    JJ              *                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]    NN              *                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]    IN         (SBAR*                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]    DT      (S(NP(NP*                 -    -   -   -   *         *        *      (ARG0*        *        *               *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]    NN              *)               air   -   1   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]    IN           (PP*                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0    9    [WORD]   NNS           (NP*)))              -    -   -   -   *         *        *           *)       *        *               *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]   VBZ           (VP*                 be  03   -   -   *         *      (V*)          *        *        *               *      (4)
+bn/cnn/01/cnn_0158   0   11    [WORD]   VBG           (VP*               teem  01   1   -   *         *        *         (V*)       *        *               *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]    IN           (PP*                 -    -   -   -   *         *        *      (ARG1*        *        *               *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]    JJ           (NP*                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0   14    [WORD]   NNS              *)))))))))        -    -   -   -   *         *)       *           *)       *        *               *       -
+bn/cnn/01/cnn_0158   0   15    [WORD]     ,              *                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0   16    [WORD]    CC              *                 -    -   -   -   *         *        *           *        *        *               *       -
+bn/cnn/01/cnn_0158   0   17    [WORD]    DT         (S(NP*)                -    -   -   -   *         *        *           *        *        *          (ARG1*)     (4)
+bn/cnn/01/cnn_0158   0   18    [WORD]   VBZ           (VP*               have  01   -   -   *         *        *           *      (V*)       *               *       -
+bn/cnn/01/cnn_0158   0   19    [WORD]    RB         (ADVP*)                -    -   -   -   *         *        *           *        *        *      (ARGM-NEG*)      -
+bn/cnn/01/cnn_0158   0   20    [WORD]   VBN           (VP*                 be  03   -   -   *         *        *           *        *      (V*)              *       -
+bn/cnn/01/cnn_0158   0   21    [WORD]    RB         (ADVP*)                -    -   -   -   *         *        *           *        *        *      (ARGM-MNR*)      -
+bn/cnn/01/cnn_0158   0   22    [WORD]   VBN           (VP*))))          prove  01   -   -   *         *        *           *        *        *             (V*)      -
+bn/cnn/01/cnn_0158   0   23    [WORD]     .              *))               -    -   -   -   *         *        *           *        *        *               *       -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]     IN    (TOP(S(PP*                       -    -   -   -   *    (ARGM-DIS*               *               *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]     NN          (NP*))                   fact   -   5   -   *             *)              *               *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]      ,             *                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]    PRP       (NP(NP*))                     -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]    VBZ          (VP*                       be  01   1   -   *           (V*)              *               *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]     JJ        (ADJP*)                      -    -   -   -   *        (ARG2*)              *               *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]     IN        (SBAR*                       -    -   -   -   *        (ARG1*               *               *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]     DT     (S(NP(NP*                       -    -   -   -   *             *          (ARG1*               *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]     NN             *)                     air   -   1   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]     IN          (PP*                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]   PRP$          (NP*                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   11    [WORD]     JJ             *                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]     NN             *)))                  home   -   1   -   *             *               *)              *     -
+bn/cnn/01/cnn_0158   0   13    [WORD]     MD          (VP*                       -    -   -   -   *             *      (ARGM-MOD*)              *     -
+bn/cnn/01/cnn_0158   0   14    [WORD]     VB          (VP*                       be  01   1   -   *             *             (V*)              *     -
+bn/cnn/01/cnn_0158   0   15    [WORD]    JJR   (ADJP(ADJP*)                      -    -   -   -   *             *          (ARG2*               *     -
+bn/cnn/01/cnn_0158   0   16    [WORD]     IN          (PP*                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   17    [WORD]     WP   (SBAR(WHNP*)                      -    -   -   -   *             *               *          (ARG1*)    -
+bn/cnn/01/cnn_0158   0   18    [WORD]    PRP        (S(NP*)                      -    -   -   -   *             *               *          (ARG0*)    -
+bn/cnn/01/cnn_0158   0   19    [WORD]    VBP          (VP*                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   20    [WORD]    VBG          (VP*                  breathe  01   1   -   *             *               *             (V*)    -
+bn/cnn/01/cnn_0158   0   21    [WORD]     IN          (PP*                       -    -   -   -   *             *               *      (ARGM-LOC*     -
+bn/cnn/01/cnn_0158   0   22    [WORD]     DT          (NP*                       -    -   -   -   *             *               *               *     -
+bn/cnn/01/cnn_0158   0   23    [WORD]     NN             *)))))))))))))          -    -   -   -   *             *)              *)              *)    -
+bn/cnn/01/cnn_0158   0   24    [WORD]      .             *))                     -    -   -   -   *             *               *               *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    JJ   (TOP(FRAG(ADJP*)                      -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0    1    [WORD]    IN            (SBAR*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]    DT       (S(S(NP(NP*                       -    -   -   -   *        (ARG1*          (ARG1*        *           *               *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]    JJ                 *                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]    NN                 *)                     air   -   1   -   *             *)              *        *           *               *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]   VBN              (VP*                     pull  01   1   -   *           (V*)              *        *           *               *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]    RB            (ADVP*)                      -    -   -   -   *        (ARG2*)              *        *           *               *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]    IN              (PP*                       -    -   -   -   *    (ARGM-TMP*               *        *           *               *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]    NN              (NP*))))               flight   -   2   -   *             *)              *)       *           *               *       -
+bn/cnn/01/cnn_0158   0    9    [WORD]    MD              (VP*                       -    -   -   -   *             *      (ARGM-MOD*)       *           *               *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]    VB              (VP*                       be  01   1   -   *             *             (V*)       *           *               *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]   RBR       (ADJP(ADJP*                       -    -   -   -   *             *          (ARG2*        *           *               *       -
+bn/cnn/01/cnn_0158   0   12    [WORD]    JJ                 *)                      -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]    IN              (PP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   14    [WORD]    DT           (NP(NP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   15    [WORD]    NN                 *)                     air   -   1   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   16    [WORD]   JJR            (ADJP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   17    [WORD]    IN              (PP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   18    [WORD]    DT              (NP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   19    [WORD]    NN                 *)))))))))          ground   -   1   -   *             *               *)       *           *               *       -
+bn/cnn/01/cnn_0158   0   20    [WORD]     ,                 *                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   21    [WORD]    CC                 *                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   22    [WORD]    IN          (S(SBAR*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   23    [WORD]    DT         (S(NP(NP*                       -    -   -   -   *             *               *        *      (ARG1*               *      (7
+bn/cnn/01/cnn_0158   0   24    [WORD]    NN                 *)                 portion   -   1   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   25    [WORD]    IN              (PP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   26    [WORD]    DT           (NP(NP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   27    [WORD]    NN                 *)                     air   -   1   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   28    [WORD]    IN              (PP*                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   29    [WORD]   NNS              (NP*)))))                  -    -   -   -   *             *               *        *           *)              *       7)
+bn/cnn/01/cnn_0158   0   30    [WORD]   VBZ              (VP*                       be  03   -   -   *             *               *      (V*)          *               *       -
+bn/cnn/01/cnn_0158   0   31    [WORD]   VBN              (VP*))))          recirculate  01   -   -   *             *               *        *         (V*)              *       -
+bn/cnn/01/cnn_0158   0   32    [WORD]     ,                 *                       -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   33    [WORD]   PRP              (NP*)                      -    -   -   -   *             *               *        *           *          (ARG1*)     (7)
+bn/cnn/01/cnn_0158   0   34    [WORD]    MD              (VP*                       -    -   -   -   *             *               *        *           *      (ARGM-MOD*)      -
+bn/cnn/01/cnn_0158   0   35    [WORD]    VB              (VP*                     pass  03   2   -   *             *               *        *           *             (V*)      -
+bn/cnn/01/cnn_0158   0   36    [WORD]    IN              (PP*                       -    -   -   -   *             *               *        *           *      (ARGM-DIR*       -
+bn/cnn/01/cnn_0158   0   37    [WORD]    RB         (NP(ADJP*                       -    -   -   -   *             *               *        *           *               *      (1
+bn/cnn/01/cnn_0158   0   38    [WORD]    JJ                 *)                      -    -   -   -   *             *               *        *           *               *       -
+bn/cnn/01/cnn_0158   0   39    [WORD]   NNS                 *)))))))            filter   -   1   -   *             *               *        *           *               *)      1)
+bn/cnn/01/cnn_0158   0   40    [WORD]     .                 *))                     -    -   -   -   *             *               *        *           *               *       -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]     DT   (TOP(S(NP*)            -    -   -   -   *      *      (ARG1*)     (1)
+bn/cnn/01/cnn_0158   0   1    [WORD]    VBP         (VP*             be  03   -   -   *    (V*)          *       -
+bn/cnn/01/cnn_0158   0   2    [WORD]    VBN         (VP*           call  01   5   -   *      *         (V*)      -
+bn/cnn/01/cnn_0158   0   3    [WORD]     JJ   (S(NP(NML*             -    -   -   -   *      *      (ARG2*       -
+bn/cnn/01/cnn_0158   0   4    [WORD]   HYPH            *             -    -   -   -   *      *           *       -
+bn/cnn/01/cnn_0158   0   5    [WORD]     NN            *)            -    -   -   -   *      *           *       -
+bn/cnn/01/cnn_0158   0   6    [WORD]     NN            *             -    -   -   -   *      *           *       -
+bn/cnn/01/cnn_0158   0   7    [WORD]     NN            *            air   -   1   -   *      *           *       -
+bn/cnn/01/cnn_0158   0   8    [WORD]    NNS            *))))     filter   -   1   -   *      *           *)      -
+bn/cnn/01/cnn_0158   0   9    [WORD]      .            *))           -    -   -   -   *      *           *       -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    DT       (TOP(S(NP*           -    -   -   -   *    (ARG0*     (1
+bn/cnn/01/cnn_0158   0    1    [WORD]   NNS                *)      filter   -   1   -   *         *)     1)
+bn/cnn/01/cnn_0158   0    2    [WORD]   VBP             (VP*       screen  02   1   -   *       (V*)     -
+bn/cnn/01/cnn_0158   0    3    [WORD]    RP            (PRT*)          -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0    4    [WORD]    RB   (NP(ADJP(ADVP*           -    -   -   -   *    (ARG1*     (6
+bn/cnn/01/cnn_0158   0    5    [WORD]     ,                *           -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0    6    [WORD]    RB                *           -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0    7    [WORD]     ,                *           -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0    8    [WORD]    RB                *)          -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0    9    [WORD]    JJ                *)          -    -   -   -   *         *      -
+bn/cnn/01/cnn_0158   0   10    [WORD]   NNS                *))         -    -   -   -   *         *)     6)
+bn/cnn/01/cnn_0158   0   11    [WORD]     .                *))         -    -   -   -   *         *      -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   NNS   (TOP(NP(NP*)     -   -   -   -   *   (6
+bn/cnn/01/cnn_0158   0   1    [WORD]    JJ          (PP*      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   2    [WORD]    IN             *      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   3    [WORD]   NNS          (NP*      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   4    [WORD]     ,             *      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   5    [WORD]   NNS             *      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   6    [WORD]    CC             *      -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   7    [WORD]    NN             *))    -   -   -   -   *    -
+bn/cnn/01/cnn_0158   0   8    [WORD]     .             *))    -   -   -   -   *    6)
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    CC         (TOP(S*              -    -   -   -   *         *      (ARGM-DIS*)      -
+bn/cnn/01/cnn_0158   0    1    [WORD]    JJ   (S(ADJP(ADJP*)             -    -   -   -   *         *      (ARGM-PRD*       -
+bn/cnn/01/cnn_0158   0    2    [WORD]    IN          (SBAR*              -    -   -   -   *         *               *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]    DT          (S(NP*              -    -   -   -   *    (ARG1*               *      (1
+bn/cnn/01/cnn_0158   0    4    [WORD]   NNS               *)         filter   -   1   -   *         *)              *       1)
+bn/cnn/01/cnn_0158   0    5    [WORD]   VBP            (VP*)))))         be  01   1   -   *       (V*)              *)      -
+bn/cnn/01/cnn_0158   0    6    [WORD]     ,               *              -    -   -   -   *         *               *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]   PRP            (NP*)             -    -   -   -   *         *          (ARG0*)     (1)
+bn/cnn/01/cnn_0158   0    8    [WORD]    MD            (VP*              -    -   -   -   *         *      (ARGM-MOD*)      -
+bn/cnn/01/cnn_0158   0    9    [WORD]    RB               *              -    -   -   -   *         *      (ARGM-NEG*)      -
+bn/cnn/01/cnn_0158   0   10    [WORD]    VB            (VP*          remedy  01   1   -   *         *             (V*)      -
+bn/cnn/01/cnn_0158   0   11    [WORD]    NN            (NP*)))           -    -   -   -   *         *          (ARG1*)      -
+bn/cnn/01/cnn_0158   0   12    [WORD]     .               *))            -    -   -   -   *         *               *       -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    EX    (TOP(S(NP*)                        -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBZ          (VP*                         be  02   3   -   *       (V*)       *        *           *           *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]    DT    (NP(NP(NP*                         -    -   -   -   *    (ARG1*        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]    NN             *                        air   -   1   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]    NN             *)                        -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]    IN          (PP*                         -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]    DT          (NP*                         -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]    NN             *)))                   world   -   1   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]   WDT   (SBAR(WHNP*)                        -    -   -   -   *         *        *        *      (ARG0*)          *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]   VBZ        (S(VP*                         be  03   -   -   *         *      (V*)       *           *           *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]   VBG          (VP*                         go  04   7   -   *         *        *      (V*)          *           *     -
+bn/cnn/01/cnn_0158   0   11    [WORD]    TO        (S(VP*                         -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]    VB          (VP*                    protect  01   1   -   *         *        *        *         (V*)          *     -
+bn/cnn/01/cnn_0158   0   13    [WORD]   PRP          (NP*)                        -    -   -   -   *         *        *        *      (ARG1*)          *     -
+bn/cnn/01/cnn_0158   0   14    [WORD]    IN          (PP*                         -    -   -   -   *         *        *        *      (ARG2*           *     -
+bn/cnn/01/cnn_0158   0   15    [WORD]    DT       (NP(NP*                         -    -   -   -   *         *        *        *           *      (ARG1*     -
+bn/cnn/01/cnn_0158   0   16    [WORD]    NN             *)                    person   -   1   -   *         *        *        *           *           *)    -
+bn/cnn/01/cnn_0158   0   17    [WORD]   VBG          (VP*                        sit  01   1   -   *         *        *        *           *         (V*)    -
+bn/cnn/01/cnn_0158   0   18    [WORD]    IN          (PP*                         -    -   -   -   *         *        *        *           *      (ARG2*     -
+bn/cnn/01/cnn_0158   0   19    [WORD]    IN          (PP*                         -    -   -   -   *         *        *        *           *           *     -
+bn/cnn/01/cnn_0158   0   20    [WORD]   PRP          (NP*)))))))))))))))          -    -   -   -   *         *)       *        *           *)          *)    -
+bn/cnn/01/cnn_0158   0   21    [WORD]     .             *))                       -    -   -   -   *         *        *        *           *           *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   PRP   (TOP(S(NP*)         -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   1    [WORD]   VBZ         (VP*          be  -   1   -   *   -
+bn/cnn/01/cnn_0158   0   2    [WORD]    DT      (NP(NP*          -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   3    [WORD]    NN            *)        law  -   3   -   *   -
+bn/cnn/01/cnn_0158   0   4    [WORD]    IN         (PP*          -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   5    [WORD]    NN         (NP*))))      -   -   -   -   *   -
+bn/cnn/01/cnn_0158   0   6    [WORD]     .            *))        -   -   -   -   *   -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    WDT   (TOP(SBAR(WHNP*)                 -    -   -   -   *    (ARG0*)              *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]    VBZ            (S(VP*                mean  01   1   -   *       (V*)              *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]     IN            (SBAR*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]     DT         (X(NP(NP*                  -    -   -   -   *    (ARG1*               *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]     JJ                 *                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]     NN                 *)                man   -   1   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]     IN              (PP*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]     DT              (NP*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]     XX                 *)))               -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]     IN                 *                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]   PRP$              (NP*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   11    [WORD]     NN                 *)               seat   -   8   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]     CC                 *                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   13    [WORD]     NN              (NP*)                 -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   14    [WORD]      ,                 *                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   15    [WORD]     IN            (SBAR*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   16    [WORD]     DT            (S(NP*                  -    -   -   -   *         *          (ARG1*     -
+bn/cnn/01/cnn_0158   0   17    [WORD]     NN                 *)                 -    -   -   -   *         *               *)    -
+bn/cnn/01/cnn_0158   0   18    [WORD]     MD              (VP*                  -    -   -   -   *         *      (ARGM-MOD*)    -
+bn/cnn/01/cnn_0158   0   19    [WORD]     VB              (VP*                 sit  01   2   -   *         *             (V*)    -
+bn/cnn/01/cnn_0158   0   20    [WORD]     IN              (PP*                  -    -   -   -   *         *          (ARG2*     -
+bn/cnn/01/cnn_0158   0   21    [WORD]     IN              (PP*                  -    -   -   -   *         *               *     -
+bn/cnn/01/cnn_0158   0   22    [WORD]    PRP              (NP*)))))))))))       -    -   -   -   *         *)              *)    -
+bn/cnn/01/cnn_0158   0   23    [WORD]      .                 *))                -    -   -   -   *         *               *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   VBP   (TOP(S(VP*        thank  01   1   -           *       (V*)    -
+bn/cnn/01/cnn_0158   0   1    [WORD]    NN         (NP*)          -    -   -   -           *    (ARG1*)    -
+bn/cnn/01/cnn_0158   0   2    [WORD]    IN         (PP*           -    -   -   -           *    (ARG2*     -
+bn/cnn/01/cnn_0158   0   3    [WORD]   NNP         (NP*           -    -   -   -    (PRODUCT)        *     -
+bn/cnn/01/cnn_0158   0   4    [WORD]   NNS            *)))        -    -   -   -           *         *)    -
+bn/cnn/01/cnn_0158   0   5    [WORD]     .            *))         -    -   -   -           *         *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    EX    (TOP(S(NP*)               -    -    -   -   *             *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]   VBZ          (VP*                be   -    3   -   *             *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]    DT          (NP*                -    -    -   -   *             *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]    JJ             *                -    -    -   -   *             *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]    NN             *            chance   -    4   -   *             *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]   PRP   (SBAR(S(NP*)               -    -    -   -   *        (ARG1*)    -
+bn/cnn/01/cnn_0158   0    6    [WORD]    MD          (VP*                -    -    -   -   *    (ARGM-MOD*)    -
+bn/cnn/01/cnn_0158   0    7    [WORD]    VB          (VP*              come  22   11   -   *           (V*)    -
+bn/cnn/01/cnn_0158   0    8    [WORD]    RP         (PRT*)               -    -    -   -   *             *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]    IN          (PP*                -    -    -   -   *        (ARG2*     -
+bn/cnn/01/cnn_0158   0   10    [WORD]   PRP          (NP*))              -    -    -   -   *             *)    -
+bn/cnn/01/cnn_0158   0   11    [WORD]     ,             *                -    -    -   -   *             *     -
+bn/cnn/01/cnn_0158   0   12    [WORD]    RB        (ADVP*)))))))         -    -    -   -   *    (ARGM-DIS*)    -
+bn/cnn/01/cnn_0158   0   13    [WORD]     .             *))              -    -    -   -   *             *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]    CC   (TOP(S*          -    -   -   -   *      *      (ARGM-DIS*)    -
+bn/cnn/01/cnn_0158   0   1    [WORD]    DT   (NP(NP*          -    -   -   -   *      *          (ARG1*     -
+bn/cnn/01/cnn_0158   0   2    [WORD]    NN         *)        air   -   1   -   *      *               *     -
+bn/cnn/01/cnn_0158   0   3    [WORD]    IN      (PP*          -    -   -   -   *      *               *     -
+bn/cnn/01/cnn_0158   0   4    [WORD]   NNS      (NP*)))       -    -   -   -   *      *               *)    -
+bn/cnn/01/cnn_0158   0   5    [WORD]    MD      (VP*          -    -   -   -   *      *      (ARGM-MOD*)    -
+bn/cnn/01/cnn_0158   0   6    [WORD]    VB      (VP*          be  03   -   -   *    (V*)              *     -
+bn/cnn/01/cnn_0158   0   7    [WORD]   VBG      (VP*         get  03   3   -   *      *             (V*)    -
+bn/cnn/01/cnn_0158   0   8    [WORD]   JJR    (ADJP*))))      -    -   -   -   *      *          (ARG2*)    -
+bn/cnn/01/cnn_0158   0   9    [WORD]     .         *))        -    -   -   -   *      *               *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]     IN    (TOP(S(PP*                    -    -   -   -        *             *               *           *             *      (ARGM-ADV*      (ARGM-ADV*        *           *       -
+bn/cnn/01/cnn_0158   0    1    [WORD]     RB   (S(NP(ADJP*                    -    -   -   -        *        (ARG1*               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    2    [WORD]     JJ             *)                   -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    3    [WORD]    NNS             *)               people   -   1   -        *             *)              *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    4    [WORD]    VBG          (VP*                   fly  01   1   -        *           (V*)              *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    5    [WORD]     DT          (NP*                    -    -   -   -   (DATE*    (ARGM-TMP*               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    6    [WORD]    NNS             *))))               day   -   4   -        *)            *)              *           *             *               *)              *)       *           *       -
+bn/cnn/01/cnn_0158   0    7    [WORD]     DT       (NP(NP*                    -    -   -   -        *             *               *           *             *          (ARG0*          (ARG0*        *           *       -
+bn/cnn/01/cnn_0158   0    8    [WORD]     JJ             *                    -    -   -   -        *             *      (ARGM-TMP*)          *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0    9    [WORD]     NN             *)               review  01   1   -        *             *             (V*)          *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   10    [WORD]     IN          (PP*                    -    -   -   -        *             *          (ARG1*           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   11    [WORD]     NN   (NP(NP(NML*                    -    -   -   -        *             *               *      (ARG1*        (ARG1*               *               *        *           *      (0
+bn/cnn/01/cnn_0158   0   12    [WORD]     NN             *)                  air   -   1   -        *             *               *           *)            *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   13    [WORD]    NNS             *)                study  01   3   -        *             *               *         (V*)            *)              *               *        *           *       -
+bn/cnn/01/cnn_0158   0   14    [WORD]    VBN          (VP*                  call  03   2   -        *             *               *           *           (V*)              *               *        *           *       -
+bn/cnn/01/cnn_0158   0   15    [WORD]     IN          (PP*)                   -    -   -   -        *             *               *           *      (R-ARG1*)              *               *        *           *       -
+bn/cnn/01/cnn_0158   0   16    [WORD]     IN          (PP*                    -    -   -   -        *             *               *           *        (ARG0*               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   17    [WORD]     DT       (NP(NP*                    -    -   -   -    (ORG*             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   18    [WORD]   NNPS             *)                   -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   19    [WORD]     IN          (PP*                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   20    [WORD]    NNP          (NP*                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   21    [WORD]    NNP             *                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   22    [WORD]     CC             *                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   23    [WORD]    NNP             *))))))))            -    -   -   -        *)            *               *)          *             *)              *)              *)       *           *       0)
+bn/cnn/01/cnn_0158   0   24    [WORD]      ,             *                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   25    [WORD]    VBD       (VP(VP*                  find  01   3   -        *             *               *           *             *             (V*)              *        *           *       -
+bn/cnn/01/cnn_0158   0   26    [WORD]     DT        (S(NP*                    -    -   -   -        *             *               *           *             *          (ARG1*               *        *           *      (0
+bn/cnn/01/cnn_0158   0   27    [WORD]     NN             *)             research   -   1   -        *             *               *           *             *               *               *        *           *       0)
+bn/cnn/01/cnn_0158   0   28    [WORD]     RB        (ADJP*                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   29    [WORD]     JJ             *)))                 -    -   -   -        *             *               *           *             *               *)              *        *           *       -
+bn/cnn/01/cnn_0158   0   30    [WORD]     CC             *                    -    -   -   -        *             *               *           *             *               *               *        *           *       -
+bn/cnn/01/cnn_0158   0   31    [WORD]    VBD          (VP*             recommend  01   1   -        *             *               *           *             *               *             (V*)       *           *       -
+bn/cnn/01/cnn_0158   0   32    [WORD]    PRP   (SBAR(S(NP*)                   -    -   -   -        *             *               *           *             *               *          (ARG1*        *           *      (0)
+bn/cnn/01/cnn_0158   0   33    [WORD]     VB          (VP*                    be  03   -   -        *             *               *           *             *               *               *      (V*)          *       -
+bn/cnn/01/cnn_0158   0   34    [WORD]    VBN          (VP*              consider  01   1   -        *             *               *           *             *               *               *        *         (V*)      -
+bn/cnn/01/cnn_0158   0   35    [WORD]     JJ      (S(ADJP*))))))))            -    -   -   -        *             *               *           *             *               *               *)       *      (ARG1*)      -
+bn/cnn/01/cnn_0158   0   36    [WORD]      .             *))                  -    -   -   -        *             *               *           *             *               *               *        *           *       -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]    RB   (TOP(SBARQ(ADVP*)        -    -   -   -   *         *     -
+bn/cnn/01/cnn_0158   0   1    [WORD]    WP             (WHNP*)        -    -   -   -   *    (ARG1*)    -
+bn/cnn/01/cnn_0158   0   2    [WORD]   VBZ               (SQ*         be   -   1   -   *         *     -
+bn/cnn/01/cnn_0158   0   3    [WORD]    DT               (NP*         -    -   -   -   *    (ARG0*     -
+bn/cnn/01/cnn_0158   0   4    [WORD]    NN                  *)        -    -   -   -   *         *)    -
+bn/cnn/01/cnn_0158   0   5    [WORD]    TO             (S(VP*         -    -   -   -   *         *     -
+bn/cnn/01/cnn_0158   0   6    [WORD]    VB               (VP*))))     do  02   1   -   *       (V*)    -
+bn/cnn/01/cnn_0158   0   7    [WORD]     .                  *))       -    -   -   -   *         *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   PRP   (TOP(S(NP*)        -    -   -   -   *    (ARG0*)    -
+bn/cnn/01/cnn_0158   0   1    [WORD]   VBP         (VP*        get  01   1   -   *       (V*)    -
+bn/cnn/01/cnn_0158   0   2    [WORD]    NN         (NP*))     rest   -   2   -   *    (ARG1*)    -
+bn/cnn/01/cnn_0158   0   3    [WORD]     .            *))       -    -   -   -   *         *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   PRP   (TOP(S(NP*)        -    -   -   -   *    (ARG0*)    -
+bn/cnn/01/cnn_0158   0   1    [WORD]   VBP         (VP*       keep  02   1   -   *       (V*)    -
+bn/cnn/01/cnn_0158   0   2    [WORD]    JJ       (ADJP*))       -    -   -   -   *    (ARG1*)    -
+bn/cnn/01/cnn_0158   0   3    [WORD]     .            *))       -    -   -   -   *         *     -
+
+bn/cnn/01/cnn_0158   0    0    [WORD]    PRP   (TOP(S(S(NP*)          -    -   -   -   *        (ARG0*)     (ARG0*)          *     -
+bn/cnn/01/cnn_0158   0    1    [WORD]    VBP        (VP(VP*          eat  01   1   -   *           (V*)          *           *     -
+bn/cnn/01/cnn_0158   0    2    [WORD]     RB         (ADVP*))         -    -   -   -   *    (ARGM-MNR*)          *           *     -
+bn/cnn/01/cnn_0158   0    3    [WORD]      ,              *           -    -   -   -   *             *           *           *     -
+bn/cnn/01/cnn_0158   0    4    [WORD]    VBP           (VP*          get  01   1   -   *             *         (V*)          *     -
+bn/cnn/01/cnn_0158   0    5    [WORD]     DT           (NP*           -    -   -   -   *             *      (ARG1*           *     -
+bn/cnn/01/cnn_0158   0    6    [WORD]     NN              *           -    -   -   -   *             *           *           *     -
+bn/cnn/01/cnn_0158   0    7    [WORD]     NN              *))))       -    -   -   -   *             *           *)          *     -
+bn/cnn/01/cnn_0158   0    8    [WORD]      ,              *           -    -   -   -   *             *           *           *     -
+bn/cnn/01/cnn_0158   0    9    [WORD]     CC              *           -    -   -   -   *             *           *           *     -
+bn/cnn/01/cnn_0158   0   10    [WORD]    PRP         (S(NP*)          -    -   -   -   *             *           *      (ARG0*)    -
+bn/cnn/01/cnn_0158   0   11    [WORD]    VBP           (VP*         wash  01   1   -   *             *           *         (V*)    -
+bn/cnn/01/cnn_0158   0   12    [WORD]   PRP$           (NP*           -    -   -   -   *             *           *      (ARG1*     -
+bn/cnn/01/cnn_0158   0   13    [WORD]    NNS              *)))      hand   -   1   -   *             *           *           *)    -
+bn/cnn/01/cnn_0158   0   14    [WORD]      .              *))         -    -   -   -   *             *           *           *     -
+
+bn/cnn/01/cnn_0158   0   0    [WORD]   NNP   (TOP(FRAG(NP*      -   -   -   -   (PERSON*   (8
+bn/cnn/01/cnn_0158   0   1    [WORD]   NNP               *)     -   -   -   -          *)   8)
+bn/cnn/01/cnn_0158   0   2    [WORD]     ,               *      -   -   -   -          *    -
+bn/cnn/01/cnn_0158   0   3    [WORD]   NNP            (NP*)     -   -   -   -       (ORG)   -
+bn/cnn/01/cnn_0158   0   4    [WORD]     ,               *      -   -   -   -          *    -
+bn/cnn/01/cnn_0158   0   5    [WORD]   NNP            (NP*)     -   -   -   -       (GPE)   -
+bn/cnn/01/cnn_0158   0   6    [WORD]     .               *))    -   -   -   -          *    -
+
+#end document

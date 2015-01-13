@@ -1,0 +1,35 @@
+#begin document (nw/wsj/00/wsj_0001); part 000
+nw/wsj/00/wsj_0001   0    0    [WORD]   NNP   (TOP(S(NP(NP*          -    -   -   -   (PERSON*        (ARG0*     -
+nw/wsj/00/wsj_0001   0    1    [WORD]   NNP               *)         -    -   -   -          *)            *     -
+nw/wsj/00/wsj_0001   0    2    [WORD]     ,               *          -    -   -   -          *             *     -
+nw/wsj/00/wsj_0001   0    3    [WORD]    CD      (ADJP(NML*          -    -   -   -     (DATE*             *     -
+nw/wsj/00/wsj_0001   0    4    [WORD]   NNS               *)         -    -   -   -          *             *     -
+nw/wsj/00/wsj_0001   0    5    [WORD]    JJ               *)         -    -   -   -          *)            *     -
+nw/wsj/00/wsj_0001   0    6    [WORD]     ,               *)         -    -   -   -          *             *)    -
+nw/wsj/00/wsj_0001   0    7    [WORD]    MD            (VP*          -    -   -   -          *    (ARGM-MOD*)    -
+nw/wsj/00/wsj_0001   0    8    [WORD]    VB            (VP*        join  01   -   -          *           (V*)    -
+nw/wsj/00/wsj_0001   0    9    [WORD]    DT            (NP*          -    -   -   -          *        (ARG1*     -
+nw/wsj/00/wsj_0001   0   10    [WORD]    NN               *)         -    -   -   -          *             *)    -
+nw/wsj/00/wsj_0001   0   11    [WORD]    IN            (PP*          -    -   -   -          *    (ARGM-PRD*     -
+nw/wsj/00/wsj_0001   0   12    [WORD]    DT            (NP*          -    -   -   -          *             *     -
+nw/wsj/00/wsj_0001   0   13    [WORD]    JJ               *          -    -   -   -          *             *     -
+nw/wsj/00/wsj_0001   0   14    [WORD]    NN               *))        -    -   -   -          *             *)    -
+nw/wsj/00/wsj_0001   0   15    [WORD]   NNP            (NP*          -    -   -   -     (DATE*    (ARGM-TMP*     -
+nw/wsj/00/wsj_0001   0   16    [WORD]    CD               *)))       -    -   -   -          *)            *)    -
+nw/wsj/00/wsj_0001   0   17    [WORD]     .               *))        -    -   -   -          *             *     -
+
+nw/wsj/00/wsj_0001   0    0    [WORD]   NNP   (TOP(S(NP*               -    -   -   -          *    (ARG1*           *     -
+nw/wsj/00/wsj_0001   0    1    [WORD]   NNP            *)              -    -   -   -    (PERSON)        *)          *     -
+nw/wsj/00/wsj_0001   0    2    [WORD]   VBZ         (VP*               be  01   -   -          *       (V*)          *     -
+nw/wsj/00/wsj_0001   0    3    [WORD]    NN      (NP(NP*)              -    -   -   -          *    (ARG2*           *     -
+nw/wsj/00/wsj_0001   0    4    [WORD]    IN         (PP*               -    -   -   -          *         *           *     -
+nw/wsj/00/wsj_0001   0    5    [WORD]   NNP      (NP(NP*               -    -   -   -      (ORG*         *           *     -
+nw/wsj/00/wsj_0001   0    6    [WORD]   NNP            *)              -    -   -   -          *)        *           *     -
+nw/wsj/00/wsj_0001   0    7    [WORD]     ,            *               -    -   -   -          *         *           *     -
+nw/wsj/00/wsj_0001   0    8    [WORD]    DT         (NP*               -    -   -   -          *         *           *     -
+nw/wsj/00/wsj_0001   0    9    [WORD]   NNP            *               -    -   -   -      (NORP)        *           *     -
+nw/wsj/00/wsj_0001   0   10    [WORD]   VBG            *          publish  01   1   -          *         *         (V*)    -
+nw/wsj/00/wsj_0001   0   11    [WORD]    NN            *)))))          -    -   -   -          *         *)     (ARG0*)    -
+nw/wsj/00/wsj_0001   0   12    [WORD]     .            *))             -    -   -   -          *         *           *     -
+
+#end document

@@ -1,0 +1,459 @@
+#begin document (bn/abc/00/abc_0003); part 000
+bn/abc/00/abc_0003   0   0    [WORD]   JJ   (TOP(INTJ*      -   -   -   -        *   -
+bn/abc/00/abc_0003   0   1    [WORD]   NN            *      -   -   -   -    (TIME)  -
+bn/abc/00/abc_0003   0   2    [WORD]    .            *))    -   -   -   -        *   -
+
+bn/abc/00/abc_0003   0    0    [WORD]   PRP   (TOP(S(S(NP*)                       -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    1    [WORD]   VBD           (VP*                      take  10   12   -            *       (V*)              *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    2    [WORD]    DT        (NP(NP*                        -    -    -   -            *    (ARG1*               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    3    [WORD]    JJ              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    4    [WORD]   NNS              *)                       -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    5    [WORD]    IN           (PP*                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    6    [WORD]   NNS     (NP(NP(QP*                        -    -    -   -   (CARDINAL*         *               *               *               *           *        *               *      (11
+bn/abc/00/abc_0003   0    7    [WORD]    IN              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    8    [WORD]   NNS              *))                      -    -    -   -            *)        *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0    9    [WORD]    IN           (PP*                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   10    [WORD]   NNS        (NP(NP*)                   people   -    1   -            *         *          (ARG0*)              *               *           *        *               *        -
+bn/abc/00/abc_0003   0   11    [WORD]   VBG           (VP*                   protest  01    1   -            *         *             (V*)              *               *           *        *               *        -
+bn/abc/00/abc_0003   0   12    [WORD]    IN           (PP*                        -    -    -   -            *         *      (ARGM-TMP*               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   13    [WORD]   NNS           (NP*))))))))))             day   -    4   -        (DATE)        *)              *)              *               *           *        *               *       11)
+bn/abc/00/abc_0003   0   14    [WORD]     ,              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   15    [WORD]    CC              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   16    [WORD]    NN       (S(S(NP*)                       -    -    -   -            *         *               *      (ARGM-TMP*)              *           *        *               *       (4)
+bn/abc/00/abc_0003   0   17    [WORD]   NNP           (NP*                        -    -    -   -     (PERSON*         *               *          (ARG0*               *           *        *               *       (5
+bn/abc/00/abc_0003   0   18    [WORD]   NNP              *)                       -    -    -   -            *)        *               *               *)              *           *        *               *        5)
+bn/abc/00/abc_0003   0   19    [WORD]    RB         (ADVP*)                       -    -    -   -            *         *               *      (ARGM-TMP*)              *           *        *               *        -
+bn/abc/00/abc_0003   0   20    [WORD]   VBD           (VP*                     admit  01    1   -            *         *               *             (V*)              *           *        *               *      (13)
+bn/abc/00/abc_0003   0   21    [WORD]   PRP    (SBAR(S(NP*)                       -    -    -   -            *         *               *          (ARG1*          (ARG1*)          *        *               *       (5)
+bn/abc/00/abc_0003   0   22    [WORD]   VBZ           (VP*                        be  01    1   -            *         *               *               *             (V*)          *        *               *       (6)
+bn/abc/00/abc_0003   0   23    [WORD]    RB         (ADVP*                        -    -    -   -            *         *               *               *      (ARGM-TMP*           *        *               *        -
+bn/abc/00/abc_0003   0   24    [WORD]   RBR              *)                       -    -    -   -            *         *               *               *               *)          *        *               *        -
+bn/abc/00/abc_0003   0   25    [WORD]    DT        (NP(NP*                        -    -    -   -            *         *               *               *          (ARG2*           *        *               *        -
+bn/abc/00/abc_0003   0   26    [WORD]   NNP              *)                       -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   27    [WORD]    IN           (PP*                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   28    [WORD]   NNP           (NP*))))))))                -    -    -   -         (GPE)        *               *               *)              *)          *        *               *      (12)
+bn/abc/00/abc_0003   0   29    [WORD]     ,              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   30    [WORD]    CC              *                        -    -    -   -            *         *               *               *               *           *        *               *        -
+bn/abc/00/abc_0003   0   31    [WORD]   PRP         (S(NP*)                       -    -    -   -            *         *               *               *               *      (ARG0*)       *               *       (5)
+bn/abc/00/abc_0003   0   32    [WORD]   VBD           (VP*                       say  01    1   -            *         *               *               *               *         (V*)       *               *        -
+bn/abc/00/abc_0003   0   33    [WORD]   PRP    (SBAR(S(NP*)                       -    -    -   -            *         *               *               *               *      (ARG1*        *          (ARG0*)      (5)
+bn/abc/00/abc_0003   0   34    [WORD]   VBD           (VP*                      have  01    -   -            *         *               *               *               *           *      (V*)              *        -
+bn/abc/00/abc_0003   0   35    [WORD]    RB         (ADVP*)                       -    -    -   -            *         *               *               *               *           *        *      (ARGM-ADV*)       -
+bn/abc/00/abc_0003   0   36    [WORD]   VBN           (VP*                   receive  01    1   -            *         *               *               *               *           *        *             (V*)       -
+bn/abc/00/abc_0003   0   37    [WORD]    DT           (NP*                        -    -    -   -            *         *               *               *               *           *        *          (ARG1*       (6
+bn/abc/00/abc_0003   0   38    [WORD]    NN              *))))))))       information   -    2   -            *         *               *               *               *           *)       *               *)       6)
+bn/abc/00/abc_0003   0   39    [WORD]     .              *))                      -    -    -   -            *         *               *               *               *           *        *               *        -
+
+bn/abc/00/abc_0003   0    0    [WORD]    PRP   (TOP(S(NP*)                        -    -   -   -        *    (ARG1*)              *           *        (13)
+bn/abc/00/abc_0003   0    1    [WORD]    VBD         (VP*                     follow  01   2   -        *       (V*)              *           *          -
+bn/abc/00/abc_0003   0    2    [WORD]     DT      (NP(NP*                         -    -   -   -        *    (ARG2*               *      (ARG0*          -
+bn/abc/00/abc_0003   0    3    [WORD]     NN            *)                       day   -   2   -    (DATE)        *               *           *)         -
+bn/abc/00/abc_0003   0    4    [WORD]     IN         (PP*                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0    5    [WORD]     JJ         (NP*                         -    -   -   -        *         *      (ARGM-MNR*)          *          -
+bn/abc/00/abc_0003   0    6    [WORD]     IN     (NML(PP*                         -    -   -   -        *         *      (ARGM-MNR*           *          -
+bn/abc/00/abc_0003   0    7    [WORD]   HYPH            *                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0    8    [WORD]     DT         (NP*                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0    9    [WORD]   HYPH            *                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0   10    [WORD]    NNS            *)))                      -    -   -   -        *         *               *)          *          -
+bn/abc/00/abc_0003   0   11    [WORD]     NN            *                negotiation  01   1   -        *         *             (V*)          *          -
+bn/abc/00/abc_0003   0   12    [WORD]     TO       (S(VP*                         -    -   -   -        *         *          (ARG2*           *          -
+bn/abc/00/abc_0003   0   13    [WORD]     VB         (VP*                     decide  01   1   -        *         *               *         (V*)         -
+bn/abc/00/abc_0003   0   14    [WORD]   PRP$      (NP(NP*                         -    -   -   -        *         *               *      (ARG1*         (5)
+bn/abc/00/abc_0003   0   15    [WORD]     NN            *)                    future   -   4   -        *         *               *           *          -
+bn/abc/00/abc_0003   0   16    [WORD]     CC            *                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0   17    [WORD]     DT      (NP(NP*                         -    -   -   -        *         *               *           *         (1
+bn/abc/00/abc_0003   0   18    [WORD]     NN            *)                    future   -   1   -        *         *               *           *          -
+bn/abc/00/abc_0003   0   19    [WORD]     IN         (PP*                         -    -   -   -        *         *               *           *          -
+bn/abc/00/abc_0003   0   20    [WORD]     DT         (NP*                         -    -   -   -        *         *               *           *        (12
+bn/abc/00/abc_0003   0   21    [WORD]     NN            *)))))))))))         country   -   3   -        *         *)              *)          *)     12)|1)
+bn/abc/00/abc_0003   0   22    [WORD]      .            *))                       -    -   -   -        *         *               *           *          -
+
+bn/abc/00/abc_0003   0    0    [WORD]    IN       (TOP(S(PP*                   -    -   -   -          *    (ARGM-TMP*        *               *           *       -
+bn/abc/00/abc_0003   0    1    [WORD]    RB             (NP*))                 -    -   -   -          *             *)       *               *           *       -
+bn/abc/00/abc_0003   0    2    [WORD]     ,                *                   -    -   -   -          *             *        *               *           *       -
+bn/abc/00/abc_0003   0    3    [WORD]   PRP             (NP*)                  -    -   -   -          *             *        *               *           *       -
+bn/abc/00/abc_0003   0    4    [WORD]   VBZ             (VP*                 seem  01   1   -          *           (V*)       *               *           *       -
+bn/abc/00/abc_0003   0    5    [WORD]    DT   (SBAR(S(NP(NP*                   -    -   -   -          *        (ARG1*        *          (ARG0*           *       -
+bn/abc/00/abc_0003   0    6    [WORD]    JJ                *                   -    -   -   -          *             *        *               *           *       -
+bn/abc/00/abc_0003   0    7    [WORD]    NN                *)                  -    -   -   -          *             *        *               *           *       -
+bn/abc/00/abc_0003   0    8    [WORD]    IN             (PP*                   -    -   -   -          *             *        *               *           *       -
+bn/abc/00/abc_0003   0    9    [WORD]   NNP             (NP*                   -    -   -   -          *             *        *               *           *     (15
+bn/abc/00/abc_0003   0   10    [WORD]   NNP                *)))                -    -   -   -    (PERSON)            *        *               *)          *      15)
+bn/abc/00/abc_0003   0   11    [WORD]   VBZ             (VP*                   be  03   -   -          *             *      (V*)              *           *       -
+bn/abc/00/abc_0003   0   12    [WORD]    RB                *                   -    -   -   -          *             *        *      (ARGM-NEG*)          *       -
+bn/abc/00/abc_0003   0   13    [WORD]   VBG             (VP*               insist  01   1   -          *             *        *             (V*)          *       -
+bn/abc/00/abc_0003   0   14    [WORD]   NNP      (SBAR(S(NP*)                  -    -   -   -    (PERSON)            *        *          (ARG1*      (ARG0*)     (5)
+bn/abc/00/abc_0003   0   15    [WORD]    VB             (VP*                leave  01   1   -          *             *        *               *         (V*)      -
+bn/abc/00/abc_0003   0   16    [WORD]    DT             (NP*                   -    -   -   -          *             *        *               *      (ARG1*     (12
+bn/abc/00/abc_0003   0   17    [WORD]    NN                *)))))))))     country   -   3   -          *             *)       *               *)          *)     12)
+bn/abc/00/abc_0003   0   18    [WORD]     .                *))                 -    -   -   -          *             *        *               *           *       -
+
+bn/abc/00/abc_0003   0   0    [WORD]   NNP   (TOP(S(NP(NP*       -    -   -   -       (ORG)       (ARG1*      (3
+bn/abc/00/abc_0003   0   1    [WORD]   POS               *)      -    -   -   -          *             *       -
+bn/abc/00/abc_0003   0   2    [WORD]   NNP               *       -    -   -   -   (PERSON*             *       -
+bn/abc/00/abc_0003   0   3    [WORD]   NNP               *)      -    -   -   -          *)            *)      3)
+bn/abc/00/abc_0003   0   4    [WORD]   VBZ            (VP*       be  01   4   -          *           (V*)      -
+bn/abc/00/abc_0003   0   5    [WORD]    IN            (PP*       -    -   -   -          *        (ARG2*       -
+bn/abc/00/abc_0003   0   6    [WORD]   NNP            (NP*))     -    -   -   -       (GPE)            *)     (7)
+bn/abc/00/abc_0003   0   7    [WORD]    NN            (NP*))     -    -   -   -      (TIME)   (ARGM-TMP*)     (4)
+bn/abc/00/abc_0003   0   8    [WORD]     .               *))     -    -   -   -          *             *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]     IN   (TOP(S(PP*                  -    -   -   -          *             *      (ARGM-LOC*           *      (ARGM-LOC*           -
+bn/abc/00/abc_0003   0    1    [WORD]     DT      (NP(NP*                  -    -   -   -          *             *               *           *               *           -
+bn/abc/00/abc_0003   0    2    [WORD]     JJ            *                  -    -   -   -          *    (ARGM-ADJ*)              *           *               *           -
+bn/abc/00/abc_0003   0    3    [WORD]     JJ            *                  -    -   -   -          *    (ARGM-MNR*)              *           *               *           -
+bn/abc/00/abc_0003   0    4    [WORD]     NN            *)             speech  01   4   -          *           (V*)              *           *               *           -
+bn/abc/00/abc_0003   0    5    [WORD]     NN         (NP*)))               -    -   -   -      (TIME)   (ARGM-TMP*)              *)          *               *)         (4)
+bn/abc/00/abc_0003   0    6    [WORD]      ,            *                  -    -   -   -          *             *               *           *               *           -
+bn/abc/00/abc_0003   0    7    [WORD]    NNP         (NP*                  -    -   -   -   (PERSON*             *          (ARG0*           *          (ARG0*          (5
+bn/abc/00/abc_0003   0    8    [WORD]    NNP            *)                 -    -   -   -          *)            *               *)          *               *)          5)
+bn/abc/00/abc_0003   0    9    [WORD]    VBD      (VP(VP*             concede  01   1   -          *             *             (V*)          *               *           -
+bn/abc/00/abc_0003   0   10    [WORD]   PRP$         (NP*                  -    -   -   -          *             *          (ARG1*      (ARG0*)              *       (6|(5)
+bn/abc/00/abc_0003   0   11    [WORD]     NN            *))              loss  03   1   -          *             *               *)        (V*)              *           6)
+bn/abc/00/abc_0003   0   12    [WORD]     CC            *                  -    -   -   -          *             *               *           *               *           -
+bn/abc/00/abc_0003   0   13    [WORD]    VBD         (VP*        congratulate  01   1   -          *             *               *           *             (V*)          -
+bn/abc/00/abc_0003   0   14    [WORD]   PRP$         (NP*                  -    -   -   -          *             *               *           *          (ARG1*      (15|(5)
+bn/abc/00/abc_0003   0   15    [WORD]     NN            *)))         opponent   -   2   -          *             *               *           *               *)         15)
+bn/abc/00/abc_0003   0   16    [WORD]      .            *))                -    -   -   -          *             *               *           *               *           -
+
+bn/abc/00/abc_0003   0    0    [WORD]   PRP   (TOP(S(NP(NP*)                          -    -   -   -        *      *      (ARG1*        *               *      (5
+bn/abc/00/abc_0003   0    1    [WORD]     ,               *                           -    -   -   -        *      *           *        *               *       -
+bn/abc/00/abc_0003   0    2    [WORD]   PRP            (NP*))                         -    -   -   -        *      *           *)       *               *       5)
+bn/abc/00/abc_0003   0    3    [WORD]     ,               *                           -    -   -   -        *      *           *        *               *       -
+bn/abc/00/abc_0003   0    4    [WORD]   VBP            (VP*                           be  03   -   -        *    (V*)          *        *               *       -
+bn/abc/00/abc_0003   0    5    [WORD]   VBN            (VP*                      relieve  02   4   -        *      *         (V*)       *               *       -
+bn/abc/00/abc_0003   0    6    [WORD]    IN            (PP*                           -    -   -   -        *      *      (ARG0*        *               *       -
+bn/abc/00/abc_0003   0    7    [WORD]    DT         (NP(NP*                           -    -   -   -        *      *           *        *          (ARG1*       -
+bn/abc/00/abc_0003   0    8    [WORD]    JJ               *                           -    -   -   -        *      *           *        *               *       -
+bn/abc/00/abc_0003   0    9    [WORD]    NN               *)              responsibility   -   1   -        *      *           *        *               *)      -
+bn/abc/00/abc_0003   0   10    [WORD]   PRP     (SBAR(S(NP*)                          -    -   -   -        *      *           *        *          (ARG0*)     (5)
+bn/abc/00/abc_0003   0   11    [WORD]   VBP            (VP*                         have  01   -   -        *      *           *      (V*)              *       -
+bn/abc/00/abc_0003   0   12    [WORD]   VBN            (VP*                         bear  01   5   -        *      *           *        *             (V*)      -
+bn/abc/00/abc_0003   0   13    [WORD]    IN            (PP*                           -    -   -   -        *      *           *        *      (ARGM-TMP*       -
+bn/abc/00/abc_0003   0   14    [WORD]    DT            (NP*                           -    -   -   -   (DATE*      *           *        *               *       -
+bn/abc/00/abc_0003   0   15    [WORD]    JJ               *                           -    -   -   -        *      *           *        *               *       -
+bn/abc/00/abc_0003   0   16    [WORD]    NN               *))))))))))             decade   -   1   -        *)     *           *)       *               *)      -
+bn/abc/00/abc_0003   0   17    [WORD]     .               *))                         -    -   -   -        *      *           *        *               *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]    PRP   (TOP(S(NP*)                      -    -   -   -   *    (ARG0*)         (ARG0*)     (ARG0*)         (ARG0*)          *      (ARG0*)        (5)
+bn/abc/00/abc_0003   0    1    [WORD]    VBP         (VP*                     plan  01   1   -   *       (V*)              *           *               *           *           *          -
+bn/abc/00/abc_0003   0    2    [WORD]     TO    (S(VP(VP*                       -    -   -   -   *    (ARG1*               *           *               *           *           *          -
+bn/abc/00/abc_0003   0    3    [WORD]     VB      (VP(VP*                     rest  01   1   -   *         *             (V*)          *               *           *           *        (10)
+bn/abc/00/abc_0003   0    4    [WORD]     DT         (NP*                       -    -   -   -   *         *      (ARGM-TMP*           *               *           *           *          -
+bn/abc/00/abc_0003   0    5    [WORD]     NN            *))                     -    -   -   -   *         *               *)          *               *           *           *          -
+bn/abc/00/abc_0003   0    6    [WORD]     CC            *                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0    7    [WORD]     VB         (VP*                    spend  02   1   -   *         *               *         (V*)              *           *           *          -
+bn/abc/00/abc_0003   0    8    [WORD]     NN         (NP*)                    time   -   3   -   *         *               *      (ARG1*)              *           *           *          -
+bn/abc/00/abc_0003   0    9    [WORD]     IN         (PP*                       -    -   -   -   *         *               *      (ARG2*               *           *           *          -
+bn/abc/00/abc_0003   0   10    [WORD]   PRP$         (NP*                       -    -   -   -   *         *               *           *               *           *           *         (5)
+bn/abc/00/abc_0003   0   11    [WORD]     NN            *)))))              family   -   1   -   *         *               *           *)              *           *           *          -
+bn/abc/00/abc_0003   0   12    [WORD]      ,            *                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   13    [WORD]     IN      (VP(PP*                       -    -   -   -   *         *      (ARGM-TMP*           *      (ARGM-TMP*           *           *          -
+bn/abc/00/abc_0003   0   14    [WORD]     DT         (NP*))                     -    -   -   -   *         *               *           *               *)          *           *        (10)
+bn/abc/00/abc_0003   0   15    [WORD]      ,            *                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   16    [WORD]     TO            *                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   17    [WORD]     VB      (VP(VP*                     help  01   1   -   *         *               *           *             (V*)          *           *          -
+bn/abc/00/abc_0003   0   18    [WORD]   PRP$       (S(NP*                       -    -   -   -   *         *               *           *          (ARG1*      (ARG0*           *         (5)
+bn/abc/00/abc_0003   0   19    [WORD]     NN            *)                      -    -   -   -   *         *               *           *               *           *)          *          -
+bn/abc/00/abc_0003   0   20    [WORD]     VB         (VP*                     gain  02   2   -   *         *               *           *               *         (V*)          *          -
+bn/abc/00/abc_0003   0   21    [WORD]     NN         (NP*))))                force   -   5   -   *         *               *           *               *)     (ARG1*)          *          -
+bn/abc/00/abc_0003   0   22    [WORD]     CC            *                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   23    [WORD]     VB         (VP*               contribute  01   1   -   *         *               *           *               *           *         (V*)         -
+bn/abc/00/abc_0003   0   24    [WORD]     IN         (PP*                       -    -   -   -   *         *               *           *               *           *      (ARG2*          -
+bn/abc/00/abc_0003   0   25    [WORD]     DT      (NP(NP*                       -    -   -   -   *         *               *           *               *           *           *         (1
+bn/abc/00/abc_0003   0   26    [WORD]     NN            *)                  future   -   1   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   27    [WORD]     IN         (PP*                       -    -   -   -   *         *               *           *               *           *           *          -
+bn/abc/00/abc_0003   0   28    [WORD]     DT         (NP*                       -    -   -   -   *         *               *           *               *           *           *        (12
+bn/abc/00/abc_0003   0   29    [WORD]     NN            *))))))))))        country   -   3   -   *         *)              *)          *               *           *           *)     12)|1)
+bn/abc/00/abc_0003   0   30    [WORD]      .            *))                     -    -   -   -   *         *               *           *               *           *           *          -
+
+bn/abc/00/abc_0003   0    0    [WORD]     IN   (TOP(S(PP*                 -    -   -   -        *      *      (ARGM-LOC*           *           -
+bn/abc/00/abc_0003   0    1    [WORD]     DT         (NP*                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0    2    [WORD]    NNS            *))               -    -   -   -        *      *               *)          *           -
+bn/abc/00/abc_0003   0    3    [WORD]     IN         (PP*                 -    -   -   -        *      *      (ARGM-TMP*           *           -
+bn/abc/00/abc_0003   0    4    [WORD]     DT      (NP(NP*                 -    -   -   -   (DATE*      *               *           *           -
+bn/abc/00/abc_0003   0    5    [WORD]     JJ            *                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0    6    [WORD]     NN            *)               day   -   2   -        *)     *               *           *           -
+bn/abc/00/abc_0003   0    7    [WORD]     IN         (PP*                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0    8    [WORD]     DT         (NP*                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0    9    [WORD]     NN            *))))             -    -   -   -        *      *               *)          *           -
+bn/abc/00/abc_0003   0   10    [WORD]      ,            *                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   11    [WORD]     DT      (NP(NP*                 -    -   -   -        *      *          (ARG0*      (ARG1*          (8
+bn/abc/00/abc_0003   0   12    [WORD]    NNS            *)            people   -   2   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   13    [WORD]     IN         (PP*                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   14    [WORD]    NNP         (NP*)))              -    -   -   -     (GPE)     *               *)          *)     (12)|8)
+bn/abc/00/abc_0003   0   15    [WORD]    VBP         (VP*                 be  03   -   -        *    (V*)              *           *           -
+bn/abc/00/abc_0003   0   16    [WORD]    VBG         (VP*              savor  01   1   -        *      *             (V*)          *           -
+bn/abc/00/abc_0003   0   17    [WORD]   PRP$         (NP*                 -    -   -   -        *      *          (ARG1*           *       (6|(8)
+bn/abc/00/abc_0003   0   18    [WORD]     NN            *)                -    -   -   -        *      *               *)          *           6)
+bn/abc/00/abc_0003   0   19    [WORD]      ,            *                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   20    [WORD]    VBN       (S(VP*              sweep  03   -   -        *      *      (ARGM-PRD*         (V*)          -
+bn/abc/00/abc_0003   0   21    [WORD]     RP        (PRT*)                -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   22    [WORD]     IN         (PP*                 -    -   -   -        *      *               *      (ARG0*           -
+bn/abc/00/abc_0003   0   23    [WORD]     DT      (NP(NP*                 -    -   -   -        *      *               *           *          (6
+bn/abc/00/abc_0003   0   24    [WORD]     JJ            *                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   25    [WORD]     NN            *)             death   -   2   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   26    [WORD]     IN         (PP*                 -    -   -   -        *      *               *           *           -
+bn/abc/00/abc_0003   0   27    [WORD]   PRP$         (NP*                 -    -   -   -        *      *               *           *          (8)
+bn/abc/00/abc_0003   0   28    [WORD]     NN            *))))))))         -    -   -   -        *      *               *)          *)          6)
+bn/abc/00/abc_0003   0   29    [WORD]      .            *))               -    -   -   -        *      *               *           *           -
+
+bn/abc/00/abc_0003   0   0    [WORD]   NNP   (TOP(S(NP*)           -    -   -   -    (GPE)     *      (ARG1*)     (7)
+bn/abc/00/abc_0003   0   1    [WORD]   VBZ         (VP*          have  01   -   -       *    (V*)          *       -
+bn/abc/00/abc_0003   0   2    [WORD]   VBN         (VP*        become  01   1   -       *      *         (V*)      -
+bn/abc/00/abc_0003   0   3    [WORD]    CD         (NP*            -    -   -   -       *      *      (ARG2*       -
+bn/abc/00/abc_0003   0   4    [WORD]    JJ            *            -    -   -   -       *      *           *       -
+bn/abc/00/abc_0003   0   5    [WORD]    NN            *)))         -    -   -   -       *      *           *)      -
+bn/abc/00/abc_0003   0   6    [WORD]     .            *))          -    -   -   -       *      *           *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]    IN   (TOP(S(SBAR*               -    -   -   -          *         *      (ARGM-TMP*           *       -
+bn/abc/00/abc_0003   0    1    [WORD]    DT         (S(NP*               -    -   -   -          *    (ARG0*               *           *      (8
+bn/abc/00/abc_0003   0    2    [WORD]   NNS              *)          people   -   2   -          *         *)              *           *       8)
+bn/abc/00/abc_0003   0    3    [WORD]   VBD           (VP*)))     celebrate  02   1   -          *       (V*)              *)          *       -
+bn/abc/00/abc_0003   0    4    [WORD]     ,              *               -    -   -   -          *         *               *           *       -
+bn/abc/00/abc_0003   0    5    [WORD]   NNP           (NP*               -    -   -   -   (PERSON*         *          (ARG1*           *      (5
+bn/abc/00/abc_0003   0    6    [WORD]   NNP              *)              -    -   -   -          *)        *               *)          *       5)
+bn/abc/00/abc_0003   0    7    [WORD]   VBD           (VP*         reappear  01   -   -          *         *             (V*)          *       -
+bn/abc/00/abc_0003   0    8    [WORD]    IN           (PP*               -    -   -   -          *         *      (ARGM-LOC*           *       -
+bn/abc/00/abc_0003   0    9    [WORD]   NNP           (NP*))             -    -   -   -       (GPE)        *               *)          *      (7)
+bn/abc/00/abc_0003   0   10    [WORD]    IN           (PP*               -    -   -   -          *         *      (ARGM-LOC*           *       -
+bn/abc/00/abc_0003   0   11    [WORD]    DT           (NP*               -    -   -   -          *         *               *           *       -
+bn/abc/00/abc_0003   0   12    [WORD]   VBN              *        videotape  01   -   -          *         *               *         (V*)      -
+bn/abc/00/abc_0003   0   13    [WORD]    NN              *)))       meeting   -   1   -          *         *               *)     (ARG1*)      -
+bn/abc/00/abc_0003   0   14    [WORD]     .              *))             -    -   -   -          *         *               *           *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]    NNP   (TOP(S(NP(NP*                    -    -   -   -     (GPE)     *          (ARG1*      (ARG0*               *               *        *     (14|(16
+bn/abc/00/abc_0003   0    1    [WORD]    POS               *)                   -    -   -   -        *      *               *           *               *               *        *          14)
+bn/abc/00/abc_0003   0    2    [WORD]    NNP               *                    -    -   -   -        *      *               *           *               *               *        *           -
+bn/abc/00/abc_0003   0    3    [WORD]    NNP               *)                   -    -   -   -        *      *               *)          *)              *               *        *          16)
+bn/abc/00/abc_0003   0    4    [WORD]    VBD            (VP*                  have  01   -   -        *    (V*)              *           *               *               *        *           -
+bn/abc/00/abc_0003   0    5    [WORD]    VBN            (VP*                  come  01   1   -        *      *             (V*)          *               *               *        *           -
+bn/abc/00/abc_0003   0    6    [WORD]     TO          (S(VP*                    -    -   -   -        *      *      (ARGM-PRP*           *               *               *        *           -
+bn/abc/00/abc_0003   0    7    [WORD]     VB            (VP*                  tell  01   1   -        *      *               *         (V*)              *               *        *           -
+bn/abc/00/abc_0003   0    8    [WORD]    PRP            (NP*)                   -    -   -   -        *      *               *      (ARG2*)              *               *        *          (5)
+bn/abc/00/abc_0003   0    9    [WORD]     IN          (SBAR*                    -    -   -   -        *      *               *      (ARG1*               *               *        *           -
+bn/abc/00/abc_0003   0   10    [WORD]     DT        (S(S(NP*                    -    -   -   -        *      *               *           *          (ARG1*               *        *         (14
+bn/abc/00/abc_0003   0   11    [WORD]   NNPS               *)                   -    -   -   -    (NORP)     *               *           *               *)              *        *          14)
+bn/abc/00/abc_0003   0   12    [WORD]     RB          (ADVP*                    -    -   -   -        *      *               *           *      (ARGM-TMP*               *        *           -
+bn/abc/00/abc_0003   0   13    [WORD]    RBR               *)                   -    -   -   -        *      *               *           *               *)              *        *           -
+bn/abc/00/abc_0003   0   14    [WORD]    VBP            (VP*                    be  01   1   -        *      *               *           *             (V*)              *        *           -
+bn/abc/00/abc_0003   0   15    [WORD]     IN            (PP*                    -    -   -   -        *      *               *           *          (ARG2*               *        *           -
+bn/abc/00/abc_0003   0   16    [WORD]    PRP            (NP*))))                -    -   -   -        *      *               *           *               *)              *        *          (5)
+bn/abc/00/abc_0003   0   17    [WORD]     CC               *                    -    -   -   -        *      *               *           *               *               *        *           -
+bn/abc/00/abc_0003   0   18    [WORD]    PRP          (S(NP*)                   -    -   -   -        *      *               *           *               *          (ARG0*)       *          (5)
+bn/abc/00/abc_0003   0   19    [WORD]     MD            (VP*                    -    -   -   -        *      *               *           *               *      (ARGM-MOD*)       *           -
+bn/abc/00/abc_0003   0   20    [WORD]     VB            (VP*                accept  01   1   -        *      *               *           *               *             (V*)       *           -
+bn/abc/00/abc_0003   0   21    [WORD]     NN            (NP*)))))))))))     defeat  01   1   -        *      *               *)          *)              *          (ARG1*)     (V*)         (6)
+bn/abc/00/abc_0003   0   22    [WORD]      .               *))                  -    -   -   -        *      *               *           *               *               *        *           -
+
+bn/abc/00/abc_0003   0    0    [WORD]   NNS    (TOP(S(NP*)                 source   -   3   -          *    (ARG0*)              *           *           *        -
+bn/abc/00/abc_0003   0    1    [WORD]   VBP          (VP*                     say  01   1   -          *       (V*)              *           *           *        -
+bn/abc/00/abc_0003   0    2    [WORD]   NNP   (SBAR(S(NP*)                     -    -   -   -    (PERSON)   (ARG1*          (ARG1*)     (ARG0*)     (ARG1*)      (5)
+bn/abc/00/abc_0003   0    3    [WORD]   VBD          (VP*                      be  01   1   -          *         *             (V*)          *           *        -
+bn/abc/00/abc_0003   0    4    [WORD]    JJ        (ADJP*)                     -    -   -   -          *         *          (ARG2*)          *           *        -
+bn/abc/00/abc_0003   0    5    [WORD]     ,             *                      -    -   -   -          *         *               *           *           *        -
+bn/abc/00/abc_0003   0    6    [WORD]   VBG        (S(VP*                 promise  01   1   -          *         *      (ARGM-ADV*         (V*)          *        -
+bn/abc/00/abc_0003   0    7    [WORD]    TO        (S(VP*                      -    -   -   -          *         *               *      (ARG2*           *        -
+bn/abc/00/abc_0003   0    8    [WORD]    VB          (VP*                    stay  01   1   -          *         *               *           *         (V*)       -
+bn/abc/00/abc_0003   0    9    [WORD]    IN       (PP(PP*                      -    -   -   -          *         *               *           *      (ARG3*        -
+bn/abc/00/abc_0003   0   10    [WORD]   NNP          (NP*))                    -    -   -   -       (GPE)        *               *           *           *      (12)
+bn/abc/00/abc_0003   0   11    [WORD]    CC             *                      -    -   -   -          *         *               *           *           *        -
+bn/abc/00/abc_0003   0   12    [WORD]    IN          (PP*                      -    -   -   -          *         *               *           *           *        -
+bn/abc/00/abc_0003   0   13    [WORD]   NNS          (NP*))))))))))))          -    -   -   -          *         *)              *)          *)          *)       -
+bn/abc/00/abc_0003   0   14    [WORD]     .             *))                    -    -   -   -          *         *               *           *           *        -
+
+bn/abc/00/abc_0003   0    0    [WORD]     DT    (TOP(S(NP(NP*               -    -   -   -          *    (ARG0*        *               *          (2
+bn/abc/00/abc_0003   0    1    [WORD]    NNS                *)          people   -   2   -          *         *        *               *           -
+bn/abc/00/abc_0003   0    2    [WORD]     RB           (ADVP*))             -    -   -   -          *         *)       *               *           2)
+bn/abc/00/abc_0003   0    3    [WORD]    VBP             (VP*              say  01   1   -          *       (V*)       *               *           -
+bn/abc/00/abc_0003   0    4    [WORD]      ,                *               -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0    5    [WORD]   PRP$   (SBAR(S(NP(NP*               -    -   -   -          *    (ARG1*        *          (ARG1*      (15|(2)
+bn/abc/00/abc_0003   0    6    [WORD]     JJ                *               -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0    7    [WORD]    NNP                *)              -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0    8    [WORD]      ,                *               -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0    9    [WORD]    NNP             (NP*               -    -   -   -   (PERSON*         *        *               *           -
+bn/abc/00/abc_0003   0   10    [WORD]    NNP                *))             -    -   -   -          *)        *        *               *)         15)
+bn/abc/00/abc_0003   0   11    [WORD]      ,                *               -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0   12    [WORD]    VBZ             (VP*               be  03   -   -          *         *      (V*)              *           -
+bn/abc/00/abc_0003   0   13    [WORD]     RB           (ADVP*)              -    -   -   -          *         *        *      (ARGM-MNR*)          -
+bn/abc/00/abc_0003   0   14    [WORD]    VBG             (VP*           become  01   1   -          *         *        *             (V*)          -
+bn/abc/00/abc_0003   0   15    [WORD]     DT             (NP*               -    -   -   -          *         *        *          (ARG2*           -
+bn/abc/00/abc_0003   0   16    [WORD]     JJ                *               -    -   -   -          *         *        *               *           -
+bn/abc/00/abc_0003   0   17    [WORD]     NN                *))))))     leader   -   1   -          *         *)       *               *)          -
+bn/abc/00/abc_0003   0   18    [WORD]      .                *))             -    -   -   -          *         *        *               *           -
+
+bn/abc/00/abc_0003   0    0    [WORD]    NN   (TOP(S(S(NP*)                   today   -   2   -      (DATE)   (ARGM-TMP*)            *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    1    [WORD]   PRP           (NP*)                      -    -   -   -          *        (ARG0*)            *           *               *           *               *               *           *         (15)
+bn/abc/00/abc_0003   0    2    [WORD]     ,              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    3    [WORD]    RB         (ADVP*)                      -    -   -   -          *    (ARGM-DIS*)            *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    4    [WORD]     ,              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    5    [WORD]   VBD           (VP*                     meet  03   2   -          *           (V*)            *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    6    [WORD]    IN           (PP*                       -    -   -   -          *        (ARG1*             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0    7    [WORD]   NNP     (NP(NP(NP*                       -    -   -   -       (GPE)            *        (ARG0*           *               *           *               *               *           *     (14|(16
+bn/abc/00/abc_0003   0    8    [WORD]   POS              *)                      -    -   -   -          *             *             *           *               *           *               *               *           *          14)
+bn/abc/00/abc_0003   0    9    [WORD]   NNP              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   10    [WORD]   NNP              *)                      -    -   -   -          *             *             *)          *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   11    [WORD]     ,              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   12    [WORD]    WP    (SBAR(WHNP*)                      -    -   -   -          *             *      (R-ARG0*)          *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   13    [WORD]   VBD         (S(VP*                    carry  01   2   -          *             *           (V*)          *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   14    [WORD]    DT        (NP(NP*                       -    -   -   -          *             *        (ARG1*      (ARG0*               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   15    [WORD]    JJ              *                       -    -   -   -      (NORP)            *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   16    [WORD]   NNP              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   17    [WORD]   POS              *)                      -    -   -   -          *             *             *           *)              *           *               *               *           *           -
+bn/abc/00/abc_0003   0   18    [WORD]    NN              *))))))))      endorsement  01   1   -          *             *)            *)        (V*)              *           *               *               *           *          16)
+bn/abc/00/abc_0003   0   19    [WORD]     ,              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   20    [WORD]    CC              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   21    [WORD]    NN         (S(NP*)                      -    -   -   -      (TIME)            *             *           *      (ARGM-TMP*)          *               *               *           *          (4)
+bn/abc/00/abc_0003   0   22    [WORD]   PRP           (NP*)                      -    -   -   -          *             *             *           *          (ARG0*)     (ARG0*)              *               *           *         (15)
+bn/abc/00/abc_0003   0   23    [WORD]   VBD           (VP*                       go  02   1   -          *             *             *           *             (V*)          *               *               *           *           -
+bn/abc/00/abc_0003   0   24    [WORD]    IN           (PP*                       -    -   -   -          *             *             *           *          (ARG1*           *               *               *           *           -
+bn/abc/00/abc_0003   0   25    [WORD]    JJ           (NP*                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   26    [WORD]    NN              *))             television   -   1   -          *             *             *           *               *)          *               *               *           *           -
+bn/abc/00/abc_0003   0   27    [WORD]    TO         (S(VP*                       -    -   -   -          *             *             *           *      (ARGM-PRP*           *               *               *           *           -
+bn/abc/00/abc_0003   0   28    [WORD]    VB           (VP*                     take  01   5   -          *             *             *           *               *         (V*)              *               *           *           -
+bn/abc/00/abc_0003   0   29    [WORD]    JJ        (NP(NP*                       -    -   -   -          *             *             *           *               *      (ARG1*      (ARGM-MNR*)              *           *           -
+bn/abc/00/abc_0003   0   30    [WORD]   NNS              *)                question  01   1   -          *             *             *           *               *           *)            (V*)              *           *           -
+bn/abc/00/abc_0003   0   31    [WORD]    IN           (PP*                       -    -   -   -          *             *             *           *               *      (ARG2*          (ARG0*               *           *           -
+bn/abc/00/abc_0003   0   32    [WORD]    DT           (NP*                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   33    [WORD]   NNS              *))))))                 -    -   -   -          *             *             *           *               *)          *)              *)              *           *           -
+bn/abc/00/abc_0003   0   34    [WORD]     :              *                       -    -   -   -          *             *             *           *               *           *               *               *           *           -
+bn/abc/00/abc_0003   0   35    [WORD]    NN           (NP*                something   -   1   -          *             *             *           *      (ARGM-PRD*           *               *               *           *           -
+bn/abc/00/abc_0003   0   36    [WORD]   NNP    (SBAR(S(NP*)                      -    -   -   -    (PERSON)            *             *           *               *           *               *          (ARG1*)     (ARG0*)         (5)
+bn/abc/00/abc_0003   0   37    [WORD]    RB         (ADVP*)                      -    -   -   -          *             *             *           *               *           *               *      (ARGM-NEG*)          *           -
+bn/abc/00/abc_0003   0   38    [WORD]   VBD           (VP*                     dare  01   1   -          *             *             *           *               *           *               *             (V*)          *           -
+bn/abc/00/abc_0003   0   39    [WORD]    TO         (S(VP*                       -    -   -   -          *             *             *           *               *           *               *          (ARG2*           *           -
+bn/abc/00/abc_0003   0   40    [WORD]    VB           (VP*)))))))))              do  02   1   -          *             *             *           *               *)          *               *               *)        (V*)          -
+bn/abc/00/abc_0003   0   41    [WORD]     .              *))                     -    -   -   -          *             *             *           *               *           *               *               *           *           -
+
+bn/abc/00/abc_0003   0   0    [WORD]    NN   (TOP(S(NP(NP*)           -    -   -   -          *      (ARG1*        *      (ARG1*       -
+bn/abc/00/abc_0003   0   1    [WORD]    IN            (PP*            -    -   -   -          *           *        *           *       -
+bn/abc/00/abc_0003   0   2    [WORD]   NNP            (NP*)))         -    -   -   -    (PERSON)          *)       *           *)     (5)
+bn/abc/00/abc_0003   0   3    [WORD]   VBZ            (VP*          seem  01   1   -          *         (V*)       *           *       -
+bn/abc/00/abc_0003   0   4    [WORD]    TO          (S(VP*            -    -   -   -          *    (C-ARG1*        *           *       -
+bn/abc/00/abc_0003   0   5    [WORD]    VB            (VP*            be  03   -   -          *           *      (V*)          *       -
+bn/abc/00/abc_0003   0   6    [WORD]   VBG            (VP*)))))     grow  01   4   -          *           *)       *         (V*)      -
+bn/abc/00/abc_0003   0   7    [WORD]     .               *))          -    -   -   -          *           *        *           *       -
+
+bn/abc/00/abc_0003   0   0    [WORD]    NN   (TOP(S(NP(NP*         yesterday   -   1   -    (DATE)     *      (ARG2*       -
+bn/abc/00/abc_0003   0   1    [WORD]   POS               *)               -    -   -   -        *      *           *       -
+bn/abc/00/abc_0003   0   2    [WORD]    NN               *)               -    -   -   -        *      *           *)      -
+bn/abc/00/abc_0003   0   3    [WORD]   VBD            (VP*                be  03   -   -        *    (V*)          *       -
+bn/abc/00/abc_0003   0   4    [WORD]   VBN            (VP*            target  01   1   -        *      *         (V*)      -
+bn/abc/00/abc_0003   0   5    [WORD]    RB       (PP(ADVP*)               -    -   -   -        *      *      (ARG1*       -
+bn/abc/00/abc_0003   0   6    [WORD]    IN               *                -    -   -   -        *      *           *       -
+bn/abc/00/abc_0003   0   7    [WORD]   PRP            (NP*))))            -    -   -   -        *      *           *)     (5)
+bn/abc/00/abc_0003   0   8    [WORD]     .               *))              -    -   -   -        *      *           *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]     DT   (TOP(S(NP*                  -    -   -   -          *    (ARG0*           *      (11
+bn/abc/00/abc_0003   0    1    [WORD]    NNS            *)                 -    -   -   -          *         *)          *       11)
+bn/abc/00/abc_0003   0    2    [WORD]    VBD         (VP*               focus  01   2   -          *       (V*)          *        -
+bn/abc/00/abc_0003   0    3    [WORD]     JJ      (NP(NP*)                 -    -   -   -          *    (ARG1*           *        -
+bn/abc/00/abc_0003   0    4    [WORD]     IN         (PP*                  -    -   -   -          *         *           *        -
+bn/abc/00/abc_0003   0    5    [WORD]   PRP$         (NP*                  -    -   -   -          *         *           *      (11)
+bn/abc/00/abc_0003   0    6    [WORD]     NN            *)))            anger   -   2   -          *         *)          *        -
+bn/abc/00/abc_0003   0    7    [WORD]     IN         (PP*                  -    -   -   -          *    (ARG2*           *        -
+bn/abc/00/abc_0003   0    8    [WORD]     NN      (NP(NP*)                 -    -   -   -          *         *      (ARG1*)       -
+bn/abc/00/abc_0003   0    9    [WORD]    VBN         (VP*           associate  01   1   -          *         *         (V*)       -
+bn/abc/00/abc_0003   0   10    [WORD]     IN         (PP*                  -    -   -   -          *         *      (ARG2*        -
+bn/abc/00/abc_0003   0   11    [WORD]    NNP         (NP*))))))            -    -   -   -    (PERSON)        *)          *)      (5)
+bn/abc/00/abc_0003   0   12    [WORD]      .            *))                -    -   -   -          *         *           *        -
+
+bn/abc/00/abc_0003   0    0    [WORD]    DT   (TOP(S(NP*)                  -    -   -   -          *    (ARG1*)     -
+bn/abc/00/abc_0003   0    1    [WORD]   VBZ         (VP*                   be  01   1   -          *       (V*)     -
+bn/abc/00/abc_0003   0    2    [WORD]    DT      (NP(NP*                   -    -   -   -          *    (ARG2*     (9
+bn/abc/00/abc_0003   0    3    [WORD]    JJ            *                   -    -   -   -          *         *      -
+bn/abc/00/abc_0003   0    4    [WORD]    NN            *                   -    -   -   -          *         *      -
+bn/abc/00/abc_0003   0    5    [WORD]    NN            *)        headquarters   -   1   -          *         *      -
+bn/abc/00/abc_0003   0    6    [WORD]    IN         (PP*                   -    -   -   -          *         *      -
+bn/abc/00/abc_0003   0    7    [WORD]   NNP      (NP(NP*                   -    -   -   -    (PERSON)        *     (5
+bn/abc/00/abc_0003   0    8    [WORD]   POS            *)                  -    -   -   -          *         *      5)
+bn/abc/00/abc_0003   0    9    [WORD]    NN            *))))               -    -   -   -          *         *)     9)
+bn/abc/00/abc_0003   0   10    [WORD]     .            *))                 -    -   -   -          *         *      -
+
+bn/abc/00/abc_0003   0    0    [WORD]    IN   (TOP(S(SBAR*               -    -   -   -   *             *        *           *        *           *      -
+bn/abc/00/abc_0003   0    1    [WORD]   PRP         (S(NP*)              -    -   -   -   *        (ARG0*)       *           *        *           *      -
+bn/abc/00/abc_0003   0    2    [WORD]    MD           (VP*               -    -   -   -   *    (ARGM-MOD*)       *           *        *           *      -
+bn/abc/00/abc_0003   0    3    [WORD]    VB           (VP*))))          see  01   3   -   *           (V*)       *           *        *           *      -
+bn/abc/00/abc_0003   0    4    [WORD]     ,              *               -    -   -   -   *             *        *           *        *           *      -
+bn/abc/00/abc_0003   0    5    [WORD]    DT         (S(NP*               -    -   -   -   *             *        *      (ARG1*        *           *      -
+bn/abc/00/abc_0003   0    6    [WORD]    NN              *)          window   -   1   -   *             *        *           *)       *           *      -
+bn/abc/00/abc_0003   0    7    [WORD]   VBZ           (VP*               be  03   -   -   *             *      (V*)          *        *           *      -
+bn/abc/00/abc_0003   0    8    [WORD]   VBN           (VP*)))         break  01   -   -   *             *        *         (V*)       *           *      -
+bn/abc/00/abc_0003   0    9    [WORD]    CC              *               -    -   -   -   *             *        *           *        *           *      -
+bn/abc/00/abc_0003   0   10    [WORD]    DT         (S(NP*               -    -   -   -   *             *        *           *        *      (ARG1*     (9
+bn/abc/00/abc_0003   0   11    [WORD]    NN              *)        building   -   1   -   *             *        *           *        *           *)     9)
+bn/abc/00/abc_0003   0   12    [WORD]   VBZ           (VP*               be  03   -   -   *             *        *           *      (V*)          *      -
+bn/abc/00/abc_0003   0   13    [WORD]   VBN           (VP*)))         trash  01   -   -   *             *        *           *        *         (V*)     -
+bn/abc/00/abc_0003   0   14    [WORD]     .              *))             -    -   -   -   *             *        *           *        *           *      -
+
+bn/abc/00/abc_0003   0    0    [WORD]    DT   (TOP(S(NP*               -    -   -   -          *        (ARG0*          (ARG0*           *     (11
+bn/abc/00/abc_0003   0    1    [WORD]    NN            *)              -    -   -   -          *             *)              *)          *      11)
+bn/abc/00/abc_0003   0    2    [WORD]    RB       (ADVP*)              -    -   -   -          *    (ARGM-DIS*)     (ARGM-DIS*)          *       -
+bn/abc/00/abc_0003   0    3    [WORD]   VBD      (VP(VP*           single  01   1   -          *           (V*)              *           *       -
+bn/abc/00/abc_0003   0    4    [WORD]    RP        (PRT*))             -    -   -   -          *             *               *           *       -
+bn/abc/00/abc_0003   0    5    [WORD]    CC            *               -    -   -   -          *             *               *           *       -
+bn/abc/00/abc_0003   0    6    [WORD]   VBD         (VP*)         destroy  01   1   -          *             *             (V*)          *       -
+bn/abc/00/abc_0003   0    7    [WORD]    DT      (NP(NP*               -    -   -   -          *        (ARG1*          (ARG1*           *       -
+bn/abc/00/abc_0003   0    8    [WORD]    NN            *)           store   -   1   -          *             *               *           *       -
+bn/abc/00/abc_0003   0    9    [WORD]   VBN         (VP*              own  01   1   -          *             *               *         (V*)      -
+bn/abc/00/abc_0003   0   10    [WORD]    IN         (PP*               -    -   -   -          *             *               *      (ARG0*       -
+bn/abc/00/abc_0003   0   11    [WORD]   NNP      (NP(NP*               -    -   -   -    (PERSON)            *               *           *      (5
+bn/abc/00/abc_0003   0   12    [WORD]   POS            *)              -    -   -   -          *             *               *           *       5)
+bn/abc/00/abc_0003   0   13    [WORD]    NN            *)))))          -    -   -   -          *             *)              *)          *)      -
+bn/abc/00/abc_0003   0   14    [WORD]     .            *))             -    -   -   -          *             *               *           *       -
+
+bn/abc/00/abc_0003   0    0    [WORD]   PRP   (TOP(S(S(NP*)                    -    -   -   -          *    (ARG0*)            *      (ARG0*)              *        *               *               *      (11)
+bn/abc/00/abc_0003   0    1    [WORD]   VBD        (VP(VP*                   burn  01   1   -          *       (V*)            *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0    2    [WORD]    DT        (NP(NP*                     -    -   -   -          *    (ARG1*        (ARG0*           *               *        *               *               *       (0
+bn/abc/00/abc_0003   0    3    [WORD]    NN              *                     tv   -   1   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0    4    [WORD]    NN              *)               station   -   1   -          *         *             *)          *               *        *               *               *        -
+bn/abc/00/abc_0003   0    5    [WORD]   WDT    (SBAR(WHNP*)                    -    -   -   -          *         *      (R-ARG0*)          *               *        *               *               *        -
+bn/abc/00/abc_0003   0    6    [WORD]   VBD         (S(VP*                  carry  01   2   -          *         *           (V*)          *               *        *               *               *        -
+bn/abc/00/abc_0003   0    7    [WORD]   NNP        (NP(NP*                     -    -   -   -    (PERSON)        *        (ARG1*           *               *        *               *               *       (5
+bn/abc/00/abc_0003   0    8    [WORD]   POS              *)                    -    -   -   -          *         *             *           *               *        *               *               *        5)
+bn/abc/00/abc_0003   0    9    [WORD]   NNS              *))))))             word   -   3   -          *         *)            *)          *               *        *               *               *        0)
+bn/abc/00/abc_0003   0   10    [WORD]    CC              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   11    [WORD]   VBD           (VP*                   beat  01   3   -          *         *             *         (V*)              *        *               *               *        -
+bn/abc/00/abc_0003   0   12    [WORD]    DT        (NP(NP*                     -    -   -   -          *         *             *      (ARG1*               *        *               *               *       (0
+bn/abc/00/abc_0003   0   13    [WORD]    NN              *                station   -   1   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   14    [WORD]   POS              *)                    -    -   -   -          *         *             *           *               *        *               *               *        0)
+bn/abc/00/abc_0003   0   15    [WORD]    NN              *))))           director   -   1   -          *         *             *           *)              *        *               *               *        -
+bn/abc/00/abc_0003   0   16    [WORD]     ,              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   17    [WORD]    CC              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   18    [WORD]    NN         (S(NP*)                    -    -   -   -      (TIME)        *             *           *      (ARGM-TMP*)       *               *               *       (4)
+bn/abc/00/abc_0003   0   19    [WORD]     ,              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   20    [WORD]    DT           (NP*                     -    -   -   -          *         *             *           *          (ARG1*        *          (ARG1*          (ARG0*      (11
+bn/abc/00/abc_0003   0   21    [WORD]   NNS              *)                people   -   2   -          *         *             *           *               *)       *               *)              *)      11)
+bn/abc/00/abc_0003   0   22    [WORD]   VBP           (VP*                   seem  01   1   -          *         *             *           *             (V*)       *               *               *        -
+bn/abc/00/abc_0003   0   23    [WORD]    TO         (S(VP*                     -    -   -   -          *         *             *           *        (C-ARG1*        *               *               *        -
+bn/abc/00/abc_0003   0   24    [WORD]    VB           (VP*                     be  03   -   -          *         *             *           *               *      (V*)              *               *        -
+bn/abc/00/abc_0003   0   25    [WORD]   VBG           (VP*                   turn  04   4   -          *         *             *           *               *        *             (V*)              *        -
+bn/abc/00/abc_0003   0   26    [WORD]    RB         (ADVP*                     -    -   -   -          *         *             *           *               *        *          (ARG2*               *        -
+bn/abc/00/abc_0003   0   27    [WORD]    IN           (PP*                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   28    [WORD]    NN           (NP*)))               anger   -   2   -          *         *             *           *               *        *               *)              *        -
+bn/abc/00/abc_0003   0   29    [WORD]     ,              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   30    [WORD]   VBG         (S(VP*                   pray  01   1   -          *         *             *           *               *        *      (ARGM-ADV*             (V*)       -
+bn/abc/00/abc_0003   0   31    [WORD]    RB         (ADVP*)                    -    -   -   -          *         *             *           *               *        *               *      (ARGM-ADV*)       -
+bn/abc/00/abc_0003   0   32    [WORD]    IN           (PP*                     -    -   -   -          *         *             *           *               *        *               *          (ARG1*        -
+bn/abc/00/abc_0003   0   33    [WORD]    DT           (NP*                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   34    [WORD]   JJR              *                     -    -   -   -          *         *             *           *               *        *               *               *        -
+bn/abc/00/abc_0003   0   35    [WORD]    NN              *))))))))))       future   -   1   -          *         *             *           *               *)       *               *)              *)       -
+bn/abc/00/abc_0003   0   36    [WORD]     .              *))                   -    -   -   -          *         *             *           *               *        *               *               *        -
+
+bn/abc/00/abc_0003   0   0    [WORD]    DT   (TOP(NP(NP*            -   -   -   -          *     -
+bn/abc/00/abc_0003   0   1    [WORD]    NN             *)       future  -   1   -          *     -
+bn/abc/00/abc_0003   0   2    [WORD]    CC             *            -   -   -   -          *     -
+bn/abc/00/abc_0003   0   3    [WORD]    DT          (NP*            -   -   -   -          *   (12
+bn/abc/00/abc_0003   0   4    [WORD]    NN             *)      country  -   3   -          *    12)
+bn/abc/00/abc_0003   0   5    [WORD]    IN          (PP*            -   -   -   -          *     -
+bn/abc/00/abc_0003   0   6    [WORD]   NNP          (NP*            -   -   -   -   (PERSON*    (5
+bn/abc/00/abc_0003   0   7    [WORD]   NNP             *))          -   -   -   -          *)    5)
+bn/abc/00/abc_0003   0   8    [WORD]     .             *))          -   -   -   -          *     -
+
+bn/abc/00/abc_0003   0   0    [WORD]   NNP   (TOP(FRAG(NP*      -   -   -   -   (PERSON*    (3
+bn/abc/00/abc_0003   0   1    [WORD]   NNP               *)     -   -   -   -          *)    3)
+bn/abc/00/abc_0003   0   2    [WORD]     ,               *      -   -   -   -          *     -
+bn/abc/00/abc_0003   0   3    [WORD]   NNP            (NP*)     -   -   -   -       (GPE)   (7)
+bn/abc/00/abc_0003   0   4    [WORD]     .               *))    -   -   -   -          *     -
+
+#end document

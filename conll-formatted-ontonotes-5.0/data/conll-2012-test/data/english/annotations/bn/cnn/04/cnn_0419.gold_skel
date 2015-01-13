@@ -1,0 +1,62 @@
+#begin document (bn/cnn/04/cnn_0419); part 000
+bn/cnn/04/cnn_0419   0    0    [WORD]   VBN   (TOP(S(NP(NML(NML*         convict  01   -   -          *       (V*)     (ARG1*     (0
+bn/cnn/04/cnn_0419   0    1    [WORD]    NN                    *)             -    -   -   -          *    (ARG1*)          *      -
+bn/cnn/04/cnn_0419   0    2    [WORD]    CC                    *              -    -   -   -          *         *           *      -
+bn/cnn/04/cnn_0419   0    3    [WORD]   NNP            (NML(NML*              -    -   -   -      (ORG*         *           *      -
+bn/cnn/04/cnn_0419   0    4    [WORD]   NNP                    *)             -    -   -   -          *)        *           *      -
+bn/cnn/04/cnn_0419   0    5    [WORD]    NN                    *))            -    -   -   -          *         *           *      -
+bn/cnn/04/cnn_0419   0    6    [WORD]   NNP                    *              -    -   -   -   (PERSON*         *           *      -
+bn/cnn/04/cnn_0419   0    7    [WORD]   NNP                    *)             -    -   -   -          *)        *           *)     0)
+bn/cnn/04/cnn_0419   0    8    [WORD]   VBZ                 (VP*              be  01   4   -          *         *         (V*)     -
+bn/cnn/04/cnn_0419   0    9    [WORD]    RB               (ADVP*              -    -   -   -          *         *      (ARG2*      -
+bn/cnn/04/cnn_0419   0   10    [WORD]    IN                 (PP*              -    -   -   -          *         *           *      -
+bn/cnn/04/cnn_0419   0   11    [WORD]   NNP                 (NP*))))          -    -   -   -       (GPE)        *           *)     -
+bn/cnn/04/cnn_0419   0   12    [WORD]     .                    *))            -    -   -   -          *         *           *      -
+
+bn/cnn/04/cnn_0419   0    0    [WORD]    NNP   (TOP(S(NP*)                -    -   -   -    (PERSON)       (ARG1*)          *               *      (0)
+bn/cnn/04/cnn_0419   0    1    [WORD]    VBD         (VP*             return  01   1   -          *           (V*)          *               *       -
+bn/cnn/04/cnn_0419   0    2    [WORD]     IN         (PP*                 -    -   -   -          *        (ARG4*           *               *       -
+bn/cnn/04/cnn_0419   0    3    [WORD]    NNP         (NP*                 -    -   -   -      (GPE*             *           *               *       -
+bn/cnn/04/cnn_0419   0    4    [WORD]    NNP            *))               -    -   -   -          *)            *)          *               *       -
+bn/cnn/04/cnn_0419   0    5    [WORD]     NN         (NP*)         yesterday   -   1   -      (DATE)   (ARGM-TMP*)          *               *       -
+bn/cnn/04/cnn_0419   0    6    [WORD]     IN         (PP*                 -    -   -   -          *        (ARG3*           *               *       -
+bn/cnn/04/cnn_0419   0    7    [WORD]    NNP         (NP*))               -    -   -   -       (GPE)            *)          *               *       -
+bn/cnn/04/cnn_0419   0    8    [WORD]    VBG         (PP*             follow  01   2   -          *    (ARGM-TMP*         (V*)              *       -
+bn/cnn/04/cnn_0419   0    9    [WORD]   PRP$      (NP(NP*                 -    -   -   -          *             *      (ARG2*          (ARG1*)     (0)
+bn/cnn/04/cnn_0419   0   10    [WORD]     NN            *)           capture  01   1   -          *             *           *             (V*)      -
+bn/cnn/04/cnn_0419   0   11    [WORD]    NNP         (NP*)                -    -   -   -      (DATE)            *           *      (ARGM-TMP*)      -
+bn/cnn/04/cnn_0419   0   12    [WORD]     IN         (PP*                 -    -   -   -          *             *           *          (ARG0*       -
+bn/cnn/04/cnn_0419   0   13    [WORD]     JJ         (NP*                 -    -   -   -      (NORP)            *           *               *       -
+bn/cnn/04/cnn_0419   0   14    [WORD]     NN            *             bounty   -   1   -          *             *           *               *       -
+bn/cnn/04/cnn_0419   0   15    [WORD]    NNS            *)))))        hunter   -   2   -          *             *)          *)              *)      -
+bn/cnn/04/cnn_0419   0   16    [WORD]      .            *))               -    -   -   -          *             *           *               *       -
+
+bn/cnn/04/cnn_0419   0    0    [WORD]    NNP   (TOP(S(NP*)              -    -   -   -      (PERSON)       (ARG0*)              *      (ARG0*)     (ARG0*)     (0)
+bn/cnn/04/cnn_0419   0    1    [WORD]    VBD         (VP*             skip  01   1   -            *           (V*)              *           *           *       -
+bn/cnn/04/cnn_0419   0    2    [WORD]     NN         (NP*)              -    -   -   -            *        (ARG1*)              *           *           *       -
+bn/cnn/04/cnn_0419   0    3    [WORD]     IN         (PP*               -    -   -   -            *    (ARGM-TMP*               *           *           *       -
+bn/cnn/04/cnn_0419   0    4    [WORD]   PRP$      (NP(NP*               -    -   -   -            *             *          (ARG1*)          *           *      (0)
+bn/cnn/04/cnn_0419   0    5    [WORD]     NN            *)           trial  02   3   -            *             *             (V*)          *           *       -
+bn/cnn/04/cnn_0419   0    6    [WORD]     IN         (PP*               -    -   -   -            *             *      (ARGM-TMP*           *           *       -
+bn/cnn/04/cnn_0419   0    7    [WORD]    NNP         (NP*))             -    -   -   -        (DATE)            *               *)          *           *       -
+bn/cnn/04/cnn_0419   0    8    [WORD]     IN         (PP*               -    -   -   -            *             *          (ARG3*           *           *       -
+bn/cnn/04/cnn_0419   0    9    [WORD]    VBG       (S(VP*             rape  01   -   -            *             *               *         (V*)          *       -
+bn/cnn/04/cnn_0419   0   10    [WORD]     CC            *               -    -   -   -            *             *               *           *           *       -
+bn/cnn/04/cnn_0419   0   11    [WORD]    VBG            *             drug  01   -   -            *             *               *           *         (V*)      -
+bn/cnn/04/cnn_0419   0   12    [WORD]     CD         (NP*               -    -   -   -    (CARDINAL)            *               *      (ARG1*      (ARG1*       -
+bn/cnn/04/cnn_0419   0   13    [WORD]    NNS            *)))))))     woman   -   1   -            *             *)              *)          *)          *)      -
+bn/cnn/04/cnn_0419   0   14    [WORD]      .            *))             -    -   -   -            *             *               *           *           *       -
+
+bn/cnn/04/cnn_0419   0    0    [WORD]   PRP   (TOP(S(NP*)                -    -   -   -        *      *          (ARG1*)     (0)
+bn/cnn/04/cnn_0419   0    1    [WORD]   VBD         (VP*                 be  03   -   -        *    (V*)              *       -
+bn/cnn/04/cnn_0419   0    2    [WORD]   VBN         (VP*           sentence  01   1   -        *      *             (V*)      -
+bn/cnn/04/cnn_0419   0    3    [WORD]    IN         (PP*                 -    -   -   -        *      *      (ARGM-MNR*       -
+bn/cnn/04/cnn_0419   0    4    [WORD]    NN         (NP*))               -    -   -   -        *      *               *)      -
+bn/cnn/04/cnn_0419   0    5    [WORD]    IN         (PP*                 -    -   -   -        *      *          (ARG2*       -
+bn/cnn/04/cnn_0419   0    6    [WORD]    CD      (NP(NP*                 -    -   -   -   (DATE*      *               *       -
+bn/cnn/04/cnn_0419   0    7    [WORD]   NNS            *)                -    -   -   -        *)     *               *       -
+bn/cnn/04/cnn_0419   0    8    [WORD]    IN         (PP*                 -    -   -   -        *      *               *       -
+bn/cnn/04/cnn_0419   0    9    [WORD]    NN         (NP*))))))           -    -   -   -        *      *               *)      -
+bn/cnn/04/cnn_0419   0   10    [WORD]     .            *))               -    -   -   -        *      *               *       -
+
+#end document

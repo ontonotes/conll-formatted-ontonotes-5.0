@@ -1,0 +1,961 @@
+#begin document (pt/nt/43/nt_4321); part 000
+pt/nt/43/nt_4321   0    0    [WORD]    RBR   (TOP(S(ADVP*)           -    -   -    John  *    (ARGM-TMP*)         -
+pt/nt/43/nt_4321   0    1    [WORD]      ,              *            -    -   -    John  *             *          -
+pt/nt/43/nt_4321   0    2    [WORD]    NNP           (NP*)           -    -   -    John  *        (ARG1*)        (4)
+pt/nt/43/nt_4321   0    3    [WORD]    VBD           (VP*        appear  01   -    John  *           (V*)         -
+pt/nt/43/nt_4321   0    4    [WORD]     RB         (ADVP*)           -    -   -    John  *    (ARGM-TMP*)         -
+pt/nt/43/nt_4321   0    5    [WORD]     IN           (PP*            -    -   -    John  *    (ARGM-GOL*          -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP$           (NP*            -    -   -    John  *             *      (7|(4)
+pt/nt/43/nt_4321   0    7    [WORD]    NNS              *))          -    -   -    John  *             *)         7)
+pt/nt/43/nt_4321   0    8    [WORD]     IN           (PP*            -    -   -    John  *    (ARGM-LOC*          -
+pt/nt/43/nt_4321   0    9    [WORD]    NNP           (NP*            -    -   -    John  *             *          -
+pt/nt/43/nt_4321   0   10    [WORD]    NNP              *)))         -    -   -    John  *             *)         -
+pt/nt/43/nt_4321   0   11    [WORD]      .              *))          -    -   -    John  *             *          -
+
+pt/nt/43/nt_4321   0    0    [WORD]      DT    (TOP(S(S(NP*)             -    -   -    John  *    (ARG1*)              *             *           *           -
+pt/nt/43/nt_4321   0    1    [WORD]     VBZ            (VP*              be  01   -    John  *       (V*)              *             *           *           -
+pt/nt/43/nt_4321   0    2    [WORD]     WRB   (SBAR(WHADVP*)             -    -   -    John  *    (ARG2*      (ARGM-MNR*)            *           *           -
+pt/nt/43/nt_4321   0    3    [WORD]     PRP          (S(NP*)             -    -   -    John  *         *          (ARG1*)            *           *           -
+pt/nt/43/nt_4321   0    4    [WORD]     VBD            (VP*)))))     happen  01   -    John  *         *)            (V*)            *           *           -
+pt/nt/43/nt_4321   0    5    [WORD]       :               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0    6    [WORD]      DT    (S(NP(NP(NP*)             -    -   -    John  *         *               *        (ARG1*           *         (12
+pt/nt/43/nt_4321   0    7    [WORD]      IN            (PP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0    8    [WORD]      DT            (NP*              -    -   -    John  *         *               *             *           *          (7
+pt/nt/43/nt_4321   0    9    [WORD]     NNS               *))))          -    -   -    John  *         *               *             *)          *       12)|7)
+pt/nt/43/nt_4321   0   10    [WORD]     VBD            (VP*              be  01   -    John  *         *               *           (V*)          *           -
+pt/nt/43/nt_4321   0   11    [WORD]      RB          (ADVP*)             -    -   -    John  *         *               *        (ARG2*)          *           -
+pt/nt/43/nt_4321   0   12    [WORD]       :               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   13    [WORD]     NNP         (NP(NP*              -    -   -    John  *         *               *      (C-ARG1*           *     (11|(12
+pt/nt/43/nt_4321   0   14    [WORD]     NNP               *)             -    -   -    John  *         *               *             *           *          11)
+pt/nt/43/nt_4321   0   15    [WORD]       ,               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   16    [WORD]     NNP         (NP(NP*)             -    -   -    John  *         *               *             *      (ARG1*)          -
+pt/nt/43/nt_4321   0   17    [WORD]  -LRB-            (PRN*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   18    [WORD]     VBN            (VP*            call  01   -    John  *         *               *             *         (V*)          -
+pt/nt/43/nt_4321   0   19    [WORD]     NNP          (S(NP*)))           -    -   -    John  *         *               *             *      (ARG2*)          -
+pt/nt/43/nt_4321   0   20    [WORD]  -RRB-                *))            -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   21    [WORD]       ,               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   22    [WORD]     NNP         (NP(NP*)             -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   23    [WORD]      IN            (PP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   24    [WORD]     NNP         (NP(NP*)             -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   25    [WORD]      IN            (PP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   26    [WORD]     NNP            (NP*)))))         -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   27    [WORD]       ,               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   28    [WORD]      DT         (NP(NP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   29    [WORD]      CD               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   30    [WORD]     NNS               *)             -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   31    [WORD]      IN            (PP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   32    [WORD]     NNP            (NP*)))           -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   33    [WORD]       ,               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   34    [WORD]      CC               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   35    [WORD]      CD            (NP*              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   36    [WORD]      JJ               *              -    -   -    John  *         *               *             *           *           -
+pt/nt/43/nt_4321   0   37    [WORD]     NNS               *))))          -    -   -    John  *         *               *             *)          *          12)
+pt/nt/43/nt_4321   0   38    [WORD]       .               *))            -    -   -    John  *         *               *             *           *           -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*            -    -   -    John  *    (ARG0*               *      (11
+pt/nt/43/nt_4321   0    1    [WORD]   NNP            *)           -    -   -    John  *         *)              *       11)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD         (VP*           say  01   -    John  *       (V*)              *        -
+pt/nt/43/nt_4321   0    3    [WORD]     ,            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    4    [WORD]    ``            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    5    [WORD]   PRP       (S(NP*)           -    -   -    John  *    (ARG1*          (ARG0*)     (11)
+pt/nt/43/nt_4321   0    6    [WORD]   VBP         (VP*            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    7    [WORD]   VBG         (VP*            go  17   -    John  *         *             (V*)       -
+pt/nt/43/nt_4321   0    8    [WORD]    RP        (PRT*)           -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    9    [WORD]    TO       (S(VP*            -    -   -    John  *         *      (ARGM-PRP*        -
+pt/nt/43/nt_4321   0   10    [WORD]    VB            *))))))      -    -   -    John  *         *)              *)       -
+pt/nt/43/nt_4321   0   11    [WORD]     .            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0   12    [WORD]    ''            *))          -    -   -    John  *         *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    DT   (TOP(S(NP*            -    -   -    John  *    (ARG0*               *       (5
+pt/nt/43/nt_4321   0    1    [WORD]    JJ            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    2    [WORD]   NNS            *)           -    -   -    John  *         *)              *        5)
+pt/nt/43/nt_4321   0    3    [WORD]   VBD         (VP*           say  01   -    John  *       (V*)              *        -
+pt/nt/43/nt_4321   0    4    [WORD]     ,            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    5    [WORD]    ``            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP       (S(NP*)           -    -   -    John  *    (ARG1*          (ARG0*)      (5)
+pt/nt/43/nt_4321   0    7    [WORD]    MD         (VP*            -    -   -    John  *         *      (ARGM-MOD*)       -
+pt/nt/43/nt_4321   0    8    [WORD]    VB         (VP*            go  02   -    John  *         *             (V*)       -
+pt/nt/43/nt_4321   0    9    [WORD]    IN         (PP*            -    -   -    John  *         *      (ARGM-COM*        -
+pt/nt/43/nt_4321   0   10    [WORD]   PRP         (NP*))))))      -    -   -    John  *         *)              *)     (11)
+pt/nt/43/nt_4321   0   11    [WORD]     .            *            -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0   12    [WORD]    ''            *))          -    -   -    John  *         *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    RB   (TOP(S(ADVP*)         -    -   -    John  *    (ARGM-DIS*)     (ARGM-DIS*)           -
+pt/nt/43/nt_4321   0    1    [WORD]    DT        (NP(NP*)         -    -   -    John  *        (ARG0*          (ARG0*          (12
+pt/nt/43/nt_4321   0    2    [WORD]    IN           (PP*          -    -   -    John  *             *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]   PRP           (NP*)))       -    -   -    John  *             *)              *)     (12)|12)
+pt/nt/43/nt_4321   0    4    [WORD]   VBD        (VP(VP*          go  17   -    John  *           (V*)              *            -
+pt/nt/43/nt_4321   0    5    [WORD]    RP          (PRT*))        -    -   -    John  *             *               *            -
+pt/nt/43/nt_4321   0    6    [WORD]    CC              *          -    -   -    John  *             *               *            -
+pt/nt/43/nt_4321   0    7    [WORD]   VBD           (VP*         get  05   -    John  *             *             (V*)           -
+pt/nt/43/nt_4321   0    8    [WORD]    IN           (PP*          -    -   -    John  *             *          (ARG2*            -
+pt/nt/43/nt_4321   0    9    [WORD]    DT           (NP*          -    -   -    John  *             *               *           (3
+pt/nt/43/nt_4321   0   10    [WORD]    NN              *))))      -    -   -    John  *             *               *)           3)
+pt/nt/43/nt_4321   0   11    [WORD]     .              *))        -    -   -    John  *             *               *            -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)          -    -   -    John  *        (ARG0*)     (ARG0*)     (12)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD      (VP(VP*         fish  01   -    John  *           (V*)          *        -
+pt/nt/43/nt_4321   0   2    [WORD]    DT         (NP*           -    -   -    John  *    (ARGM-TMP*           *        -
+pt/nt/43/nt_4321   0   3    [WORD]    NN            *))         -    -   -    John  *             *)          *        -
+pt/nt/43/nt_4321   0   4    [WORD]    CC            *           -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0   5    [WORD]   VBD         (VP*        catch  01   -    John  *             *         (V*)       -
+pt/nt/43/nt_4321   0   6    [WORD]    NN         (NP*)))        -    -   -    John  *             *      (ARG1*)       -
+pt/nt/43/nt_4321   0   7    [WORD]     .            *))         -    -   -    John  *             *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    RB   (TOP(S(NP(ADVP*)          -    -   -    John  *    (ARGM-TMP*       -
+pt/nt/43/nt_4321   0   1    [WORD]    DT                 *           -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   2    [WORD]    JJ                 *           -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   3    [WORD]    NN                 *)          -    -   -    John  *             *)      -
+pt/nt/43/nt_4321   0   4    [WORD]   NNP              (NP*)          -    -   -    John  *        (ARG1*)     (4)
+pt/nt/43/nt_4321   0   5    [WORD]   VBD              (VP*        stand  01   -    John  *           (V*)      -
+pt/nt/43/nt_4321   0   6    [WORD]    IN              (PP*           -    -   -    John  *        (ARG2*       -
+pt/nt/43/nt_4321   0   7    [WORD]    DT              (NP*           -    -   -    John  *             *      (9
+pt/nt/43/nt_4321   0   8    [WORD]    NN                 *)))        -    -   -    John  *             *)      9)
+pt/nt/43/nt_4321   0   9    [WORD]     .                 *))         -    -   -    John  *             *       -
+
+pt/nt/43/nt_4321   0   0    [WORD]    CC       (TOP(S*             -    -   -    John  *    (ARGM-DIS*)          *       -
+pt/nt/43/nt_4321   0   1    [WORD]    DT          (NP*             -    -   -    John  *        (ARG0*           *     (12
+pt/nt/43/nt_4321   0   2    [WORD]   NNS             *)            -    -   -    John  *             *)          *      12)
+pt/nt/43/nt_4321   0   3    [WORD]   VBD          (VP*             -    -   -    John  *             *           *       -
+pt/nt/43/nt_4321   0   4    [WORD]    RB             *             -    -   -    John  *    (ARGM-NEG*)          *       -
+pt/nt/43/nt_4321   0   5    [WORD]    VB          (VP*           know  01   -    John  *           (V*)          *       -
+pt/nt/43/nt_4321   0   6    [WORD]   PRP   (SBAR(S(NP*)            -    -   -    John  *        (ARG1*      (ARG1*)      -
+pt/nt/43/nt_4321   0   7    [WORD]   VBD          (VP*             be  01   -    John  *             *         (V*)      -
+pt/nt/43/nt_4321   0   8    [WORD]   NNP          (NP*))))))       -    -   -    John  *             *)     (ARG2*)     (4)
+pt/nt/43/nt_4321   0   9    [WORD]     .             *))           -    -   -    John  *             *           *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]    RB   (TOP(S(ADVP*)           -    -   -    John  *    (ARGM-TMP*)       *               *        -
+pt/nt/43/nt_4321   0    1    [WORD]   PRP           (NP*)           -    -   -    John  *        (ARG0*)       *               *       (4)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD           (VP*           say  01   -    John  *           (V*)       *               *        -
+pt/nt/43/nt_4321   0    3    [WORD]    IN           (PP*            -    -   -    John  *        (ARG2*        *               *        -
+pt/nt/43/nt_4321   0    4    [WORD]   PRP           (NP*))          -    -   -    John  *             *)       *               *      (12)
+pt/nt/43/nt_4321   0    5    [WORD]     ,              *            -    -   -    John  *             *        *               *        -
+pt/nt/43/nt_4321   0    6    [WORD]    ``              *            -    -   -    John  *             *        *               *        -
+pt/nt/43/nt_4321   0    7    [WORD]   NNS        (SQ(NP*)           -    -   -    John  *        (ARG1*        *      (ARGM-DIS*)     (12)
+pt/nt/43/nt_4321   0    8    [WORD]     ,              *            -    -   -    John  *             *        *               *        -
+pt/nt/43/nt_4321   0    9    [WORD]   VBP              *          have  01   -    John  *             *      (V*)              *        -
+pt/nt/43/nt_4321   0   10    [WORD]   PRP           (NP*)           -    -   -    John  *             *        *          (ARG0*)     (12)
+pt/nt/43/nt_4321   0   11    [WORD]   VBN           (VP*         catch  01   -    John  *             *        *             (V*)       -
+pt/nt/43/nt_4321   0   12    [WORD]    DT           (NP*            -    -   -    John  *             *        *          (ARG1*        -
+pt/nt/43/nt_4321   0   13    [WORD]    NN              *))))        -    -   -    John  *             *)       *               *)       -
+pt/nt/43/nt_4321   0   14    [WORD]     .              *            -    -   -    John  *             *        *               *        -
+pt/nt/43/nt_4321   0   15    [WORD]    ''              *))          -    -   -    John  *             *        *               *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)          -    -   -    John  *    (ARG0*)     (12)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD         (VP*       answer  01   -    John  *       (V*)       -
+pt/nt/43/nt_4321   0   2    [WORD]     ,            *           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0   3    [WORD]    ``            *           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0   4    [WORD]    UH       (INTJ*))         -    -   -    John  *    (ARG2*)       -
+pt/nt/43/nt_4321   0   5    [WORD]     .            *           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0   6    [WORD]    ''            *))         -    -   -    John  *         *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    PRP   (TOP(S(NP*)              -    -   -    John  *    (ARG0*)              *           (4)
+pt/nt/43/nt_4321   0    1    [WORD]    VBD         (VP*              say  01   -    John  *       (V*)              *            -
+pt/nt/43/nt_4321   0    2    [WORD]      ,            *               -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]     ``            *               -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0    4    [WORD]     VB       (S(VP*            throw  01   -    John  *    (ARG1*             (V*)          (8)
+pt/nt/43/nt_4321   0    5    [WORD]   PRP$         (NP*               -    -   -    John  *         *          (ARG1*      (20|(12)
+pt/nt/43/nt_4321   0    6    [WORD]     NN            *)              -    -   -    John  *         *               *)          20)
+pt/nt/43/nt_4321   0    7    [WORD]     IN         (PP*               -    -   -    John  *         *          (ARG2*            -
+pt/nt/43/nt_4321   0    8    [WORD]     DT         (NP*               -    -   -    John  *         *               *          (13
+pt/nt/43/nt_4321   0    9    [WORD]     NN            *))             -    -   -    John  *         *               *)          13)
+pt/nt/43/nt_4321   0   10    [WORD]     IN         (PP*               -    -   -    John  *         *      (ARGM-LOC*            -
+pt/nt/43/nt_4321   0   11    [WORD]     DT      (NP(NP*               -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0   12    [WORD]     JJ            *               -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0   13    [WORD]     NN            *)              -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0   14    [WORD]     IN         (PP*               -    -   -    John  *         *               *            -
+pt/nt/43/nt_4321   0   15    [WORD]   PRP$         (NP*               -    -   -    John  *         *               *       (3|(12)
+pt/nt/43/nt_4321   0   16    [WORD]     NN            *)))))))        -    -   -    John  *         *)              *)           3)
+pt/nt/43/nt_4321   0   17    [WORD]      .            *))             -    -   -    John  *         *               *            -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)         -    -   -    John  *        (ARG0*)     (12)
+pt/nt/43/nt_4321   0   1    [WORD]    MD         (VP*          -    -   -    John  *    (ARGM-MOD*)       -
+pt/nt/43/nt_4321   0   2    [WORD]    VB         (VP*        find  01   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   3    [WORD]    DT         (NP*          -    -   -    John  *        (ARG1*        -
+pt/nt/43/nt_4321   0   4    [WORD]    NN            *)         -    -   -    John  *             *)       -
+pt/nt/43/nt_4321   0   5    [WORD]    RB       (ADVP*)))       -    -   -    John  *    (ARGM-LOC*)       -
+pt/nt/43/nt_4321   0   6    [WORD]     .            *          -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0   7    [WORD]    ''            *))        -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    RB   (TOP(S(ADVP*)      -    -   -    John  *    (ARGM-DIS*)       -
+pt/nt/43/nt_4321   0   1    [WORD]   PRP           (NP*)      -    -   -    John  *        (ARG0*)     (12)
+pt/nt/43/nt_4321   0   2    [WORD]   VBD           (VP*       do  02   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   3    [WORD]    DT           (NP*))     -    -   -    John  *        (ARG1*)      (8)
+pt/nt/43/nt_4321   0   4    [WORD]     .              *))     -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP     (TOP(S(NP*)                -    -   -    John  *    (ARG0*)              *       (12)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD           (VP*              catch  01   -    John  *       (V*)              *         -
+pt/nt/43/nt_4321   0    2    [WORD]    RB   (NP(NP(ADJP*                 -    -   -    John  *    (ARG1*               *        (1
+pt/nt/43/nt_4321   0    3    [WORD]    JJ              *)                -    -   -    John  *         *               *         -
+pt/nt/43/nt_4321   0    4    [WORD]    NN              *)                -    -   -    John  *         *               *         -
+pt/nt/43/nt_4321   0    5    [WORD]    IN         (SBAR*                 -    -   -    John  *         *               *         -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP         (S(NP*)                -    -   -    John  *         *          (ARG0*)      (12)
+pt/nt/43/nt_4321   0    7    [WORD]    MD           (VP*                 -    -   -    John  *         *      (ARGM-MOD*)        -
+pt/nt/43/nt_4321   0    8    [WORD]    RB              *                 -    -   -    John  *         *      (ARGM-NEG*)        -
+pt/nt/43/nt_4321   0    9    [WORD]    VB           (VP*               pull  01   -    John  *         *             (V*)        -
+pt/nt/43/nt_4321   0   10    [WORD]    DT           (NP*                 -    -   -    John  *         *          (ARG1*       (20
+pt/nt/43/nt_4321   0   11    [WORD]    NN              *)                -    -   -    John  *         *               *)       20)
+pt/nt/43/nt_4321   0   12    [WORD]    RB         (ADVP*                 -    -   -    John  *         *          (ARG2*         -
+pt/nt/43/nt_4321   0   13    [WORD]    IN           (PP*                 -    -   -    John  *         *               *         -
+pt/nt/43/nt_4321   0   14    [WORD]    DT           (NP*                 -    -   -    John  *         *               *        (3
+pt/nt/43/nt_4321   0   15    [WORD]    NN              *)))))))))        -    -   -    John  *         *)              *)     3)|1)
+pt/nt/43/nt_4321   0   16    [WORD]     .              *))               -    -   -    John  *         *               *         -
+
+pt/nt/43/nt_4321   0    0    [WORD]    DT   (TOP(S(NP(NP*            -    -   -    John  *        (ARG1*      (ARG0*           *      (15
+pt/nt/43/nt_4321   0    1    [WORD]    NN               *)           -    -   -    John  *             *)          *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]   NNP     (SBAR(S(NP*)           -    -   -    John  *        (ARG0*)          *           *       (4)
+pt/nt/43/nt_4321   0    3    [WORD]   VBD            (VP*          love  01   -    John  *           (V*)          *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    RB          (ADVP*            -    -   -    John  *    (ARGM-EXT*           *           *        -
+pt/nt/43/nt_4321   0    5    [WORD]    RB               *)))))       -    -   -    John  *             *)          *)          *       15)
+pt/nt/43/nt_4321   0    6    [WORD]   VBD            (VP*           say  01   -    John  *             *         (V*)          *        -
+pt/nt/43/nt_4321   0    7    [WORD]    IN            (PP*            -    -   -    John  *             *      (ARG2*           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   NNP            (NP*))          -    -   -    John  *             *           *)          *      (11)
+pt/nt/43/nt_4321   0    9    [WORD]     ,               *            -    -   -    John  *             *           *           *        -
+pt/nt/43/nt_4321   0   10    [WORD]    ``               *            -    -   -    John  *             *           *           *        -
+pt/nt/43/nt_4321   0   11    [WORD]    DT          (S(NP*            -    -   -    John  *             *      (ARG1*      (ARG1*       (4
+pt/nt/43/nt_4321   0   12    [WORD]    NN               *)           -    -   -    John  *             *           *           *)       4)
+pt/nt/43/nt_4321   0   13    [WORD]   VBZ            (VP*            be  01   -    John  *             *           *         (V*)       -
+pt/nt/43/nt_4321   0   14    [WORD]    DT            (NP*            -    -   -    John  *             *           *      (ARG2*       (4
+pt/nt/43/nt_4321   0   15    [WORD]   NNP               *))))        -    -   -    John  *             *           *)          *)       4)
+pt/nt/43/nt_4321   0   16    [WORD]     .               *            -    -   -    John  *             *           *           *        -
+pt/nt/43/nt_4321   0   17    [WORD]    ''               *))          -    -   -    John  *             *           *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    WRB   (TOP(S(SBAR(WHADVP*)               -    -   -    John  *    (ARGM-TMP*)          *           *      (ARGM-TMP*        -
+pt/nt/43/nt_4321   0    1    [WORD]    NNP                (S(NP*)               -    -   -    John  *        (ARG0*)          *           *               *      (11)
+pt/nt/43/nt_4321   0    2    [WORD]    VBD                  (VP*              hear  01   -    John  *           (V*)          *           *               *        -
+pt/nt/43/nt_4321   0    3    [WORD]    PRP                (S(NP*)               -    -   -    John  *        (ARG1*      (ARG0*)          *               *      (15)
+pt/nt/43/nt_4321   0    4    [WORD]     VB                  (VP*               say  01   -    John  *             *         (V*)          *               *        -
+pt/nt/43/nt_4321   0    5    [WORD]    PRP           (SBAR(S(NP*)               -    -   -    John  *             *      (ARG1*      (ARG1*)              *        -
+pt/nt/43/nt_4321   0    6    [WORD]    VBD                  (VP*                be  01   -    John  *             *           *         (V*)              *        -
+pt/nt/43/nt_4321   0    7    [WORD]     DT                  (NP*                -    -   -    John  *             *           *      (ARG2*               *       (4
+pt/nt/43/nt_4321   0    8    [WORD]    NNP                     *)))))))))       -    -   -    John  *             *)          *)          *)              *)       4)
+pt/nt/43/nt_4321   0    9    [WORD]      ,                     *                -    -   -    John  *             *           *           *               *        -
+pt/nt/43/nt_4321   0   10    [WORD]    PRP                  (NP*)               -    -   -    John  *             *           *           *          (ARG0*)     (11)
+pt/nt/43/nt_4321   0   11    [WORD]    VBD                  (VP*              wrap  01   -    John  *             *           *           *             (V*)       -
+pt/nt/43/nt_4321   0   12    [WORD]   PRP$                  (NP*                -    -   -    John  *             *           *           *          (ARG2*      (11)
+pt/nt/43/nt_4321   0   13    [WORD]     NN                     *)               -    -   -    John  *             *           *           *               *)       -
+pt/nt/43/nt_4321   0   14    [WORD]     IN                  (PP*                -    -   -    John  *             *           *           *          (ARG1*        -
+pt/nt/43/nt_4321   0   15    [WORD]    PRP                  (NP*)))             -    -   -    John  *             *           *           *               *)     (11)
+pt/nt/43/nt_4321   0   16    [WORD]      .                     *))              -    -   -    John  *             *           *           *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]  -LRB-    (TOP(S*            -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0    1    [WORD]     PRP      (NP*)           -    -   -    John  *        (ARG0*)     (ARG0*)     (11)
+pt/nt/43/nt_4321   0    2    [WORD]     VBD      (VP*            -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]     VBN      (VP*          take  07   -    John  *           (V*)          *        -
+pt/nt/43/nt_4321   0    4    [WORD]    PRP$      (NP*            -    -   -    John  *        (ARG1*           *      (11)
+pt/nt/43/nt_4321   0    5    [WORD]     NNS         *)           -    -   -    John  *             *)          *        -
+pt/nt/43/nt_4321   0    6    [WORD]      RP     (PRT*)           -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0    7    [WORD]      TO    (S(VP*            -    -   -    John  *    (ARGM-PRP*           *        -
+pt/nt/43/nt_4321   0    8    [WORD]      VB      (VP*)))))     work  01   -    John  *             *)        (V*)       -
+pt/nt/43/nt_4321   0    9    [WORD]       .         *            -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0   10    [WORD]  -RRB-          *))          -    -   -    John  *             *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    RB   (TOP(S(ADVP*)         -    -   -    John  *    (ARGM-TMP*)       -
+pt/nt/43/nt_4321   0   1    [WORD]   PRP           (NP*)         -    -   -    John  *        (ARG0*)     (11)
+pt/nt/43/nt_4321   0   2    [WORD]   VBD           (VP*        jump  03   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   3    [WORD]    IN           (PP*          -    -   -    John  *    (ARGM-DIR*        -
+pt/nt/43/nt_4321   0   4    [WORD]    DT           (NP*          -    -   -    John  *             *      (13
+pt/nt/43/nt_4321   0   5    [WORD]    NN              *)))       -    -   -    John  *             *)      13)
+pt/nt/43/nt_4321   0   6    [WORD]     .              *))        -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    DT   (TOP(S(NP*          -    -   -    John  *        (ARG0*     (5
+pt/nt/43/nt_4321   0   1    [WORD]    JJ            *          -    -   -    John  *             *      -
+pt/nt/43/nt_4321   0   2    [WORD]   NNS            *)         -    -   -    John  *             *)     5)
+pt/nt/43/nt_4321   0   3    [WORD]   VBD         (VP*          go  02   -    John  *           (V*)     -
+pt/nt/43/nt_4321   0   4    [WORD]    TO       (S(VP*          -    -   -    John  *    (ARGM-PRP*      -
+pt/nt/43/nt_4321   0   5    [WORD]    VB         (VP*          -    -   -    John  *             *      -
+pt/nt/43/nt_4321   0   6    [WORD]    RP        (PRT*)         -    -   -    John  *             *      -
+pt/nt/43/nt_4321   0   7    [WORD]    DT         (NP*          -    -   -    John  *             *     (3
+pt/nt/43/nt_4321   0   8    [WORD]    NN            *)))))     -    -   -    John  *             *)     3)
+pt/nt/43/nt_4321   0   9    [WORD]     .            *))        -    -   -    John  *             *      -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP      (TOP(S(NP*)           -    -   -    John  *        (ARG0*)     (5)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD            (VP*          pull  01   -    John  *           (V*)      -
+pt/nt/43/nt_4321   0   2    [WORD]    DT            (NP*            -    -   -    John  *        (ARG1*     (20
+pt/nt/43/nt_4321   0   3    [WORD]    NN               *)           -    -   -    John  *             *)     20)
+pt/nt/43/nt_4321   0   4    [WORD]    JJ   (S(ADJP(ADJP*)           -    -   -    John  *    (ARGM-ADV*       -
+pt/nt/43/nt_4321   0   5    [WORD]    IN            (PP*            -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   6    [WORD]    NN            (NP*)))))       -    -   -    John  *             *)      -
+pt/nt/43/nt_4321   0   7    [WORD]     .               *))          -    -   -    John  *             *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP         (TOP(S(NP*)      -   -   -    John  *    (5)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD               (VP*       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    2    [WORD]    RB   (ADVP(ADVP(ADVP*       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    3    [WORD]    RB                  *       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    4    [WORD]    RB                  *))     -   -   -    John  *     -
+pt/nt/43/nt_4321   0    5    [WORD]    IN               (PP*       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    6    [WORD]    NN               (NP*))     -   -   -    John  *    (9)
+pt/nt/43/nt_4321   0    7    [WORD]     ,                  *       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    8    [WORD]    RB            (NP(QP*       -   -   -    John  *     -
+pt/nt/43/nt_4321   0    9    [WORD]    RB                  *       -   -   -    John  *     -
+pt/nt/43/nt_4321   0   10    [WORD]    CD                  *)      -   -   -    John  *     -
+pt/nt/43/nt_4321   0   11    [WORD]   NNS                  *)))    -   -   -    John  *     -
+pt/nt/43/nt_4321   0   12    [WORD]     .                  *))     -   -   -    John  *     -
+
+pt/nt/43/nt_4321   0    0    [WORD]   WRB   (TOP(S(SBAR(WHADVP*)            -    -   -    John  *    (ARGM-TMP*)     (ARGM-TMP*       -
+pt/nt/43/nt_4321   0    1    [WORD]   PRP                (S(NP*)            -    -   -    John  *        (ARG1*)              *      (5)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD                  (VP*           step  01   -    John  *           (V*)              *       -
+pt/nt/43/nt_4321   0    3    [WORD]    IN               (PP(PP*             -    -   -    John  *    (ARGM-DIR*               *       -
+pt/nt/43/nt_4321   0    4    [WORD]    IN                  (PP*             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0    5    [WORD]    DT                  (NP*             -    -   -    John  *             *               *      (3
+pt/nt/43/nt_4321   0    6    [WORD]    NN                     *)))          -    -   -    John  *             *               *       3)
+pt/nt/43/nt_4321   0    7    [WORD]    CC                     *             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0    8    [WORD]    IN                  (PP*             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0    9    [WORD]    DT                  (NP*             -    -   -    John  *             *               *      (9
+pt/nt/43/nt_4321   0   10    [WORD]    NN                     *))))))       -    -   -    John  *             *)              *)      9)
+pt/nt/43/nt_4321   0   11    [WORD]     ,                     *             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0   12    [WORD]   PRP                  (NP*)            -    -   -    John  *             *          (ARG0*)     (5)
+pt/nt/43/nt_4321   0   13    [WORD]   VBD                  (VP*            see  01   -    John  *             *             (V*)      -
+pt/nt/43/nt_4321   0   14    [WORD]    DT               (NP(NP*             -    -   -    John  *             *          (ARG1*     (19
+pt/nt/43/nt_4321   0   15    [WORD]    NN                     *)            -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0   16    [WORD]    IN                  (PP*             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0   17    [WORD]    JJ                  (NP*             -    -   -    John  *             *               *       -
+pt/nt/43/nt_4321   0   18    [WORD]   NNS                     *))))         -    -   -    John  *             *               *)     19)
+pt/nt/43/nt_4321   0   19    [WORD]     .                     *))           -    -   -    John  *             *               *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]    EX   (TOP(S(NP*)       -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0    1    [WORD]   VBD      (VP(VP*        be  02   -    John  *           (V*)      -
+pt/nt/43/nt_4321   0    2    [WORD]    NN         (NP*)       -    -   -    John  *        (ARG1*)      -
+pt/nt/43/nt_4321   0    3    [WORD]    IN         (PP*        -    -   -    John  *    (ARGM-LOC*       -
+pt/nt/43/nt_4321   0    4    [WORD]    DT         (NP*        -    -   -    John  *             *     (19
+pt/nt/43/nt_4321   0    5    [WORD]    NN            *)))     -    -   -    John  *             *)     19)
+pt/nt/43/nt_4321   0    6    [WORD]    CC            *        -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0    7    [WORD]    DT      (VP(NP*        -    -   -    John  *             *     (10
+pt/nt/43/nt_4321   0    8    [WORD]    NN            *)       -    -   -    John  *             *      10)
+pt/nt/43/nt_4321   0    9    [WORD]    RB       (ADVP*)       -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   10    [WORD]    RB       (ADVP*)))     -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   11    [WORD]     .            *))      -    -   -    John  *             *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]    RB   (TOP(S(ADVP*)                -    -   -    John  *    (ARGM-TMP*)          *             *        -
+pt/nt/43/nt_4321   0    1    [WORD]   NNP           (NP*)                -    -   -    John  *        (ARG0*)          *             *       (4)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD           (VP*                say  01   -    John  *           (V*)          *             *        -
+pt/nt/43/nt_4321   0    3    [WORD]     ,              *                 -    -   -    John  *             *           *             *        -
+pt/nt/43/nt_4321   0    4    [WORD]    ``              *                 -    -   -    John  *             *           *             *        -
+pt/nt/43/nt_4321   0    5    [WORD]    VB         (S(VP*              bring  01   -    John  *        (ARG1*         (V*)            *        -
+pt/nt/43/nt_4321   0    6    [WORD]    DT        (NP(NP*)                -    -   -    John  *             *      (ARG1*             *        -
+pt/nt/43/nt_4321   0    7    [WORD]    IN           (PP*                 -    -   -    John  *             *           *             *        -
+pt/nt/43/nt_4321   0    8    [WORD]    DT        (NP(NP*                 -    -   -    John  *             *           *        (ARG1*       (1
+pt/nt/43/nt_4321   0    9    [WORD]    NN              *)                -    -   -    John  *             *           *             *)       -
+pt/nt/43/nt_4321   0   10    [WORD]   WDT    (SBAR(WHNP*)                -    -   -    John  *             *           *      (R-ARG1*)       -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP         (S(NP*)                -    -   -    John  *             *           *        (ARG0*)     (12)
+pt/nt/43/nt_4321   0   12    [WORD]   VBD           (VP*)))))))))     catch  01   -    John  *             *)          *)          (V*)       1)
+pt/nt/43/nt_4321   0   13    [WORD]     .              *                 -    -   -    John  *             *           *             *        -
+pt/nt/43/nt_4321   0   14    [WORD]    ''              *))               -    -   -    John  *             *           *             *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*           -    -   -    John  *    (ARG0*      (ARG0*     (11
+pt/nt/43/nt_4321   0    1    [WORD]   NNP            *)          -    -   -    John  *         *)          *)     11)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD      (VP(VP*          get  05   -    John  *       (V*)          *       -
+pt/nt/43/nt_4321   0    3    [WORD]    IN         (PP*           -    -   -    John  *    (ARG2*           *       -
+pt/nt/43/nt_4321   0    4    [WORD]    DT         (NP*           -    -   -    John  *         *           *      (3
+pt/nt/43/nt_4321   0    5    [WORD]    NN            *)))        -    -   -    John  *         *)          *       3)
+pt/nt/43/nt_4321   0    6    [WORD]    CC            *           -    -   -    John  *         *           *       -
+pt/nt/43/nt_4321   0    7    [WORD]   VBD         (VP*         pull  01   -    John  *         *         (V*)      -
+pt/nt/43/nt_4321   0    8    [WORD]    DT         (NP*           -    -   -    John  *         *      (ARG1*     (20
+pt/nt/43/nt_4321   0    9    [WORD]    NN            *)          -    -   -    John  *         *           *)     20)
+pt/nt/43/nt_4321   0   10    [WORD]    IN         (PP*           -    -   -    John  *         *      (ARG2*       -
+pt/nt/43/nt_4321   0   11    [WORD]    DT         (NP*           -    -   -    John  *         *           *      (9
+pt/nt/43/nt_4321   0   12    [WORD]    NN            *))))       -    -   -    John  *         *           *)      9)
+pt/nt/43/nt_4321   0   13    [WORD]     .            *))         -    -   -    John  *         *           *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP    (TOP(S(NP*)           -    -   -    John  *    (ARG1*)     (20)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD          (VP*            be  01   -    John  *       (V*)       -
+pt/nt/43/nt_4321   0    2    [WORD]    JJ   (ADJP(ADJP*)           -    -   -    John  *    (ARG2*        -
+pt/nt/43/nt_4321   0    3    [WORD]    IN          (PP*            -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0    4    [WORD]    JJ       (NP(NP*            -    -   -    John  *         *       (1
+pt/nt/43/nt_4321   0    5    [WORD]    NN             *)           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0    6    [WORD]     :             *            -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0    7    [WORD]    CD       (NP(NP*)           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0    8    [WORD]    IN          (PP*            -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0    9    [WORD]   PRP          (NP*)))))))     -    -   -    John  *         *)       1)
+pt/nt/43/nt_4321   0   10    [WORD]     .             *))          -    -   -    John  *         *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    CC     (TOP(S*         -    -   -    John  *    (ARGM-DIS*)      -
+pt/nt/43/nt_4321   0    1    [WORD]    RB        (PP*         -    -   -    John  *    (ARGM-ADV*       -
+pt/nt/43/nt_4321   0    2    [WORD]    IN           *         -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0    3    [WORD]    RB   (NP(ADJP*         -    -   -    John  *             *      (1
+pt/nt/43/nt_4321   0    4    [WORD]    JJ           *)        -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0    5    [WORD]    NN           *))       -    -   -    John  *             *)      1)
+pt/nt/43/nt_4321   0    6    [WORD]     ,           *         -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0    7    [WORD]    DT        (NP*         -    -   -    John  *        (ARG1*     (20
+pt/nt/43/nt_4321   0    8    [WORD]    NN           *)        -    -   -    John  *             *)     20)
+pt/nt/43/nt_4321   0    9    [WORD]   VBD        (VP*         -    -   -    John  *             *       -
+pt/nt/43/nt_4321   0   10    [WORD]    RB           *         -    -   -    John  *    (ARGM-NEG*)      -
+pt/nt/43/nt_4321   0   11    [WORD]    VB        (VP*))     tear  01   -    John  *           (V*)      -
+pt/nt/43/nt_4321   0   12    [WORD]     .           *))       -    -   -    John  *             *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)         -    -   -    John  *    (ARG0*)       *        *       (4)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD         (VP*         say  01   -    John  *       (V*)       *        *        -
+pt/nt/43/nt_4321   0    2    [WORD]    IN         (PP*          -    -   -    John  *    (ARG2*        *        *        -
+pt/nt/43/nt_4321   0    3    [WORD]   PRP         (NP*))        -    -   -    John  *         *)       *        *      (12)
+pt/nt/43/nt_4321   0    4    [WORD]     ,            *          -    -   -    John  *         *        *        *        -
+pt/nt/43/nt_4321   0    5    [WORD]    ``          (S*          -    -   -    John  *    (ARG1*        *        *        -
+pt/nt/43/nt_4321   0    6    [WORD]    VB         (VP*        come  01   -    John  *         *      (V*)       *        -
+pt/nt/43/nt_4321   0    7    [WORD]    CC            *          -    -   -    John  *         *        *        *        -
+pt/nt/43/nt_4321   0    8    [WORD]    VB            *)))      eat  01   -    John  *         *)       *      (V*)       -
+pt/nt/43/nt_4321   0    9    [WORD]     .            *          -    -   -    John  *         *        *        *        -
+pt/nt/43/nt_4321   0   10    [WORD]    ''            *))        -    -   -    John  *         *        *        *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    NN   (TOP(S(NP(NP*)          -    -   -    John  *        (ARG0*           *       -
+pt/nt/43/nt_4321   0    1    [WORD]    IN            (PP*           -    -   -    John  *             *           *       -
+pt/nt/43/nt_4321   0    2    [WORD]    DT            (NP*           -    -   -    John  *             *           *     (12
+pt/nt/43/nt_4321   0    3    [WORD]   NNS               *)))        -    -   -    John  *             *)          *      12)
+pt/nt/43/nt_4321   0    4    [WORD]    MD            (VP*           -    -   -    John  *    (ARGM-MOD*)          *       -
+pt/nt/43/nt_4321   0    5    [WORD]    VB            (VP*          ask  01   -    John  *           (V*)          *       -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP            (NP*)          -    -   -    John  *        (ARG2*)          *      (4)
+pt/nt/43/nt_4321   0    7    [WORD]     ,               *           -    -   -    John  *             *           *       -
+pt/nt/43/nt_4321   0    8    [WORD]    ``               *           -    -   -    John  *             *           *       -
+pt/nt/43/nt_4321   0    9    [WORD]    WP    (SBARQ(WHNP*)          -    -   -    John  *        (ARG1*      (ARG2*)      -
+pt/nt/43/nt_4321   0   10    [WORD]   VBP            (SQ*           be  01   -    John  *             *         (V*)      -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP            (NP*)))))      -    -   -    John  *             *)     (ARG1*)     (4)
+pt/nt/43/nt_4321   0   12    [WORD]     .               *           -    -   -    John  *             *           *       -
+pt/nt/43/nt_4321   0   13    [WORD]    ''               *))         -    -   -    John  *             *           *       -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP    (TOP(S(NP*)           -    -   -    John  *    (ARG0*)          *      (12)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD          (VP*          know  01   -    John  *       (V*)          *        -
+pt/nt/43/nt_4321   0   2    [WORD]   PRP   (SBAR(S(NP*)           -    -   -    John  *    (ARG1*      (ARG1*)      (4)
+pt/nt/43/nt_4321   0   3    [WORD]   VBD          (VP*            be  01   -    John  *         *         (V*)       -
+pt/nt/43/nt_4321   0   4    [WORD]    DT          (NP*            -    -   -    John  *         *      (ARG2*        -
+pt/nt/43/nt_4321   0   5    [WORD]   NNP             *)))))       -    -   -    John  *         *)          *)       -
+pt/nt/43/nt_4321   0   6    [WORD]     .             *))          -    -   -    John  *         *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)           -    -   -    John  *        (ARG0*)     (ARG0*)     (ARG0*)      (4)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD      (VP(VP*          walk  01   -    John  *           (V*)          *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]    RP        (PRT*)           -    -   -    John  *    (ARGM-DIR*)          *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]    TO       (S(VP*            -    -   -    John  *    (ARGM-PRP*           *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    VB         (VP*           get  01   -    John  *             *         (V*)          *        -
+pt/nt/43/nt_4321   0    5    [WORD]    DT         (NP*            -    -   -    John  *             *      (ARG1*           *      (10
+pt/nt/43/nt_4321   0    6    [WORD]    NN            *)))))       -    -   -    John  *             *)          *)          *       10)
+pt/nt/43/nt_4321   0    7    [WORD]    CC            *            -    -   -    John  *             *           *           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   VBD         (VP*          give  01   -    John  *             *           *         (V*)       -
+pt/nt/43/nt_4321   0    9    [WORD]   PRP         (NP*)           -    -   -    John  *             *           *      (ARG1*)     (10)
+pt/nt/43/nt_4321   0   10    [WORD]    IN         (PP*            -    -   -    John  *             *           *      (ARG2*        -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP         (NP*))))        -    -   -    John  *             *           *           *)     (12)
+pt/nt/43/nt_4321   0   12    [WORD]     .            *))          -    -   -    John  *             *           *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)        -    -   -    John  *        (ARG0*)      (4)
+pt/nt/43/nt_4321   0   1    [WORD]    RB       (ADVP*)        -    -   -    John  *    (ARGM-ADV*)       -
+pt/nt/43/nt_4321   0   2    [WORD]   VBD         (VP*       give  01   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   3    [WORD]   PRP         (NP*)        -    -   -    John  *        (ARG2*)     (12)
+pt/nt/43/nt_4321   0   4    [WORD]    DT         (NP*         -    -   -    John  *        (ARG1*       (1
+pt/nt/43/nt_4321   0   5    [WORD]    NN            *))       -    -   -    John  *             *)       1)
+pt/nt/43/nt_4321   0   6    [WORD]     .            *))       -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]     DT    (TOP(S(NP*)                   -    -   -    John  *        (ARG1*)              *           *          -
+pt/nt/43/nt_4321   0    1    [WORD]    VBD          (VP*                    be  01   -    John  *           (V*)              *           *          -
+pt/nt/43/nt_4321   0    2    [WORD]     RB        (ADVP*)                   -    -   -    John  *    (ARGM-TMP*)              *           *          -
+pt/nt/43/nt_4321   0    3    [WORD]     DT       (NP(NP*                    -    -   -    John  *        (ARG2*      (ARGM-TMP*           *          -
+pt/nt/43/nt_4321   0    4    [WORD]     JJ             *                    -    -   -    John  *             *               *           *          -
+pt/nt/43/nt_4321   0    5    [WORD]     NN             *)                   -    -   -    John  *             *               *)          *          -
+pt/nt/43/nt_4321   0    6    [WORD]    NNP   (SBAR(S(NP*)                   -    -   -    John  *             *          (ARG1*)          *         (4)
+pt/nt/43/nt_4321   0    7    [WORD]    VBD          (VP*                appear  01   -    John  *             *             (V*)          *          -
+pt/nt/43/nt_4321   0    8    [WORD]     IN          (PP*                    -    -   -    John  *             *      (ARGM-GOL*           *          -
+pt/nt/43/nt_4321   0    9    [WORD]   PRP$          (NP*                    -    -   -    John  *             *               *           *      (7|(4)
+pt/nt/43/nt_4321   0   10    [WORD]    NNS             *))                  -    -   -    John  *             *               *)          *          7)
+pt/nt/43/nt_4321   0   11    [WORD]     IN        (SBAR*                    -    -   -    John  *             *      (ARGM-TMP*           *          -
+pt/nt/43/nt_4321   0   12    [WORD]    PRP        (S(NP*)                   -    -   -    John  *             *               *      (ARG1*)        (4)
+pt/nt/43/nt_4321   0   13    [WORD]    VBD          (VP*                    -    -   -    John  *             *               *           *          -
+pt/nt/43/nt_4321   0   14    [WORD]    VBN          (VP*                 raise  01   -    John  *             *               *         (V*)         -
+pt/nt/43/nt_4321   0   15    [WORD]     IN          (PP*                    -    -   -    John  *             *               *      (ARG3*          -
+pt/nt/43/nt_4321   0   16    [WORD]     NN          (NP*)))))))))))         -    -   -    John  *             *)              *)          *)         -
+pt/nt/43/nt_4321   0   17    [WORD]      .             *))                  -    -   -    John  *             *               *           *          -
+
+pt/nt/43/nt_4321   0    0    [WORD]   WRB   (TOP(S(SBAR(WHADVP*)                -    -   -    John  *    (ARGM-TMP*)          *      (ARGM-TMP*        *               *               *            -
+pt/nt/43/nt_4321   0    1    [WORD]   PRP                (S(NP*)                -    -   -    John  *        (ARG0*)     (ARG0*)              *        *               *               *          (12)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD                  (VP*             finish  01   -    John  *           (V*)          *               *        *               *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]   VBG                (S(VP*)))))           eat  01   -    John  *        (ARG1*)        (V*)              *)       *               *               *            -
+pt/nt/43/nt_4321   0    4    [WORD]     ,                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0    5    [WORD]   NNP                  (NP*)                -    -   -    John  *             *           *          (ARG0*)       *               *               *           (4)
+pt/nt/43/nt_4321   0    6    [WORD]   VBD                  (VP*                say  01   -    John  *             *           *             (V*)       *               *               *            -
+pt/nt/43/nt_4321   0    7    [WORD]    IN                  (PP*                 -    -   -    John  *             *           *          (ARG2*        *               *               *            -
+pt/nt/43/nt_4321   0    8    [WORD]   NNP                  (NP*                 -    -   -    John  *             *           *               *        *               *               *          (11
+pt/nt/43/nt_4321   0    9    [WORD]   NNP                     *))               -    -   -    John  *             *           *               *)       *               *               *           11)
+pt/nt/43/nt_4321   0   10    [WORD]     ,                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   11    [WORD]    ``                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   12    [WORD]   NNP            (SQ(NP(NP*)                -    -   -    John  *             *           *          (ARG1*        *      (ARGM-DIS*               *          (11
+pt/nt/43/nt_4321   0   13    [WORD]     ,                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   14    [WORD]    NN               (NP(NP*)                -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   15    [WORD]    IN                  (PP*                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   16    [WORD]   NNP                  (NP*))))             -    -   -    John  *             *           *               *        *               *)              *      (17)|11)
+pt/nt/43/nt_4321   0   17    [WORD]     ,                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   18    [WORD]   VBP                     *                 do  01   -    John  *             *           *               *      (V*)              *               *            -
+pt/nt/43/nt_4321   0   19    [WORD]   PRP                  (NP*)                -    -   -    John  *             *           *               *        *          (ARG0*)              *          (11)
+pt/nt/43/nt_4321   0   20    [WORD]    VB                  (VP*               love  01   -    John  *             *           *               *        *             (V*)              *            -
+pt/nt/43/nt_4321   0   21    [WORD]   PRP                  (NP*)                -    -   -    John  *             *           *               *        *          (ARG1*)              *           (4)
+pt/nt/43/nt_4321   0   22    [WORD]   RBR           (ADVP(ADVP*)                -    -   -    John  *             *           *               *        *      (ARGM-EXT*      (ARGM-EXT*)           -
+pt/nt/43/nt_4321   0   23    [WORD]    IN                (SBAR*                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   24    [WORD]    DT                (S(NP*                 -    -   -    John  *             *           *               *        *               *          (ARG0*           (5
+pt/nt/43/nt_4321   0   25    [WORD]    JJ                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   26    [WORD]   NNS                     *)                -    -   -    John  *             *           *               *        *               *               *)           5)
+pt/nt/43/nt_4321   0   27    [WORD]   VBP                  (VP*               love  01   -    John  *             *           *               *        *               *             (V*)           -
+pt/nt/43/nt_4321   0   28    [WORD]   PRP                  (NP*))))))))         -    -   -    John  *             *           *               *)       *               *)         (ARG1*)          (4)
+pt/nt/43/nt_4321   0   29    [WORD]     .                     *                 -    -   -    John  *             *           *               *        *               *               *            -
+pt/nt/43/nt_4321   0   30    [WORD]    ''                     *))               -    -   -    John  *             *           *               *        *               *               *            -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)               -    -   -    John  *    (ARG0*)              *           *      (11)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD         (VP*            answer  01   -    John  *       (V*)              *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]    ``            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    UH     (S(INTJ*)               -    -   -    John  *    (ARG2*      (ARGM-DIS*)          *        -
+pt/nt/43/nt_4321   0    5    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]   NNP         (NP*)               -    -   -    John  *         *      (ARGM-DIS*)          *       (4)
+pt/nt/43/nt_4321   0    7    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP         (NP*)               -    -   -    John  *         *          (ARG0*)          *       (4)
+pt/nt/43/nt_4321   0    9    [WORD]   VBP         (VP*              know  01   -    John  *         *             (V*)          *        -
+pt/nt/43/nt_4321   0   10    [WORD]    IN       (SBAR*                -    -   -    John  *         *          (ARG1*           *        -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP       (S(NP*)               -    -   -    John  *         *               *      (ARG0*)     (11)
+pt/nt/43/nt_4321   0   12    [WORD]   VBP         (VP*              love  01   -    John  *         *               *         (V*)       -
+pt/nt/43/nt_4321   0   13    [WORD]   PRP         (NP*)))))))         -    -   -    John  *         *)              *)     (ARG1*)      (4)
+pt/nt/43/nt_4321   0   14    [WORD]     .            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0   15    [WORD]    ''            *))              -    -   -    John  *         *               *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]     RB   (TOP(S(ADVP*)          -    -   -    John  *    (ARGM-TMP*)       -
+pt/nt/43/nt_4321   0    1    [WORD]    NNP           (NP*)          -    -   -    John  *        (ARG0*)      (4)
+pt/nt/43/nt_4321   0    2    [WORD]    VBD           (VP*          say  01   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0    3    [WORD]     IN           (PP*           -    -   -    John  *        (ARG2*        -
+pt/nt/43/nt_4321   0    4    [WORD]    PRP           (NP*))         -    -   -    John  *             *)     (11)
+pt/nt/43/nt_4321   0    5    [WORD]      ,              *           -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0    6    [WORD]     ``            (S*           -    -   -    John  *        (ARG1*        -
+pt/nt/43/nt_4321   0    7    [WORD]     VB           (VP*           -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0    8    [WORD]     NN           (NP*)          -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0    9    [WORD]     IN           (PP*           -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0   10    [WORD]   PRP$           (NP*           -    -   -    John  *             *       (4)
+pt/nt/43/nt_4321   0   11    [WORD]    NNS              *)))))      -    -   -    John  *             *)       -
+pt/nt/43/nt_4321   0   12    [WORD]      .              *           -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0   13    [WORD]     ''              *))         -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    RB   (TOP(S(ADVP*)          -    -   -    John  *    (ARGM-TMP*)       *               *            -
+pt/nt/43/nt_4321   0    1    [WORD]   NNP           (NP*)          -    -   -    John  *        (ARG0*)       *               *           (4)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD           (VP*          say  01   -    John  *           (V*)       *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]    IN           (PP*           -    -   -    John  *        (ARG2*        *               *            -
+pt/nt/43/nt_4321   0    4    [WORD]   PRP           (NP*))         -    -   -    John  *             *)       *               *          (11)
+pt/nt/43/nt_4321   0    5    [WORD]     ,              *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    6    [WORD]    ``              *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    7    [WORD]   NNP     (SQ(NP(NP*)          -    -   -    John  *        (ARG1*        *      (ARGM-DIS*          (11
+pt/nt/43/nt_4321   0    8    [WORD]     ,              *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    9    [WORD]    NN        (NP(NP*)          -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   10    [WORD]    IN           (PP*           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   11    [WORD]   NNP           (NP*))))       -    -   -    John  *             *        *               *)     (17)|11)
+pt/nt/43/nt_4321   0   12    [WORD]     ,              *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   13    [WORD]   VBP              *           do  01   -    John  *             *      (V*)              *            -
+pt/nt/43/nt_4321   0   14    [WORD]   PRP           (NP*)          -    -   -    John  *             *        *          (ARG0*)         (11)
+pt/nt/43/nt_4321   0   15    [WORD]    VB           (VP*         love  01   -    John  *             *        *             (V*)           -
+pt/nt/43/nt_4321   0   16    [WORD]   PRP           (NP*))))       -    -   -    John  *             *)       *          (ARG1*)          (4)
+pt/nt/43/nt_4321   0   17    [WORD]     .              *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   18    [WORD]    ''              *))         -    -   -    John  *             *        *               *            -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)               -    -   -    John  *    (ARG0*)              *           *      (11)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD         (VP*            answer  01   -    John  *       (V*)              *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]    ``            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    UH     (S(INTJ*)               -    -   -    John  *    (ARG2*      (ARGM-DIS*)          *        -
+pt/nt/43/nt_4321   0    5    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]   NNP         (NP*)               -    -   -    John  *         *      (ARGM-DIS*)          *       (4)
+pt/nt/43/nt_4321   0    7    [WORD]     ,            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP         (NP*)               -    -   -    John  *         *          (ARG0*)          *       (4)
+pt/nt/43/nt_4321   0    9    [WORD]   VBP         (VP*              know  01   -    John  *         *             (V*)          *        -
+pt/nt/43/nt_4321   0   10    [WORD]    IN       (SBAR*                -    -   -    John  *         *          (ARG1*           *        -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP       (S(NP*)               -    -   -    John  *         *               *      (ARG0*)     (11)
+pt/nt/43/nt_4321   0   12    [WORD]   VBP         (VP*              love  01   -    John  *         *               *         (V*)       -
+pt/nt/43/nt_4321   0   13    [WORD]   PRP         (NP*)))))))         -    -   -    John  *         *)              *)     (ARG1*)      (4)
+pt/nt/43/nt_4321   0   14    [WORD]     .            *                -    -   -    John  *         *               *           *        -
+pt/nt/43/nt_4321   0   15    [WORD]    ''            *))              -    -   -    John  *         *               *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]     RB   (TOP(S(ADVP*)          -    -   -    John  *    (ARGM-TMP*)          -
+pt/nt/43/nt_4321   0    1    [WORD]    NNP           (NP*)          -    -   -    John  *        (ARG0*)         (4)
+pt/nt/43/nt_4321   0    2    [WORD]    VBD           (VP*          say  01   -    John  *           (V*)          -
+pt/nt/43/nt_4321   0    3    [WORD]      ,              *           -    -   -    John  *             *           -
+pt/nt/43/nt_4321   0    4    [WORD]     ``            (S*           -    -   -    John  *        (ARG1*           -
+pt/nt/43/nt_4321   0    5    [WORD]     VB           (VP*           -    -   -    John  *             *           -
+pt/nt/43/nt_4321   0    6    [WORD]     NN           (NP*)          -    -   -    John  *             *           -
+pt/nt/43/nt_4321   0    7    [WORD]     IN           (PP*           -    -   -    John  *             *           -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP$           (NP*           -    -   -    John  *             *      (18|(4)
+pt/nt/43/nt_4321   0    9    [WORD]    NNS              *)))))      -    -   -    John  *             *)         18)
+pt/nt/43/nt_4321   0   10    [WORD]      .              *           -    -   -    John  *             *           -
+pt/nt/43/nt_4321   0   11    [WORD]     ''              *))         -    -   -    John  *             *           -
+
+pt/nt/43/nt_4321   0    0    [WORD]    DT   (TOP(S(NP*           -    -   -    John  *    (ARGM-TMP*        *               *            -
+pt/nt/43/nt_4321   0    1    [WORD]    JJ            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    2    [WORD]    NN            *)          -    -   -    John  *             *)       *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]   NNP         (NP*)          -    -   -    John  *        (ARG0*)       *               *           (4)
+pt/nt/43/nt_4321   0    4    [WORD]   VBD         (VP*          say  01   -    John  *           (V*)       *               *            -
+pt/nt/43/nt_4321   0    5    [WORD]     ,            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    6    [WORD]    ``            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    7    [WORD]   NNP   (SQ(NP(NP*)          -    -   -    John  *        (ARG1*        *      (ARGM-DIS*          (11
+pt/nt/43/nt_4321   0    8    [WORD]     ,            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0    9    [WORD]    NN      (NP(NP*)          -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   10    [WORD]    IN         (PP*           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   11    [WORD]   NNP         (NP*))))       -    -   -    John  *             *        *               *)     (17)|11)
+pt/nt/43/nt_4321   0   12    [WORD]     ,            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   13    [WORD]   VBP            *           do  01   -    John  *             *      (V*)              *            -
+pt/nt/43/nt_4321   0   14    [WORD]   PRP         (NP*)          -    -   -    John  *             *        *          (ARG0*)         (11)
+pt/nt/43/nt_4321   0   15    [WORD]    VB         (VP*         love  01   -    John  *             *        *             (V*)           -
+pt/nt/43/nt_4321   0   16    [WORD]   PRP         (NP*))))       -    -   -    John  *             *)       *          (ARG1*)          (4)
+pt/nt/43/nt_4321   0   17    [WORD]     .            *           -    -   -    John  *             *        *               *            -
+pt/nt/43/nt_4321   0   18    [WORD]    ''            *))         -    -   -    John  *             *        *               *            -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)             -    -   -    John  *        (ARG1*)              *        *           *      (11)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD         (VP*              be  01   -    John  *           (V*)              *        *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]    JJ       (ADJP*)             -    -   -    John  *        (ARG2*)              *        *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]    IN       (SBAR*              -    -   -    John  *    (ARGM-CAU*               *        *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]   NNP       (S(NP*)             -    -   -    John  *             *          (ARG0*)       *           *       (4)
+pt/nt/43/nt_4321   0    5    [WORD]   VBD         (VP*             ask  01   -    John  *             *             (V*)       *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP         (NP*)             -    -   -    John  *             *          (ARG2*)       *           *      (11)
+pt/nt/43/nt_4321   0    7    [WORD]    CD         (NP*              -    -   -    John  *             *      (ARGM-TMP*        *           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   NNS            *)             -    -   -    John  *             *               *)       *           *        -
+pt/nt/43/nt_4321   0    9    [WORD]     ,            *              -    -   -    John  *             *               *        *           *        -
+pt/nt/43/nt_4321   0   10    [WORD]    ``            *              -    -   -    John  *             *               *        *           *        -
+pt/nt/43/nt_4321   0   11    [WORD]   VBP         (SQ*              do  01   -    John  *             *          (ARG1*      (V*)          *        -
+pt/nt/43/nt_4321   0   12    [WORD]   PRP         (NP*)             -    -   -    John  *             *               *        *      (ARG0*)     (11)
+pt/nt/43/nt_4321   0   13    [WORD]    VB         (VP*            love  01   -    John  *             *               *        *         (V*)       -
+pt/nt/43/nt_4321   0   14    [WORD]   PRP         (NP*)))))))       -    -   -    John  *             *)              *)       *      (ARG1*)      (4)
+pt/nt/43/nt_4321   0   15    [WORD]     .            *              -    -   -    John  *             *               *        *           *        -
+pt/nt/43/nt_4321   0   16    [WORD]    ''            *))            -    -   -    John  *             *               *        *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)          -    -   -    John  *    (ARG0*)              *      (11)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD         (VP*          say  01   -    John  *       (V*)              *        -
+pt/nt/43/nt_4321   0   2    [WORD]     ,            *           -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0   3    [WORD]    ``            *           -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0   4    [WORD]   NNP       (S(NP*)          -    -   -    John  *    (ARG1*      (ARGM-DIS*)      (4)
+pt/nt/43/nt_4321   0   5    [WORD]     ,            *           -    -   -    John  *         *               *        -
+pt/nt/43/nt_4321   0   6    [WORD]   PRP         (NP*)          -    -   -    John  *         *          (ARG0*)      (4)
+pt/nt/43/nt_4321   0   7    [WORD]   VBP         (VP*         know  01   -    John  *         *             (V*)       -
+pt/nt/43/nt_4321   0   8    [WORD]    NN         (NP*))))       -    -   -    John  *         *)         (ARG1*)       -
+pt/nt/43/nt_4321   0   9    [WORD]     .            *))         -    -   -    John  *         *               *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)           -    -   -    John  *    (ARG0*)          *       (4)
+pt/nt/43/nt_4321   0   1    [WORD]   VBP         (VP*          know  01   -    John  *       (V*)          *        -
+pt/nt/43/nt_4321   0   2    [WORD]    IN       (SBAR*            -    -   -    John  *    (ARG1*           *        -
+pt/nt/43/nt_4321   0   3    [WORD]   PRP       (S(NP*)           -    -   -    John  *         *      (ARG0*)     (11)
+pt/nt/43/nt_4321   0   4    [WORD]   VBP         (VP*          love  01   -    John  *         *         (V*)       -
+pt/nt/43/nt_4321   0   5    [WORD]   PRP         (NP*)))))       -    -   -    John  *         *)     (ARG1*)      (4)
+pt/nt/43/nt_4321   0   6    [WORD]     .            *            -    -   -    John  *         *           *        -
+pt/nt/43/nt_4321   0   7    [WORD]    ''            *))          -    -   -    John  *         *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    NNP   (TOP(S(NP*)          -    -   -    John  *    (ARG0*)         (4)
+pt/nt/43/nt_4321   0    1    [WORD]    VBD         (VP*          say  01   -    John  *       (V*)          -
+pt/nt/43/nt_4321   0    2    [WORD]     IN         (PP*           -    -   -    John  *    (ARG2*           -
+pt/nt/43/nt_4321   0    3    [WORD]    PRP         (NP*))         -    -   -    John  *         *)        (11)
+pt/nt/43/nt_4321   0    4    [WORD]      ,            *           -    -   -    John  *         *           -
+pt/nt/43/nt_4321   0    5    [WORD]     ``          (S*           -    -   -    John  *    (ARG1*           -
+pt/nt/43/nt_4321   0    6    [WORD]     VB         (VP*           -    -   -    John  *         *           -
+pt/nt/43/nt_4321   0    7    [WORD]     NN         (NP*)          -    -   -    John  *         *           -
+pt/nt/43/nt_4321   0    8    [WORD]     IN         (PP*           -    -   -    John  *         *           -
+pt/nt/43/nt_4321   0    9    [WORD]   PRP$         (NP*           -    -   -    John  *         *      (18|(4)
+pt/nt/43/nt_4321   0   10    [WORD]    NNS            *)))))      -    -   -    John  *         *)         18)
+pt/nt/43/nt_4321   0   11    [WORD]      .            *))         -    -   -    John  *         *           -
+
+pt/nt/43/nt_4321   0    0    [WORD]     DT        (TOP(S(NP*              -    -   -    John  *    (ARG1*               *               *               *           *           -
+pt/nt/43/nt_4321   0    1    [WORD]     NN                 *)             -    -   -    John  *         *)              *               *               *           *           -
+pt/nt/43/nt_4321   0    2    [WORD]    VBZ              (VP*              be  01   -    John  *       (V*)              *               *               *           *           -
+pt/nt/43/nt_4321   0    3    [WORD]      ,                 *              -    -   -    John  *         *               *               *               *           *           -
+pt/nt/43/nt_4321   0    4    [WORD]    WRB   (S(SBAR(WHADVP*)             -    -   -    John  *    (ARG2*      (ARGM-TMP*)     (ARGM-TMP*      (ARGM-TMP*           *           -
+pt/nt/43/nt_4321   0    5    [WORD]    PRP            (S(NP*)             -    -   -    John  *         *          (ARG1*)              *               *           *         (11)
+pt/nt/43/nt_4321   0    6    [WORD]    VBD              (VP*              be  01   -    John  *         *             (V*)              *               *           *           -
+pt/nt/43/nt_4321   0    7    [WORD]     JJ            (ADJP*))))          -    -   -    John  *         *          (ARG2*)              *)              *)          *           -
+pt/nt/43/nt_4321   0    8    [WORD]      ,                 *              -    -   -    John  *         *               *               *               *           *           -
+pt/nt/43/nt_4321   0    9    [WORD]    PRP              (NP*)             -    -   -    John  *         *               *          (ARG0*)         (ARG0*)          *         (11)
+pt/nt/43/nt_4321   0   10    [WORD]    VBD           (VP(VP*             tie  01   -    John  *         *               *             (V*)              *           *           -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP$              (NP*              -    -   -    John  *         *               *          (ARG1*               *           *      (2|(11)
+pt/nt/43/nt_4321   0   12    [WORD]     JJ                 *              -    -   -    John  *         *               *               *               *           *           -
+pt/nt/43/nt_4321   0   13    [WORD]     NN                 *))            -    -   -    John  *         *               *               *)              *           *           2)
+pt/nt/43/nt_4321   0   14    [WORD]     CC                 *              -    -   -    John  *         *               *               *               *           *           -
+pt/nt/43/nt_4321   0   15    [WORD]    VBD              (VP*              go  02   -    John  *         *               *               *             (V*)          *           -
+pt/nt/43/nt_4321   0   16    [WORD]    WRB     (SBAR(WHADVP*)             -    -   -    John  *         *               *               *          (ARG4*      (ARG1*)          -
+pt/nt/43/nt_4321   0   17    [WORD]    PRP            (S(NP*)             -    -   -    John  *         *               *               *               *      (ARG0*)        (11)
+pt/nt/43/nt_4321   0   18    [WORD]    VBD              (VP*)))))))     want  01   -    John  *         *)              *               *               *)        (V*)          -
+pt/nt/43/nt_4321   0   19    [WORD]      .                 *))            -    -   -    John  *         *               *               *               *           *           -
+
+pt/nt/43/nt_4321   0    0    [WORD]     CC         (TOP(S*          -    -   -    John  *             *               *               *           -
+pt/nt/43/nt_4321   0    1    [WORD]    WRB   (SBAR(WHADVP*)         -    -   -    John  *    (ARGM-TMP*)              *               *           -
+pt/nt/43/nt_4321   0    2    [WORD]    PRP          (S(NP*)         -    -   -    John  *        (ARG1*)              *               *         (11)
+pt/nt/43/nt_4321   0    3    [WORD]    VBP            (VP*          be  01   -    John  *           (V*)              *               *           -
+pt/nt/43/nt_4321   0    4    [WORD]     JJ          (ADJP*))))      -    -   -    John  *        (ARG2*)              *               *           -
+pt/nt/43/nt_4321   0    5    [WORD]      ,               *          -    -   -    John  *             *               *               *           -
+pt/nt/43/nt_4321   0    6    [WORD]    PRP          (S(NP*)         -    -   -    John  *             *          (ARG0*)              *         (11)
+pt/nt/43/nt_4321   0    7    [WORD]     MD            (VP*          -    -   -    John  *             *      (ARGM-MOD*)              *           -
+pt/nt/43/nt_4321   0    8    [WORD]     VB            (VP*         put  01   -    John  *             *             (V*)              *           -
+pt/nt/43/nt_4321   0    9    [WORD]     RP           (PRT*)         -    -   -    John  *             *          (ARG2*)              *           -
+pt/nt/43/nt_4321   0   10    [WORD]   PRP$            (NP*          -    -   -    John  *             *          (ARG1*               *         (11)
+pt/nt/43/nt_4321   0   11    [WORD]    NNS               *))))      -    -   -    John  *             *               *)              *           -
+pt/nt/43/nt_4321   0   12    [WORD]      ,               *          -    -   -    John  *             *               *               *           -
+pt/nt/43/nt_4321   0   13    [WORD]     CC               *          -    -   -    John  *             *               *               *           -
+pt/nt/43/nt_4321   0   14    [WORD]     NN          (S(NP*          -    -   -    John  *             *               *          (ARG0*          (0
+pt/nt/43/nt_4321   0   15    [WORD]     RB               *)         -    -   -    John  *             *               *               *)          0)
+pt/nt/43/nt_4321   0   16    [WORD]     MD            (VP*          -    -   -    John  *             *               *      (ARGM-MOD*)          -
+pt/nt/43/nt_4321   0   17    [WORD]     VB            (VP*         tie  01   -    John  *             *               *             (V*)          -
+pt/nt/43/nt_4321   0   18    [WORD]   PRP$            (NP*          -    -   -    John  *             *               *          (ARG1*      (2|(11)
+pt/nt/43/nt_4321   0   19    [WORD]     NN               *))))      -    -   -    John  *             *               *               *)          2)
+pt/nt/43/nt_4321   0   20    [WORD]      .               *))        -    -   -    John  *             *               *               *           -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP      (TOP(S(NP*)               -    -   -    John  *        (ARG0*)              *           *       (0)
+pt/nt/43/nt_4321   0    1    [WORD]    MD            (VP*                -    -   -    John  *    (ARGM-MOD*)              *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]    VB            (VP*              lead  01   -    John  *           (V*)              *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]   PRP            (NP*)               -    -   -    John  *        (ARG1*)              *           *      (11)
+pt/nt/43/nt_4321   0    4    [WORD]   WRB   (SBAR(WHADVP*)               -    -   -    John  *        (ARG4*               *      (ARG4*)       -
+pt/nt/43/nt_4321   0    5    [WORD]   PRP          (S(NP*)               -    -   -    John  *             *          (ARG0*)     (ARG0*)     (11)
+pt/nt/43/nt_4321   0    6    [WORD]   VBP            (VP*                -    -   -    John  *             *               *           *        -
+pt/nt/43/nt_4321   0    7    [WORD]    RB               *                -    -   -    John  *             *      (ARGM-NEG*)          *        -
+pt/nt/43/nt_4321   0    8    [WORD]    VB            (VP*              want  01   -    John  *             *             (V*)          *        -
+pt/nt/43/nt_4321   0    9    [WORD]    TO          (S(VP*                -    -   -    John  *             *          (ARG1*           *        -
+pt/nt/43/nt_4321   0   10    [WORD]    VB            (VP*)))))))))       go  02   -    John  *             *)              *)        (V*)       -
+pt/nt/43/nt_4321   0   11    [WORD]     .               *                -    -   -    John  *             *               *           *        -
+pt/nt/43/nt_4321   0   12    [WORD]    ''               *))              -    -   -    John  *             *               *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]  -LRB-          (TOP(S*                     -    -   -    John  *             *           *               *           *        -
+pt/nt/43/nt_4321   0    1    [WORD]     NNP          (S(NP*)                    -    -   -    John  *        (ARG0*)     (ARG0*)              *           *       (4)
+pt/nt/43/nt_4321   0    2    [WORD]     VBD            (VP*                    say  01   -    John  *           (V*)          *               *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]      DT            (NP*)                    -    -   -    John  *        (ARG1*)          *               *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]      TO          (S(VP*                     -    -   -    John  *    (ARGM-PRP*           *               *           *        -
+pt/nt/43/nt_4321   0    5    [WORD]      VB            (VP*                   show  01   -    John  *             *         (V*)              *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]     WRB   (SBAR(WHADVP*)                    -    -   -    John  *             *      (ARG1*      (ARGM-MNR*)          *        -
+pt/nt/43/nt_4321   0    7    [WORD]     NNP          (S(NP*)                    -    -   -    John  *             *           *          (ARG1*)     (ARG0*)     (11)
+pt/nt/43/nt_4321   0    8    [WORD]      MD            (VP*                     -    -   -    John  *             *           *      (ARGM-MOD*)          *        -
+pt/nt/43/nt_4321   0    9    [WORD]      VB            (VP*                    die  01   -    John  *             *           *             (V*)          *        -
+pt/nt/43/nt_4321   0   10    [WORD]      TO          (S(VP*                     -    -   -    John  *             *           *      (ARGM-PRP*           *        -
+pt/nt/43/nt_4321   0   11    [WORD]      VB            (VP*                   give  01   -    John  *             *           *               *         (V*)       -
+pt/nt/43/nt_4321   0   12    [WORD]      NN            (NP*)                    -    -   -    John  *             *           *               *      (ARG1*)       -
+pt/nt/43/nt_4321   0   13    [WORD]      IN            (PP*                     -    -   -    John  *             *           *               *      (ARG2*        -
+pt/nt/43/nt_4321   0   14    [WORD]     NNP            (NP*))))))))))))))       -    -   -    John  *             *)          *)              *)          *)       -
+pt/nt/43/nt_4321   0   15    [WORD]       .               *                     -    -   -    John  *             *           *               *           *        -
+pt/nt/43/nt_4321   0   16    [WORD]  -RRB-                *))                   -    -   -    John  *             *           *               *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    RB   (TOP(S(ADVP*)            -    -   -    John  *    (ARGM-TMP*)          *        -
+pt/nt/43/nt_4321   0    1    [WORD]   PRP           (NP*)            -    -   -    John  *        (ARG0*)          *       (4)
+pt/nt/43/nt_4321   0    2    [WORD]   VBD           (VP*            say  01   -    John  *           (V*)          *        -
+pt/nt/43/nt_4321   0    3    [WORD]    IN           (PP*             -    -   -    John  *        (ARG2*           *        -
+pt/nt/43/nt_4321   0    4    [WORD]   NNP           (NP*))           -    -   -    John  *             *)          *      (11)
+pt/nt/43/nt_4321   0    5    [WORD]     ,              *             -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]    ``            (S*             -    -   -    John  *        (ARG1*           *        -
+pt/nt/43/nt_4321   0    7    [WORD]    VB           (VP*         follow  01   -    John  *             *         (V*)       -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP           (NP*))))         -    -   -    John  *             *)     (ARG2*)      (4)
+pt/nt/43/nt_4321   0    9    [WORD]     .              *             -    -   -    John  *             *           *        -
+pt/nt/43/nt_4321   0   10    [WORD]    ''              *))           -    -   -    John  *             *           *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP    (TOP(S(NP*)            -    -   -    John  *    (ARG1*)     (ARG0*)              *               *      (11)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD       (VP(VP*)          turn  01   -    John  *       (V*)          *               *               *        -
+pt/nt/43/nt_4321   0    2    [WORD]    CC             *             -    -   -    John  *         *           *               *               *        -
+pt/nt/43/nt_4321   0    3    [WORD]   VBD          (VP*            see  01   -    John  *         *         (V*)              *               *        -
+pt/nt/43/nt_4321   0    4    [WORD]    DT     (S(NP(NP*             -    -   -    John  *         *      (ARG1*          (ARG1*          (ARG0*      (15
+pt/nt/43/nt_4321   0    5    [WORD]    NN             *)            -    -   -    John  *         *           *               *)              *        -
+pt/nt/43/nt_4321   0    6    [WORD]   NNP   (SBAR(S(NP*)            -    -   -    John  *         *           *          (ARG0*)              *       (4)
+pt/nt/43/nt_4321   0    7    [WORD]   VBD          (VP*           love  01   -    John  *         *           *             (V*)              *        -
+pt/nt/43/nt_4321   0    8    [WORD]    RB        (ADVP*             -    -   -    John  *         *           *      (ARGM-EXT*               *        -
+pt/nt/43/nt_4321   0    9    [WORD]    RB             *)))))        -    -   -    John  *         *           *               *)              *)      15)
+pt/nt/43/nt_4321   0   10    [WORD]   VBG          (VP*           walk  01   -    John  *         *           *               *             (V*)       -
+pt/nt/43/nt_4321   0   11    [WORD]    IN          (PP*             -    -   -    John  *         *           *               *      (ARGM-LOC*        -
+pt/nt/43/nt_4321   0   12    [WORD]   PRP          (NP*))))))       -    -   -    John  *         *           *)              *               *)     (21)
+pt/nt/43/nt_4321   0   13    [WORD]     .             *))           -    -   -    John  *         *           *               *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]  -LRB-        (TOP(S*                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0    1    [WORD]      DT          (NP*)                    -    -   -    John  *    (ARG1*)              *             *               *               *       -
+pt/nt/43/nt_4321   0    2    [WORD]     VBD          (VP*                     be  01   -    John  *       (V*)              *             *               *               *       -
+pt/nt/43/nt_4321   0    3    [WORD]      DT       (NP(NP*                     -    -   -    John  *    (ARG2*          (ARG0*        (ARG0*               *               *     (15
+pt/nt/43/nt_4321   0    4    [WORD]      NN             *)                    -    -   -    John  *         *               *)            *)              *               *       -
+pt/nt/43/nt_4321   0    5    [WORD]      WP   (SBAR(WHNP*)                    -    -   -    John  *         *        (R-ARG0*)     (R-ARG0*)              *               *       -
+pt/nt/43/nt_4321   0    6    [WORD]     VBD        (S(VP*                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0    7    [WORD]     VBN       (VP(VP*                   lean  01   -    John  *         *             (V*)            *               *               *       -
+pt/nt/43/nt_4321   0    8    [WORD]      IN          (PP*                     -    -   -    John  *         *          (ARG2*             *               *               *       -
+pt/nt/43/nt_4321   0    9    [WORD]     NNP          (NP*))                   -    -   -    John  *         *               *)            *               *               *      (4)
+pt/nt/43/nt_4321   0   10    [WORD]      IN          (PP*                     -    -   -    John  *         *      (ARGM-TMP*             *               *               *       -
+pt/nt/43/nt_4321   0   11    [WORD]      DT          (NP*                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   12    [WORD]      NN             *)))                  -    -   -    John  *         *               *)            *               *               *       -
+pt/nt/43/nt_4321   0   13    [WORD]      CC             *                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   14    [WORD]     VBN          (VP*                    say  01   -    John  *         *               *           (V*)              *               *       -
+pt/nt/43/nt_4321   0   15    [WORD]       ,             *                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   16    [WORD]      ``             *                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   17    [WORD]     NNP    (SBARQ(NP*)                    -    -   -    John  *         *               *        (ARG1*               *               *      (4)
+pt/nt/43/nt_4321   0   18    [WORD]       ,             *                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   19    [WORD]      WP        (WHNP*)                    -    -   -    John  *         *               *             *          (ARG2*)              *       -
+pt/nt/43/nt_4321   0   20    [WORD]     VBZ          (SQ*                     be  01   -    John  *         *               *             *             (V*)              *       -
+pt/nt/43/nt_4321   0   21    [WORD]     PRP          (NP*)                    -    -   -    John  *         *               *             *          (ARG1*)              *       -
+pt/nt/43/nt_4321   0   22    [WORD]     WDT   (SBAR(WHNP*)                    -    -   -    John  *         *               *             *      (ARGM-PRD*          (ARG0*)      -
+pt/nt/43/nt_4321   0   23    [WORD]      MD        (S(VP*                     -    -   -    John  *         *               *             *               *      (ARGM-MOD*)      -
+pt/nt/43/nt_4321   0   24    [WORD]      VB          (VP*                   hand  02   -    John  *         *               *             *               *             (V*)      -
+pt/nt/43/nt_4321   0   25    [WORD]     PRP          (NP*)                    -    -   -    John  *         *               *             *               *          (ARG1*)     (4)
+pt/nt/43/nt_4321   0   26    [WORD]      RP         (PRT*))))))))))))))       -    -   -    John  *         *)              *             *)              *)              *      15)
+pt/nt/43/nt_4321   0   27    [WORD]       .             *                     -    -   -    John  *         *               *             *               *               *       -
+pt/nt/43/nt_4321   0   28    [WORD]      ''             *))                   -    -   -    John  *         *               *             *               *               *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]  -RRB-        (TOP(S(X*)           -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0    1    [WORD]     WRB   (SBAR(WHADVP*)           -    -   -    John  *    (ARGM-TMP*)     (ARGM-TMP*        -
+pt/nt/43/nt_4321   0    2    [WORD]     NNP          (S(NP*)           -    -   -    John  *        (ARG0*)              *      (11)
+pt/nt/43/nt_4321   0    3    [WORD]     VBD            (VP*           see  01   -    John  *           (V*)              *        -
+pt/nt/43/nt_4321   0    4    [WORD]     PRP          (S(NP*)           -    -   -    John  *        (ARG1*               *      (15)
+pt/nt/43/nt_4321   0    5    [WORD]      IN            (PP*            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0    6    [WORD]     PRP            (NP*))))))      -    -   -    John  *             *)              *)     (21)
+pt/nt/43/nt_4321   0    7    [WORD]       ,               *            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0    8    [WORD]     PRP            (NP*)           -    -   -    John  *             *          (ARG0*)     (11)
+pt/nt/43/nt_4321   0    9    [WORD]     VBD            (VP*           ask  01   -    John  *             *             (V*)       -
+pt/nt/43/nt_4321   0   10    [WORD]     NNP            (NP*)           -    -   -    John  *             *          (ARG2*)      (4)
+pt/nt/43/nt_4321   0   11    [WORD]       ,               *            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   12    [WORD]      ``               *            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   13    [WORD]     NNP       (FRAG(NP*)           -    -   -    John  *             *          (ARG1*       (4)
+pt/nt/43/nt_4321   0   14    [WORD]       ,               *            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   15    [WORD]     WDT          (WHNP*)           -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   16    [WORD]      IN            (PP*            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   17    [WORD]     PRP            (NP*))))        -    -   -    John  *             *               *)     (15)
+pt/nt/43/nt_4321   0   18    [WORD]       .               *            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   19    [WORD]      ''               *))          -    -   -    John  *             *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   NNP   (TOP(S(NP*)                 -    -   -    John  *    (ARG0*)              *               *           *       (4)
+pt/nt/43/nt_4321   0    1    [WORD]   VBD         (VP*              answer  01   -    John  *       (V*)              *               *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]     ,            *                  -    -   -    John  *         *               *               *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]    ``            *                  -    -   -    John  *         *               *               *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    RB     (S(ADVP*)                 -    -   -    John  *    (ARG2*      (ARGM-ADV*)              *           *        -
+pt/nt/43/nt_4321   0    5    [WORD]   PRP         (NP*)                 -    -   -    John  *         *          (ARG0*)              *           *       (4)
+pt/nt/43/nt_4321   0    6    [WORD]   VBP         (VP*                want  01   -    John  *         *             (V*)              *           *        -
+pt/nt/43/nt_4321   0    7    [WORD]   PRP       (S(NP*)                 -    -   -    John  *         *          (ARG1*          (ARG0*)          *      (15)
+pt/nt/43/nt_4321   0    8    [WORD]    TO         (VP*                  -    -   -    John  *         *               *               *           *        -
+pt/nt/43/nt_4321   0    9    [WORD]    VB         (VP*                live  01   -    John  *         *               *             (V*)          *        -
+pt/nt/43/nt_4321   0   10    [WORD]    IN       (SBAR*                  -    -   -    John  *         *               *      (ARGM-TMP*           *        -
+pt/nt/43/nt_4321   0   11    [WORD]   PRP       (S(NP*)                 -    -   -    John  *         *               *               *      (ARG1*)      (4)
+pt/nt/43/nt_4321   0   12    [WORD]   VBP         (VP*)))))))))       come  01   -    John  *         *)              *)              *)        (V*)       -
+pt/nt/43/nt_4321   0   13    [WORD]     .            *))                -    -   -    John  *         *               *               *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    DT   (TOP(S(NP*)            -    -   -    John  *        (ARG1*)       -
+pt/nt/43/nt_4321   0   1    [WORD]    MD         (VP*             -    -   -    John  *    (ARGM-MOD*)       -
+pt/nt/43/nt_4321   0   2    [WORD]    RB            *             -    -   -    John  *    (ARGM-NEG*)       -
+pt/nt/43/nt_4321   0   3    [WORD]    VB         (VP*         matter  01   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   4    [WORD]    IN         (PP*             -    -   -    John  *        (ARG2*        -
+pt/nt/43/nt_4321   0   5    [WORD]   PRP         (NP*))))         -    -   -    John  *             *)     (11)
+pt/nt/43/nt_4321   0   6    [WORD]     .            *))           -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)          -    -   -    John  *    (ARG0*)     (11)
+pt/nt/43/nt_4321   0   1    [WORD]   VBP         (VP*       follow  02   -    John  *       (V*)       -
+pt/nt/43/nt_4321   0   2    [WORD]   PRP         (NP*))         -    -   -    John  *    (ARG1*)      (4)
+pt/nt/43/nt_4321   0   3    [WORD]     .            *           -    -   -    John  *         *        -
+pt/nt/43/nt_4321   0   4    [WORD]    ''            *))         -    -   -    John  *         *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    RB   (TOP(S(ADVP*)             -    -   -    John  *    (ARGM-DIS*)         -
+pt/nt/43/nt_4321   0   1    [WORD]    DT           (NP*              -    -   -    John  *        (ARG1*          -
+pt/nt/43/nt_4321   0   2    [WORD]    NN              *)             -    -   -    John  *             *)         -
+pt/nt/43/nt_4321   0   3    [WORD]   VBD           (VP*          spread  02   -    John  *           (V*)         -
+pt/nt/43/nt_4321   0   4    [WORD]    IN           (PP*              -    -   -    John  *    (ARGM-LOC*          -
+pt/nt/43/nt_4321   0   5    [WORD]    DT        (NP(NP*              -    -   -    John  *             *         (7
+pt/nt/43/nt_4321   0   6    [WORD]   NNS              *)             -    -   -    John  *             *          -
+pt/nt/43/nt_4321   0   7    [WORD]    IN           (PP*              -    -   -    John  *             *          -
+pt/nt/43/nt_4321   0   8    [WORD]   NNP           (NP*)))))         -    -   -    John  *             *)     (4)|7)
+pt/nt/43/nt_4321   0   9    [WORD]     .              *))            -    -   -    John  *             *          -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP   (TOP(S(NP*)           -    -   -    John  *    (ARG0*)              *      (7)
+pt/nt/43/nt_4321   0   1    [WORD]   VBD         (VP*            -    -   -    John  *         *               *       -
+pt/nt/43/nt_4321   0   2    [WORD]   VBG         (VP*           say  01   -    John  *       (V*)              *       -
+pt/nt/43/nt_4321   0   3    [WORD]    IN       (SBAR*            -    -   -    John  *    (ARG1*               *       -
+pt/nt/43/nt_4321   0   4    [WORD]    DT       (S(NP*            -    -   -    John  *         *          (ARG1*     (15
+pt/nt/43/nt_4321   0   5    [WORD]    NN            *)           -    -   -    John  *         *               *)     15)
+pt/nt/43/nt_4321   0   6    [WORD]    MD         (VP*            -    -   -    John  *         *      (ARGM-MOD*)      -
+pt/nt/43/nt_4321   0   7    [WORD]    RB            *            -    -   -    John  *         *      (ARGM-NEG*)      -
+pt/nt/43/nt_4321   0   8    [WORD]    VB         (VP*))))))     die  01   -    John  *         *)            (V*)      -
+pt/nt/43/nt_4321   0   9    [WORD]     .            *))          -    -   -    John  *         *               *       -
+
+pt/nt/43/nt_4321   0   0    [WORD]    CC       (TOP(S*            -    -   -    John  *    (ARGM-DIS*)              *        -
+pt/nt/43/nt_4321   0   1    [WORD]   NNP          (NP*)           -    -   -    John  *        (ARG0*)              *       (4)
+pt/nt/43/nt_4321   0   2    [WORD]   VBD          (VP*            -    -   -    John  *             *               *        -
+pt/nt/43/nt_4321   0   3    [WORD]    RB             *            -    -   -    John  *    (ARGM-NEG*)              *        -
+pt/nt/43/nt_4321   0   4    [WORD]    VB          (VP*           say  01   -    John  *           (V*)              *        -
+pt/nt/43/nt_4321   0   5    [WORD]   PRP   (SBAR(S(NP*)           -    -   -    John  *        (ARG1*          (ARG1*)     (15)
+pt/nt/43/nt_4321   0   6    [WORD]    MD          (VP*            -    -   -    John  *             *      (ARGM-MOD*)       -
+pt/nt/43/nt_4321   0   7    [WORD]    RB             *            -    -   -    John  *             *      (ARGM-NEG*)       -
+pt/nt/43/nt_4321   0   8    [WORD]    VB          (VP*))))))     die  01   -    John  *             *)            (V*)       -
+pt/nt/43/nt_4321   0   9    [WORD]     .             *))          -    -   -    John  *             *               *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP   (TOP(S(NP*)               -    -   -    John  *        (ARG0*)              *               *           *       (4)
+pt/nt/43/nt_4321   0    1    [WORD]    RB       (ADVP*)               -    -   -    John  *    (ARGM-ADV*)              *               *           *        -
+pt/nt/43/nt_4321   0    2    [WORD]   VBD         (VP*               say  01   -    John  *           (V*)              *               *           *        -
+pt/nt/43/nt_4321   0    3    [WORD]     ,            *                -    -   -    John  *             *               *               *           *        -
+pt/nt/43/nt_4321   0    4    [WORD]    ``            *                -    -   -    John  *             *               *               *           *        -
+pt/nt/43/nt_4321   0    5    [WORD]    RB     (S(ADVP*)               -    -   -    John  *        (ARG1*      (ARGM-ADV*)              *           *        -
+pt/nt/43/nt_4321   0    6    [WORD]   PRP         (NP*)               -    -   -    John  *             *          (ARG0*)              *           *       (4)
+pt/nt/43/nt_4321   0    7    [WORD]   VBP         (VP*              want  01   -    John  *             *             (V*)              *           *        -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP       (S(NP*)               -    -   -    John  *             *          (ARG1*          (ARG0*)          *      (15)
+pt/nt/43/nt_4321   0    9    [WORD]    TO         (VP*                -    -   -    John  *             *               *               *           *        -
+pt/nt/43/nt_4321   0   10    [WORD]    VB         (VP*              live  01   -    John  *             *               *             (V*)          *        -
+pt/nt/43/nt_4321   0   11    [WORD]    IN       (SBAR*                -    -   -    John  *             *               *      (ARGM-TMP*           *        -
+pt/nt/43/nt_4321   0   12    [WORD]   PRP       (S(NP*)               -    -   -    John  *             *               *               *      (ARG1*)      (4)
+pt/nt/43/nt_4321   0   13    [WORD]   VBP         (VP*)))))))))     come  01   -    John  *             *)              *)              *)        (V*)       -
+pt/nt/43/nt_4321   0   14    [WORD]     .            *))              -    -   -    John  *             *               *               *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    DT   (TOP(S(NP*)            -    -   -    John  *        (ARG1*)       -
+pt/nt/43/nt_4321   0   1    [WORD]    MD         (VP*             -    -   -    John  *    (ARGM-MOD*)       -
+pt/nt/43/nt_4321   0   2    [WORD]    RB            *             -    -   -    John  *    (ARGM-NEG*)       -
+pt/nt/43/nt_4321   0   3    [WORD]    VB         (VP*         matter  01   -    John  *           (V*)       -
+pt/nt/43/nt_4321   0   4    [WORD]    IN         (PP*             -    -   -    John  *        (ARG2*        -
+pt/nt/43/nt_4321   0   5    [WORD]   PRP         (NP*))))         -    -   -    John  *             *)     (11)
+pt/nt/43/nt_4321   0   6    [WORD]     .            *             -    -   -    John  *             *        -
+pt/nt/43/nt_4321   0   7    [WORD]    ''            *))           -    -   -    John  *             *        -
+
+pt/nt/43/nt_4321   0    0    [WORD]    DT    (TOP(S(NP*              -    -   -    John  *    (ARG1*             *        (15
+pt/nt/43/nt_4321   0    1    [WORD]    NN             *)             -    -   -    John  *         *)            *         15)
+pt/nt/43/nt_4321   0    2    [WORD]   VBZ          (VP*              be  01   -    John  *       (V*)            *          -
+pt/nt/43/nt_4321   0    3    [WORD]    DT       (NP(NP*              -    -   -    John  *    (ARG2*        (ARG0*        (16
+pt/nt/43/nt_4321   0    4    [WORD]    CD             *)             -    -   -    John  *         *             *)         -
+pt/nt/43/nt_4321   0    5    [WORD]    WP   (SBAR(WHNP*)             -    -   -    John  *         *      (R-ARG0*)         -
+pt/nt/43/nt_4321   0    6    [WORD]   VBZ        (S(VP*              -    -   -    John  *         *             *          -
+pt/nt/43/nt_4321   0    7    [WORD]   VBG          (VP*            tell  01   -    John  *         *           (V*)         -
+pt/nt/43/nt_4321   0    8    [WORD]    DT          (NP*              -    -   -    John  *         *        (ARG1*         (6
+pt/nt/43/nt_4321   0    9    [WORD]   NNS             *)))))))       -    -   -    John  *         *)            *)     16)|6)
+pt/nt/43/nt_4321   0   10    [WORD]     .             *))            -    -   -    John  *         *             *          -
+
+pt/nt/43/nt_4321   0    0    [WORD]   PRP    (TOP(S(NP*)              -    -   -    John  *    (ARG1*)              *        (15)
+pt/nt/43/nt_4321   0    1    [WORD]   VBZ          (VP*               be  01   -    John  *       (V*)              *          -
+pt/nt/43/nt_4321   0    2    [WORD]    DT       (NP(NP*               -    -   -    John  *    (ARG2*          (ARG0*        (16
+pt/nt/43/nt_4321   0    3    [WORD]    CD             *)              -    -   -    John  *         *               *)         -
+pt/nt/43/nt_4321   0    4    [WORD]    WP   (SBAR(WHNP*)              -    -   -    John  *         *        (R-ARG0*)         -
+pt/nt/43/nt_4321   0    5    [WORD]   VBZ        (S(VP*               -    -   -    John  *         *               *          -
+pt/nt/43/nt_4321   0    6    [WORD]    RB        (ADVP*)              -    -   -    John  *         *      (ARGM-TMP*)         -
+pt/nt/43/nt_4321   0    7    [WORD]   VBN          (VP*            write  03   -    John  *         *             (V*)         -
+pt/nt/43/nt_4321   0    8    [WORD]   PRP       (NP(NP*)              -    -   -    John  *         *          (ARG1*         (6
+pt/nt/43/nt_4321   0    9    [WORD]    DT          (NP*))             -    -   -    John  *         *               *)     (6)|6)
+pt/nt/43/nt_4321   0   10    [WORD]    RP         (PRT*)))))))        -    -   -    John  *         *)              *         16)
+pt/nt/43/nt_4321   0   11    [WORD]     .             *))             -    -   -    John  *         *               *          -
+
+pt/nt/43/nt_4321   0   0    [WORD]   PRP      (TOP(S(NP*)           -    -   -    John  *    (ARG0*)          *           *        -
+pt/nt/43/nt_4321   0   1    [WORD]   VBP            (VP*          know  01   -    John  *       (V*)          *           *        -
+pt/nt/43/nt_4321   0   2    [WORD]    IN          (SBAR*            -    -   -    John  *    (ARG1*           *           *        -
+pt/nt/43/nt_4321   0   3    [WORD]    WP   (S(SBAR(WHNP*)           -    -   -    John  *         *      (ARG1*)     (ARG1*        -
+pt/nt/43/nt_4321   0   4    [WORD]   PRP          (S(NP*)           -    -   -    John  *         *      (ARG0*)          *      (15)
+pt/nt/43/nt_4321   0   5    [WORD]   VBZ            (VP*)))        say  01   -    John  *         *         (V*)          *)       -
+pt/nt/43/nt_4321   0   6    [WORD]   VBZ            (VP*            be  01   -    John  *         *           *         (V*)       -
+pt/nt/43/nt_4321   0   7    [WORD]    JJ          (ADJP*)))))       -    -   -    John  *         *)          *      (ARG2*)       -
+pt/nt/43/nt_4321   0   8    [WORD]     .               *))          -    -   -    John  *         *           *           *        -
+
+pt/nt/43/nt_4321   0   0    [WORD]    EX    (TOP(S(NP*)         -    -   -    John  *         *             *       -
+pt/nt/43/nt_4321   0   1    [WORD]   VBP          (VP*          be  02   -    John  *       (V*)            *       -
+pt/nt/43/nt_4321   0   2    [WORD]    JJ       (NP(NP*          -    -   -    John  *    (ARG1*        (ARG1*     (14
+pt/nt/43/nt_4321   0   3    [WORD]    JJ             *          -    -   -    John  *         *             *       -
+pt/nt/43/nt_4321   0   4    [WORD]   NNS             *)         -    -   -    John  *         *             *)      -
+pt/nt/43/nt_4321   0   5    [WORD]   WDT   (SBAR(WHNP*)         -    -   -    John  *         *      (R-ARG1*)      -
+pt/nt/43/nt_4321   0   6    [WORD]   NNP        (S(NP*)         -    -   -    John  *         *        (ARG0*)     (4)
+pt/nt/43/nt_4321   0   7    [WORD]   VBD          (VP*)))))     do  02   -    John  *         *)          (V*)     14)
+pt/nt/43/nt_4321   0   8    [WORD]     .             *))        -    -   -    John  *         *             *       -
+
+pt/nt/43/nt_4321   0    0    [WORD]    IN   (TOP(S(SBAR*                    -    -   -    John  *         *      (ARGM-ADV*               *               *            -
+pt/nt/43/nt_4321   0    1    [WORD]    DT      (S(NP(NP*                    -    -   -    John  *    (ARG1*               *               *               *          (14
+pt/nt/43/nt_4321   0    2    [WORD]    CD              *)                   -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0    3    [WORD]    IN           (PP*                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0    4    [WORD]   PRP           (NP*)))                 -    -   -    John  *         *)              *               *               *      (14)|14)
+pt/nt/43/nt_4321   0    5    [WORD]   VBD           (VP*                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0    6    [WORD]   VBN           (VP*                 write  03   -    John  *       (V*)              *               *               *            -
+pt/nt/43/nt_4321   0    7    [WORD]    RP          (PRT*)))))               -    -   -    John  *         *               *)              *               *            -
+pt/nt/43/nt_4321   0    8    [WORD]     ,              *                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0    9    [WORD]   PRP           (NP*)                   -    -   -    John  *         *          (ARG0*)              *               *          (15)
+pt/nt/43/nt_4321   0   10    [WORD]   VBP           (VP*                 think  01   -    John  *         *             (V*)              *               *            -
+pt/nt/43/nt_4321   0   11    [WORD]    DT    (SBAR(S(NP*                    -    -   -    John  *         *          (ARG1*          (ARG1*               *            -
+pt/nt/43/nt_4321   0   12    [WORD]    JJ              *                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0   13    [WORD]    NN              *)                   -    -   -    John  *         *               *               *)              *            -
+pt/nt/43/nt_4321   0   14    [WORD]    MD           (VP*                    -    -   -    John  *         *               *      (ARGM-MOD*)              *            -
+pt/nt/43/nt_4321   0   15    [WORD]    RB              *                    -    -   -    John  *         *               *      (ARGM-NEG*)              *            -
+pt/nt/43/nt_4321   0   16    [WORD]    VB           (VP*                    be  01   -    John  *         *               *             (V*)              *            -
+pt/nt/43/nt_4321   0   17    [WORD]    JJ         (ADJP*                    -    -   -    John  *         *               *          (ARG2*               *            -
+pt/nt/43/nt_4321   0   18    [WORD]    RB              *)                   -    -   -    John  *         *               *               *)              *            -
+pt/nt/43/nt_4321   0   19    [WORD]    IN           (PP*                    -    -   -    John  *         *               *      (ARGM-PRD*               *            -
+pt/nt/43/nt_4321   0   20    [WORD]   PDT        (NP(NP*                    -    -   -    John  *         *               *               *          (ARG1*            -
+pt/nt/43/nt_4321   0   21    [WORD]    DT              *                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0   22    [WORD]   NNS              *)                   -    -   -    John  *         *               *               *               *)           -
+pt/nt/43/nt_4321   0   23    [WORD]   WDT    (SBAR(WHNP*)                   -    -   -    John  *         *               *               *        (R-ARG1*)           -
+pt/nt/43/nt_4321   0   24    [WORD]    MD         (S(VP*                    -    -   -    John  *         *               *               *      (ARGM-MOD*)           -
+pt/nt/43/nt_4321   0   25    [WORD]    VB           (VP*                    -    -   -    John  *         *               *               *               *            -
+pt/nt/43/nt_4321   0   26    [WORD]   VBN           (VP*))))))))))))     write  01   -    John  *         *               *)              *)            (V*)           -
+pt/nt/43/nt_4321   0   27    [WORD]     .              *))                  -    -   -    John  *         *               *               *               *            -
+
+#end document
